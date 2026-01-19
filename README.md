@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-01-18 23:50:08
+更新时间：2026-01-19 23:50:09
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "轧戏", "hot_value": 1067866, "duration": 46620, "top_rank_today": 1, "fetched_at": "2026-01-18T23:50:04"}
-{"source": "weibo", "rank": 2, "title": "美国童星疑闯红灯被拖行致死", "hot_value": 782860, "duration": 7860, "top_rank_today": 2, "fetched_at": "2026-01-18T23:50:04"}
-{"source": "weibo", "rank": 3, "title": "这个全球单一国家首次说明什么", "hot_value": 627742, "duration": 10560, "top_rank_today": 3, "fetched_at": "2026-01-18T23:50:04"}
-{"source": "weibo", "rank": 4, "title": "慕容云海一张口我的青春回来了", "hot_value": 487805, "duration": 4800, "top_rank_today": 4, "fetched_at": "2026-01-18T23:50:04"}
-{"source": "weibo", "rank": 5, "title": "上海外滩女子占道直播跳舞引公愤", "hot_value": 409874, "duration": 2940, "top_rank_today": 5, "fetched_at": "2026-01-18T23:50:04"}
-{"source": "weibo", "rank": 6, "title": "梁小龙去世", "hot_value": 407748, "duration": 27840, "top_rank_today": 4, "fetched_at": "2026-01-18T23:50:04"}
-{"source": "weibo", "rank": 7, "title": "6人就餐仅花19元老板要求带走垃圾", "hot_value": 405056, "duration": 11280, "top_rank_today": 6, "fetched_at": "2026-01-18T23:50:04"}
-{"source": "weibo", "rank": 8, "title": "26岁女子两月暴瘦30斤成糖尿病前期", "hot_value": 394615, "duration": 11340, "top_rank_today": 5, "fetched_at": "2026-01-18T23:50:04"}
-{"source": "weibo", "rank": 9, "title": "香港70平米月租35000的家", "hot_value": 377589, "duration": 3180, "top_rank_today": 9, "fetched_at": "2026-01-18T23:50:04"}
-{"source": "weibo", "rank": 10, "title": "莱顿大学排名浙大超过哈佛", "hot_value": 359582, "duration": 3060, "top_rank_today": 10, "fetched_at": "2026-01-18T23:50:04"}
-{"source": "douyin", "rank": 1, "title": "大红行动选秀之夜", "hot_value": 11198407, "duration": 9720, "top_rank_today": 1, "fetched_at": "2026-01-18T23:50:06"}
-{"source": "douyin", "rank": 2, "title": "鄱阳湖鸟类之殇", "hot_value": 10903594, "duration": 7980, "top_rank_today": 2, "fetched_at": "2026-01-18T23:50:06"}
-{"source": "douyin", "rank": 3, "title": "误购火车票可限时免费退票", "hot_value": 10642818, "duration": 10800, "top_rank_today": 3, "fetched_at": "2026-01-18T23:50:06"}
-{"source": "douyin", "rank": 4, "title": "“火云邪神”梁小龙去世", "hot_value": 10576511, "duration": 28020, "top_rank_today": 2, "fetched_at": "2026-01-18T23:50:06"}
-{"source": "douyin", "rank": 5, "title": "晒出我镜头下的雪景", "hot_value": 9882741, "duration": 54720, "top_rank_today": 1, "fetched_at": "2026-01-18T23:50:06"}
-{"source": "douyin", "rank": 6, "title": "冷链运输南方小土豆", "hot_value": 9335660, "duration": 2760, "top_rank_today": 6, "fetched_at": "2026-01-18T23:50:06"}
-{"source": "douyin", "rank": 7, "title": "济南下“暴雨梨花针”了", "hot_value": 8321848, "duration": 5100, "top_rank_today": 7, "fetched_at": "2026-01-18T23:50:06"}
-{"source": "douyin", "rank": 8, "title": "我笔下的格林", "hot_value": 8032772, "duration": 120, "top_rank_today": 8, "fetched_at": "2026-01-18T23:50:06"}
-{"source": "douyin", "rank": 9, "title": "美军空袭叙利亚", "hot_value": 7826041, "duration": 2100, "top_rank_today": 6, "fetched_at": "2026-01-18T23:50:06"}
-{"source": "douyin", "rank": 10, "title": "雪后的颐和园美成一幅水墨画", "hot_value": 7823415, "duration": 44340, "top_rank_today": 2, "fetched_at": "2026-01-18T23:50:06"}
-{"source": "toutiao", "rank": 1, "title": "大范围雨雪将至 多地发布停课通知", "hot_value": 31075087, "duration": 10620, "top_rank_today": 1, "fetched_at": "2026-01-18T23:50:07"}
-{"source": "toutiao", "rank": 2, "title": "“香港四小龙”只剩两人了", "hot_value": 28117901, "duration": 16260, "top_rank_today": 2, "fetched_at": "2026-01-18T23:50:07"}
-{"source": "toutiao", "rank": 3, "title": "神二十一乘组工作周记上新", "hot_value": 25442129, "duration": 10740, "top_rank_today": 3, "fetched_at": "2026-01-18T23:50:07"}
-{"source": "toutiao", "rank": 4, "title": "印尼确认失联飞机已坠毁", "hot_value": 13962936, "duration": 22860, "top_rank_today": 4, "fetched_at": "2026-01-18T23:50:07"}
-{"source": "toutiao", "rank": 5, "title": "梁小龙抖音账号发告别信", "hot_value": 18847993, "duration": 11880, "top_rank_today": 5, "fetched_at": "2026-01-18T23:50:07"}
-{"source": "toutiao", "rank": 6, "title": "竹子穿透路灯生长 现已成网红打卡地", "hot_value": 20830253, "duration": 2520, "top_rank_today": 6, "fetched_at": "2026-01-18T23:50:07"}
-{"source": "toutiao", "rank": 7, "title": "A股哪类板块值得关注", "hot_value": 17054369, "duration": 3120, "top_rank_today": 7, "fetched_at": "2026-01-18T23:50:07"}
-{"source": "toutiao", "rank": 8, "title": "梁小龙去世前一天曾现身吃火锅", "hot_value": 23020990, "duration": 20760, "top_rank_today": 7, "fetched_at": "2026-01-18T23:50:07"}
-{"source": "toutiao", "rank": 9, "title": "睡前有这5种表现要警惕脑梗", "hot_value": 12634187, "duration": 26640, "top_rank_today": 7, "fetched_at": "2026-01-18T23:50:07"}
-{"source": "toutiao", "rank": 10, "title": "天量存款到期 储户跨行“搬家”", "hot_value": 9359636, "duration": 3900, "top_rank_today": 7, "fetched_at": "2026-01-18T23:50:07"}
-{"source": "baidu", "rank": 1, "title": "村庄免费年猪宴每天400桌 有人5点来", "hot_value": 7808325, "duration": 33240, "top_rank_today": 1, "fetched_at": "2026-01-18T23:50:08"}
-{"source": "baidu", "rank": 2, "title": "梁小龙账号发告别信：原谅我不辞而别", "hot_value": 7714039, "duration": 11880, "top_rank_today": 2, "fetched_at": "2026-01-18T23:50:08"}
-{"source": "baidu", "rank": 3, "title": "中国汽车业拿下两个连续全球第一", "hot_value": 7616093, "duration": 10860, "top_rank_today": 3, "fetched_at": "2026-01-18T23:50:08"}
-{"source": "baidu", "rank": 4, "title": "青岛虎界“刘亦菲”小孬火出圈了", "hot_value": 7523223, "duration": 21000, "top_rank_today": 2, "fetched_at": "2026-01-18T23:50:08"}
-{"source": "baidu", "rank": 5, "title": "男子一生病就吃抗生素生出超级细菌", "hot_value": 7426515, "duration": 5760, "top_rank_today": 5, "fetched_at": "2026-01-18T23:50:08"}
-{"source": "baidu", "rank": 6, "title": "包钢厂区爆炸78名受伤人员均已送医", "hot_value": 7328265, "duration": 3420, "top_rank_today": 6, "fetched_at": "2026-01-18T23:50:08"}
-{"source": "baidu", "rank": 7, "title": "大范围雨雪来了 多地发布停课通知", "hot_value": 7232455, "duration": 9300, "top_rank_today": 5, "fetched_at": "2026-01-18T23:50:08"}
-{"source": "baidu", "rank": 8, "title": "经常吃冷米饭能降血脂降血糖吗", "hot_value": 7140500, "duration": 15060, "top_rank_today": 5, "fetched_at": "2026-01-18T23:50:08"}
-{"source": "baidu", "rank": 9, "title": "短剧淋雨婴儿片酬仅800元", "hot_value": 7040010, "duration": 7500, "top_rank_today": 9, "fetched_at": "2026-01-18T23:50:08"}
-{"source": "baidu", "rank": 10, "title": "零下47.4℃！新疆今冬最低温纪录刷新", "hot_value": 6946931, "duration": 8160, "top_rank_today": 5, "fetched_at": "2026-01-18T23:50:08"}
+{"source": "weibo", "rank": 1, "title": "警方通报中山一货车碰撞多车", "hot_value": 1189471, "duration": 1740, "top_rank_today": 1, "fetched_at": "2026-01-19T23:50:04"}
+{"source": "weibo", "rank": 2, "title": "人民日报评美国斩杀线", "hot_value": 890906, "duration": 21660, "top_rank_today": 1, "fetched_at": "2026-01-19T23:50:04"}
+{"source": "weibo", "rank": 3, "title": "中国GDP跨越140万亿元关口", "hot_value": 704258, "duration": 13080, "top_rank_today": 3, "fetched_at": "2026-01-19T23:50:04"}
+{"source": "weibo", "rank": 4, "title": "蔡徐坤印尼节目", "hot_value": 279280, "duration": 5820, "top_rank_today": 4, "fetched_at": "2026-01-19T23:50:04"}
+{"source": "weibo", "rank": 5, "title": "猫的树太会拍了", "hot_value": 254689, "duration": 3840, "top_rank_today": 5, "fetched_at": "2026-01-19T23:50:04"}
+{"source": "weibo", "rank": 6, "title": "羽生结弦亲吻冰面的最后一吻", "hot_value": 253715, "duration": 2700, "top_rank_today": 6, "fetched_at": "2026-01-19T23:50:04"}
+{"source": "weibo", "rank": 7, "title": "清融直播", "hot_value": 250429, "duration": 420, "top_rank_today": 7, "fetched_at": "2026-01-19T23:50:04"}
+{"source": "weibo", "rank": 8, "title": "嫣然儿医医护人员发声", "hot_value": 249435, "duration": 6120, "top_rank_today": 2, "fetched_at": "2026-01-19T23:50:04"}
+{"source": "weibo", "rank": 9, "title": "美国近7成流浪汉曾是中产", "hot_value": 247688, "duration": 3960, "top_rank_today": 6, "fetched_at": "2026-01-19T23:50:04"}
+{"source": "weibo", "rank": 10, "title": "MTJJ回应", "hot_value": 243874, "duration": 4680, "top_rank_today": 5, "fetched_at": "2026-01-19T23:50:04"}
+{"source": "douyin", "rank": 1, "title": "2025年GDP增长5%", "hot_value": 12415704, "duration": 49620, "top_rank_today": 1, "fetched_at": "2026-01-19T23:50:05"}
+{"source": "douyin", "rank": 2, "title": "2025年国民经济运行情况", "hot_value": 11926294, "duration": 43020, "top_rank_today": 1, "fetched_at": "2026-01-19T23:50:05"}
+{"source": "douyin", "rank": 3, "title": "去年中国经济贡献了世界30%的增长", "hot_value": 11720488, "duration": 7440, "top_rank_today": 3, "fetched_at": "2026-01-19T23:50:05"}
+{"source": "douyin", "rank": 4, "title": "精选创作者不语只一味宠粉", "hot_value": 11715863, "duration": 3900, "top_rank_today": 4, "fetched_at": "2026-01-19T23:50:05"}
+{"source": "douyin", "rank": 5, "title": "别辜负眼前季节", "hot_value": 10606537, "duration": 23160, "top_rank_today": 3, "fetched_at": "2026-01-19T23:50:05"}
+{"source": "douyin", "rank": 6, "title": "云南昭通5.1级地震", "hot_value": 10535530, "duration": 14460, "top_rank_today": 5, "fetched_at": "2026-01-19T23:50:05"}
+{"source": "douyin", "rank": 7, "title": "货车碰撞多辆汽车 中山警方通报", "hot_value": 9320539, "duration": 1560, "top_rank_today": 7, "fetched_at": "2026-01-19T23:50:05"}
+{"source": "douyin", "rank": 8, "title": "白月光大衣冬日氛围感的神", "hot_value": 9285428, "duration": 24240, "top_rank_today": 4, "fetched_at": "2026-01-19T23:50:05"}
+{"source": "douyin", "rank": 9, "title": "西班牙列车脱轨相撞已致39死", "hot_value": 9260095, "duration": 33300, "top_rank_today": 6, "fetched_at": "2026-01-19T23:50:05"}
+{"source": "douyin", "rank": 10, "title": "CBA四川金强76:104广东宏远", "hot_value": 8914201, "duration": 7920, "top_rank_today": 1, "fetched_at": "2026-01-19T23:50:05"}
+{"source": "toutiao", "rank": 1, "title": "高市“政治豪赌”能否如愿", "hot_value": 18582744, "duration": 2220, "top_rank_today": 1, "fetched_at": "2026-01-19T23:50:07"}
+{"source": "toutiao", "rank": 2, "title": "一图读懂2025年中国经济成绩单", "hot_value": 10198426, "duration": 43440, "top_rank_today": 1, "fetched_at": "2026-01-19T23:50:07"}
+{"source": "toutiao", "rank": 3, "title": "从十组数据读懂很不平凡的2025", "hot_value": 22697014, "duration": 7260, "top_rank_today": 3, "fetched_at": "2026-01-19T23:50:07"}
+{"source": "toutiao", "rank": 4, "title": "零下34℃到底有多冷：毛巾能站住", "hot_value": 3751791, "duration": 9420, "top_rank_today": 1, "fetched_at": "2026-01-19T23:50:07"}
+{"source": "toutiao", "rank": 5, "title": "美国女子发帖吐槽白宫发言人引来特工", "hot_value": 2779395, "duration": 6960, "top_rank_today": 1, "fetched_at": "2026-01-19T23:50:07"}
+{"source": "toutiao", "rank": 6, "title": "为什么说冬天是老人的“一道坎”", "hot_value": 20537108, "duration": 8400, "top_rank_today": 6, "fetched_at": "2026-01-19T23:50:07"}
+{"source": "toutiao", "rank": 7, "title": "高市解散众议院提前大选在赌什么", "hot_value": 13766435, "duration": 2460, "top_rank_today": 7, "fetched_at": "2026-01-19T23:50:07"}
+{"source": "toutiao", "rank": 8, "title": "男子1个月喝光5斤红糖确诊肝脓肿", "hot_value": 6185658, "duration": 2280, "top_rank_today": 6, "fetched_at": "2026-01-19T23:50:07"}
+{"source": "toutiao", "rank": 9, "title": "包钢板材厂爆炸已致6死4失联", "hot_value": 3394761, "duration": 7320, "top_rank_today": 6, "fetched_at": "2026-01-19T23:50:07"}
+{"source": "toutiao", "rank": 10, "title": "牧民回应200多只羊遭狼群夜袭死亡", "hot_value": 3071706, "duration": 8460, "top_rank_today": 9, "fetched_at": "2026-01-19T23:50:07"}
+{"source": "baidu", "rank": 1, "title": "人均95后的大模型公司上了新闻联播", "hot_value": 7809246, "duration": 6900, "top_rank_today": 1, "fetched_at": "2026-01-19T23:50:09"}
+{"source": "baidu", "rank": 2, "title": "零下34℃到底有多冷：毛巾能站住", "hot_value": 7712461, "duration": 6900, "top_rank_today": 2, "fetched_at": "2026-01-19T23:50:09"}
+{"source": "baidu", "rank": 3, "title": "预期目标圆满实现", "hot_value": 7616519, "duration": 6660, "top_rank_today": 3, "fetched_at": "2026-01-19T23:50:09"}
+{"source": "baidu", "rank": 4, "title": "多省公布数据：浙江人均存款超17万", "hot_value": 7520638, "duration": 3840, "top_rank_today": 4, "fetched_at": "2026-01-19T23:50:09"}
+{"source": "baidu", "rank": 5, "title": "顾军被查 曾是中国首批反应堆操纵员", "hot_value": 7423832, "duration": 10920, "top_rank_today": 4, "fetched_at": "2026-01-19T23:50:09"}
+{"source": "baidu", "rank": 6, "title": "深圳沉睡20多年垃圾山正在消失", "hot_value": 7329002, "duration": 26100, "top_rank_today": 2, "fetched_at": "2026-01-19T23:50:09"}
+{"source": "baidu", "rank": 7, "title": "4个多月女婴在母婴店泡药浴后离世", "hot_value": 7232173, "duration": 7980, "top_rank_today": 7, "fetched_at": "2026-01-19T23:50:09"}
+{"source": "baidu", "rank": 8, "title": "人民日报评美国“斩杀线”", "hot_value": 7135818, "duration": 18360, "top_rank_today": 1, "fetched_at": "2026-01-19T23:50:09"}
+{"source": "baidu", "rank": 9, "title": "包钢板材厂爆炸事故已致6死4失联", "hot_value": 7044577, "duration": 3000, "top_rank_today": 9, "fetched_at": "2026-01-19T23:50:09"}
+{"source": "baidu", "rank": 10, "title": "西班牙高铁事故死亡人数升至39人", "hot_value": 6945389, "duration": 30120, "top_rank_today": 6, "fetched_at": "2026-01-19T23:50:09"}
 ```
