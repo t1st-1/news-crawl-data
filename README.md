@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-01-28 23:50:08
+更新时间：2026-01-29 23:50:05
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "男子买15元彩票中1404万", "hot_value": 1080013, "duration": 8460, "top_rank_today": 1, "fetched_at": "2026-01-28T23:50:05"}
-{"source": "weibo", "rank": 2, "title": "微博之夜", "hot_value": 769074, "duration": 39360, "top_rank_today": 1, "fetched_at": "2026-01-28T23:50:05"}
-{"source": "weibo", "rank": 3, "title": "政务应用程序管理新规发布", "hot_value": 646547, "duration": 10380, "top_rank_today": 3, "fetched_at": "2026-01-28T23:50:05"}
-{"source": "weibo", "rank": 4, "title": "迪丽热巴 春晚分会场", "hot_value": 637535, "duration": 2220, "top_rank_today": 4, "fetched_at": "2026-01-28T23:50:05"}
-{"source": "weibo", "rank": 5, "title": "南通发现1例罕见恐龙血", "hot_value": 533490, "duration": 3240, "top_rank_today": 5, "fetched_at": "2026-01-28T23:50:05"}
-{"source": "weibo", "rank": 6, "title": "黄金白银基金暂停申购", "hot_value": 526855, "duration": 4080, "top_rank_today": 6, "fetched_at": "2026-01-28T23:50:05"}
-{"source": "weibo", "rank": 7, "title": "假如方圆脸减肥成功", "hot_value": 181986, "duration": 9840, "top_rank_today": 6, "fetched_at": "2026-01-28T23:50:05"}
-{"source": "weibo", "rank": 8, "title": "银行取消5年期存款意味着什么", "hot_value": 172284, "duration": 24600, "top_rank_today": 2, "fetched_at": "2026-01-28T23:50:05"}
-{"source": "weibo", "rank": 9, "title": "微博之夜简笔画", "hot_value": 155333, "duration": 15420, "top_rank_today": 1, "fetched_at": "2026-01-28T23:50:05"}
-{"source": "weibo", "rank": 10, "title": "贝加尔湖车祸75岁中国籍女性死亡", "hot_value": 142040, "duration": 11280, "top_rank_today": 2, "fetched_at": "2026-01-28T23:50:05"}
-{"source": "douyin", "rank": 1, "title": "英国首相称中国已崛起", "hot_value": 12108758, "duration": 10800, "top_rank_today": 1, "fetched_at": "2026-01-28T23:50:06"}
-{"source": "douyin", "rank": 2, "title": "斯塔默抵京开启访华行程", "hot_value": 11974163, "duration": 23460, "top_rank_today": 2, "fetched_at": "2026-01-28T23:50:06"}
-{"source": "douyin", "rank": 3, "title": "十四五新增减税降费退税超10万亿", "hot_value": 11855699, "duration": 10680, "top_rank_today": 3, "fetched_at": "2026-01-28T23:50:06"}
-{"source": "douyin", "rank": 4, "title": "生活放点糖它就是甜的", "hot_value": 11521163, "duration": 4980, "top_rank_today": 4, "fetched_at": "2026-01-28T23:50:06"}
-{"source": "douyin", "rank": 5, "title": "法媒：中国不再是“低端作坊”", "hot_value": 10546332, "duration": 20520, "top_rank_today": 1, "fetched_at": "2026-01-28T23:50:06"}
-{"source": "douyin", "rank": 6, "title": "这是我家的春碗", "hot_value": 10470485, "duration": 29280, "top_rank_today": 2, "fetched_at": "2026-01-28T23:50:06"}
-{"source": "douyin", "rank": 7, "title": "年度穿搭开启新年时髦感", "hot_value": 9347001, "duration": 31920, "top_rank_today": 6, "fetched_at": "2026-01-28T23:50:06"}
-{"source": "douyin", "rank": 8, "title": "全国各地老吃家提前过年了", "hot_value": 9239934, "duration": 27420, "top_rank_today": 5, "fetched_at": "2026-01-28T23:50:06"}
-{"source": "douyin", "rank": 9, "title": "霉豆腐穿搭看饿了", "hot_value": 9228920, "duration": 4980, "top_rank_today": 9, "fetched_at": "2026-01-28T23:50:06"}
-{"source": "douyin", "rank": 10, "title": "我的春节联欢小会", "hot_value": 9164637, "duration": 13680, "top_rank_today": 10, "fetched_at": "2026-01-28T23:50:06"}
-{"source": "toutiao", "rank": 1, "title": "渣打：金价出现任何回调都是买入机会", "hot_value": 14654861, "duration": 4320, "top_rank_today": 1, "fetched_at": "2026-01-28T23:50:07"}
-{"source": "toutiao", "rank": 2, "title": "飞天茅台价格全线上涨", "hot_value": 9823447, "duration": 11400, "top_rank_today": 1, "fetched_at": "2026-01-28T23:50:07"}
-{"source": "toutiao", "rank": 3, "title": "各地年货市场消费火热", "hot_value": 11998385, "duration": 10740, "top_rank_today": 3, "fetched_at": "2026-01-28T23:50:07"}
-{"source": "toutiao", "rank": 4, "title": "女生杭州回东北途经俄罗斯省数百元", "hot_value": 8042758, "duration": 3900, "top_rank_today": 4, "fetched_at": "2026-01-28T23:50:07"}
-{"source": "toutiao", "rank": 5, "title": "伊朗启动紧急措施“备战”", "hot_value": 6584853, "duration": 1920, "top_rank_today": 5, "fetched_at": "2026-01-28T23:50:07"}
-{"source": "toutiao", "rank": 6, "title": "宝马所有车型下月起启用新Logo", "hot_value": 10856588, "duration": 11700, "top_rank_today": 6, "fetched_at": "2026-01-28T23:50:07"}
-{"source": "toutiao", "rank": 7, "title": "国台办回应台退役军人可否免费进景区", "hot_value": 5958221, "duration": 30180, "top_rank_today": 1, "fetched_at": "2026-01-28T23:50:07"}
-{"source": "toutiao", "rank": 8, "title": "如何看待李蓓看空黄金", "hot_value": 4413959, "duration": 6060, "top_rank_today": 6, "fetched_at": "2026-01-28T23:50:07"}
-{"source": "toutiao", "rank": 9, "title": "我国在糖尿病研究治疗领域取得突破", "hot_value": 3993915, "duration": 2040, "top_rank_today": 6, "fetched_at": "2026-01-28T23:50:07"}
-{"source": "toutiao", "rank": 10, "title": "英国期望和中国“一起干事儿”", "hot_value": 3613844, "duration": 3720, "top_rank_today": 9, "fetched_at": "2026-01-28T23:50:07"}
-{"source": "baidu", "rank": 1, "title": "西方国家领导人为何密集访华", "hot_value": 7809106, "duration": 11280, "top_rank_today": 1, "fetched_at": "2026-01-28T23:50:08"}
-{"source": "baidu", "rank": 2, "title": "宝马下月起全面启用新Logo", "hot_value": 7714680, "duration": 8460, "top_rank_today": 2, "fetched_at": "2026-01-28T23:50:08"}
-{"source": "baidu", "rank": 3, "title": "十四五新增减税降费退税超10万亿", "hot_value": 7618852, "duration": 10260, "top_rank_today": 3, "fetched_at": "2026-01-28T23:50:08"}
-{"source": "baidu", "rank": 4, "title": "第1个被“财神爷”锁定的孩子出现了", "hot_value": 7522388, "duration": 9660, "top_rank_today": 4, "fetched_at": "2026-01-28T23:50:08"}
-{"source": "baidu", "rank": 5, "title": "美国打美国", "hot_value": 7427584, "duration": 6060, "top_rank_today": 5, "fetched_at": "2026-01-28T23:50:08"}
-{"source": "baidu", "rank": 6, "title": "河南养鸡夫妻36万枚鸡蛋卖出36万元", "hot_value": 7333933, "duration": 12660, "top_rank_today": 1, "fetched_at": "2026-01-28T23:50:08"}
-{"source": "baidu", "rank": 7, "title": "委员建议每周休2.5天 周五下午放假", "hot_value": 7238643, "duration": 23460, "top_rank_today": 4, "fetched_at": "2026-01-28T23:50:08"}
-{"source": "baidu", "rank": 8, "title": "景区日薪800元招不到“项羽”演员", "hot_value": 7141376, "duration": 12420, "top_rank_today": 5, "fetched_at": "2026-01-28T23:50:08"}
-{"source": "baidu", "rank": 9, "title": "“中方在这一问题上无法妥协退让”", "hot_value": 7045534, "duration": 5460, "top_rank_today": 9, "fetched_at": "2026-01-28T23:50:08"}
-{"source": "baidu", "rank": 10, "title": "钱学森1957年提出的构想成为现实", "hot_value": 6946596, "duration": 14220, "top_rank_today": 5, "fetched_at": "2026-01-28T23:50:08"}
+{"source": "weibo", "rank": 1, "title": "生万物横扫", "hot_value": 1052119, "duration": 4140, "top_rank_today": 1, "fetched_at": "2026-01-29T23:50:02"}
+{"source": "weibo", "rank": 2, "title": "水贝一写字楼宣布封闭楼顶天台", "hot_value": 755249, "duration": 1860, "top_rank_today": 2, "fetched_at": "2026-01-29T23:50:02"}
+{"source": "weibo", "rank": 3, "title": "中国新能源汽车持续领跑全球", "hot_value": 748172, "duration": 10200, "top_rank_today": 3, "fetched_at": "2026-01-29T23:50:02"}
+{"source": "weibo", "rank": 4, "title": "孙俪总台视后", "hot_value": 746025, "duration": 5700, "top_rank_today": 4, "fetched_at": "2026-01-29T23:50:02"}
+{"source": "weibo", "rank": 5, "title": "Bin首发", "hot_value": 733122, "duration": 2520, "top_rank_today": 4, "fetched_at": "2026-01-29T23:50:02"}
+{"source": "weibo", "rank": 6, "title": "金价", "hot_value": 557845, "duration": 14280, "top_rank_today": 6, "fetched_at": "2026-01-29T23:50:02"}
+{"source": "weibo", "rank": 7, "title": "金价上涨打金店2天亏5万", "hot_value": 324173, "duration": 1560, "top_rank_today": 7, "fetched_at": "2026-01-29T23:50:02"}
+{"source": "weibo", "rank": 8, "title": "野人先生130克冰淇淋卖28元被指贵", "hot_value": 238725, "duration": 2460, "top_rank_today": 2, "fetched_at": "2026-01-29T23:50:02"}
+{"source": "weibo", "rank": 9, "title": "于和伟总台视帝", "hot_value": 236003, "duration": 4440, "top_rank_today": 6, "fetched_at": "2026-01-29T23:50:02"}
+{"source": "weibo", "rank": 10, "title": "200多克黄金不当面接收快递小哥报警", "hot_value": 215855, "duration": 18960, "top_rank_today": 1, "fetched_at": "2026-01-29T23:50:02"}
+{"source": "douyin", "rank": 1, "title": "这届年货全是显眼包", "hot_value": 12123647, "duration": 12600, "top_rank_today": 1, "fetched_at": "2026-01-29T23:50:03"}
+{"source": "douyin", "rank": 2, "title": "儿时的年味一直围绕着我", "hot_value": 12022791, "duration": 17340, "top_rank_today": 1, "fetched_at": "2026-01-29T23:50:03"}
+{"source": "douyin", "rank": 3, "title": "加快培育服务消费新增长点", "hot_value": 11843966, "duration": 11040, "top_rank_today": 3, "fetched_at": "2026-01-29T23:50:03"}
+{"source": "douyin", "rank": 4, "title": "中央军委原委员廖锡龙逝世", "hot_value": 11616872, "duration": 17520, "top_rank_today": 4, "fetched_at": "2026-01-29T23:50:03"}
+{"source": "douyin", "rank": 5, "title": "热气腾腾中国年", "hot_value": 10375597, "duration": 28560, "top_rank_today": 5, "fetched_at": "2026-01-29T23:50:03"}
+{"source": "douyin", "rank": 6, "title": "中菲就涉海等问题举行双边对话", "hot_value": 10216136, "duration": 12600, "top_rank_today": 6, "fetched_at": "2026-01-29T23:50:03"}
+{"source": "douyin", "rank": 7, "title": "内蒙古党委原书记孙绍骋被查", "hot_value": 9040946, "duration": 20580, "top_rank_today": 5, "fetched_at": "2026-01-29T23:50:03"}
+{"source": "douyin", "rank": 8, "title": "在新疆收获雪季生命力", "hot_value": 8919415, "duration": 900, "top_rank_today": 8, "fetched_at": "2026-01-29T23:50:03"}
+{"source": "douyin", "rank": 9, "title": "地球村年味大赏", "hot_value": 8910901, "duration": 28500, "top_rank_today": 8, "fetched_at": "2026-01-29T23:50:03"}
+{"source": "douyin", "rank": 10, "title": "国防部回应“击沉中国军舰”动画", "hot_value": 8604952, "duration": 13080, "top_rank_today": 8, "fetched_at": "2026-01-29T23:50:03"}
+{"source": "toutiao", "rank": 1, "title": "外界担忧日本或强登钓鱼岛 中方回应", "hot_value": 21296558, "duration": 4380, "top_rank_today": 1, "fetched_at": "2026-01-29T23:50:04"}
+{"source": "toutiao", "rank": 2, "title": "国防部：已向菲方提出严正交涉", "hot_value": 19269922, "duration": 13260, "top_rank_today": 1, "fetched_at": "2026-01-29T23:50:04"}
+{"source": "toutiao", "rank": 3, "title": "“冰雪+”如何加出多元新业态", "hot_value": 17436147, "duration": 10800, "top_rank_today": 3, "fetched_at": "2026-01-29T23:50:04"}
+{"source": "toutiao", "rank": 4, "title": "缅北明家案11名罪犯被执行死刑", "hot_value": 12917015, "duration": 42780, "top_rank_today": 2, "fetched_at": "2026-01-29T23:50:04"}
+{"source": "toutiao", "rank": 5, "title": "一家人给自己盖了个小区", "hot_value": 10575557, "duration": 8700, "top_rank_today": 2, "fetched_at": "2026-01-29T23:50:04"}
+{"source": "toutiao", "rank": 6, "title": "邻居楼道放鞋架 女子挂婆婆遗照反击", "hot_value": 11687798, "duration": 9120, "top_rank_today": 6, "fetched_at": "2026-01-29T23:50:04"}
+{"source": "toutiao", "rank": 7, "title": "宿迁首位退休快递员称被同村人羡慕", "hot_value": 8658534, "duration": 4140, "top_rank_today": 5, "fetched_at": "2026-01-29T23:50:04"}
+{"source": "toutiao", "rank": 8, "title": "退休老人该如何对待儿女给予的钱物", "hot_value": 7089008, "duration": 2280, "top_rank_today": 7, "fetched_at": "2026-01-29T23:50:04"}
+{"source": "toutiao", "rank": 9, "title": "白银牛市还能走多远", "hot_value": 5251666, "duration": 4320, "top_rank_today": 9, "fetched_at": "2026-01-29T23:50:04"}
+{"source": "toutiao", "rank": 10, "title": "魏文彬逝世 曾打造《快乐大本营》", "hot_value": 4299700, "duration": 42900, "top_rank_today": 5, "fetched_at": "2026-01-29T23:50:04"}
+{"source": "baidu", "rank": 1, "title": "国防部说的“You wish”是什么意思", "hot_value": 7809466, "duration": 6780, "top_rank_today": 1, "fetched_at": "2026-01-29T23:50:05"}
+{"source": "baidu", "rank": 2, "title": "“一家人给自己盖了个小区”", "hot_value": 7712083, "duration": 12300, "top_rank_today": 2, "fetched_at": "2026-01-29T23:50:05"}
+{"source": "baidu", "rank": 3, "title": "震撼！“陆地航母”高铁蓄势待发", "hot_value": 7618351, "duration": 10380, "top_rank_today": 3, "fetched_at": "2026-01-29T23:50:05"}
+{"source": "baidu", "rank": 4, "title": "华为手机全系降价 最高降4000元", "hot_value": 7520223, "duration": 4740, "top_rank_today": 4, "fetched_at": "2026-01-29T23:50:05"}
+{"source": "baidu", "rank": 5, "title": "东北人春节返乡有多不容易", "hot_value": 7424217, "duration": 8700, "top_rank_today": 5, "fetched_at": "2026-01-29T23:50:05"}
+{"source": "baidu", "rank": 6, "title": "中国金币集团发布风险提示", "hot_value": 7333131, "duration": 25500, "top_rank_today": 1, "fetched_at": "2026-01-29T23:50:05"}
+{"source": "baidu", "rank": 7, "title": "200多克黄金不当面接收快递小哥报警", "hot_value": 7233253, "duration": 10740, "top_rank_today": 4, "fetched_at": "2026-01-29T23:50:05"}
+{"source": "baidu", "rank": 8, "title": "孙绍骋被查", "hot_value": 7135981, "duration": 20460, "top_rank_today": 4, "fetched_at": "2026-01-29T23:50:05"}
+{"source": "baidu", "rank": 9, "title": "00后爱上了这种很新的年夜饭", "hot_value": 7043928, "duration": 13260, "top_rank_today": 5, "fetched_at": "2026-01-29T23:50:05"}
+{"source": "baidu", "rank": 10, "title": "第一批东北人已自驾抵达海南", "hot_value": 6943683, "duration": 16320, "top_rank_today": 4, "fetched_at": "2026-01-29T23:50:05"}
 ```
