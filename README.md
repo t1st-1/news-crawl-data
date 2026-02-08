@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-02-07 23:50:06
+更新时间：2026-02-08 23:50:06
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "成何体统 癫剧", "hot_value": 1149392, "duration": 6060, "top_rank_today": 1, "fetched_at": "2026-02-07T23:50:03"}
-{"source": "weibo", "rank": 2, "title": "教育局回应成绩单用星星显示", "hot_value": 813198, "duration": 11700, "top_rank_today": 1, "fetched_at": "2026-02-07T23:50:03"}
-{"source": "weibo", "rank": 3, "title": "中国元素绽放米兰冬奥舞台", "hot_value": 670446, "duration": 3480, "top_rank_today": 3, "fetched_at": "2026-02-07T23:50:03"}
-{"source": "weibo", "rank": 4, "title": "11年了大姐还在骂明台", "hot_value": 453688, "duration": 2820, "top_rank_today": 4, "fetched_at": "2026-02-07T23:50:03"}
-{"source": "weibo", "rank": 5, "title": "苏翊鸣决赛", "hot_value": 416265, "duration": 2220, "top_rank_today": 5, "fetched_at": "2026-02-07T23:50:03"}
-{"source": "weibo", "rank": 6, "title": "92岁老人集装箱离世留下19万存款", "hot_value": 362245, "duration": 3600, "top_rank_today": 5, "fetched_at": "2026-02-07T23:50:03"}
-{"source": "weibo", "rank": 7, "title": "林诗栋惨遭逆转无缘4强", "hot_value": 324268, "duration": 4380, "top_rank_today": 5, "fetched_at": "2026-02-07T23:50:03"}
-{"source": "weibo", "rank": 8, "title": "白鹿 我选蒋奇明", "hot_value": 303368, "duration": 2040, "top_rank_today": 8, "fetched_at": "2026-02-07T23:50:03"}
-{"source": "weibo", "rank": 9, "title": "男子网购椅子竟多出15公斤银板", "hot_value": 300977, "duration": 7140, "top_rank_today": 1, "fetched_at": "2026-02-07T23:50:03"}
-{"source": "weibo", "rank": 10, "title": "王楚钦7比11周启豪", "hot_value": 221834, "duration": 4560, "top_rank_today": 9, "fetched_at": "2026-02-07T23:50:03"}
-{"source": "douyin", "rank": 1, "title": "谷爱凌第一滑摔倒", "hot_value": 12105682, "duration": 22200, "top_rank_today": 1, "fetched_at": "2026-02-07T23:50:04"}
-{"source": "douyin", "rank": 2, "title": "苏翊鸣冲击中国队首金", "hot_value": 12104524, "duration": 26280, "top_rank_today": 1, "fetched_at": "2026-02-07T23:50:04"}
-{"source": "douyin", "rank": 3, "title": "冰雪“冷资源”活力“热引擎”", "hot_value": 11855649, "duration": 8280, "top_rank_today": 3, "fetched_at": "2026-02-07T23:50:04"}
-{"source": "douyin", "rank": 4, "title": "胡彦斌跟川剧变脸是来炸场子的", "hot_value": 11679133, "duration": 6720, "top_rank_today": 4, "fetched_at": "2026-02-07T23:50:04"}
-{"source": "douyin", "rank": 5, "title": "米兰冬奥首金产生", "hot_value": 11001315, "duration": 10680, "top_rank_today": 5, "fetched_at": "2026-02-07T23:50:04"}
-{"source": "douyin", "rank": 6, "title": "社火夜行祈福安康", "hot_value": 10755282, "duration": 30000, "top_rank_today": 2, "fetched_at": "2026-02-07T23:50:04"}
-{"source": "douyin", "rank": 7, "title": "我的新年质感穿搭已就位", "hot_value": 9620638, "duration": 12720, "top_rank_today": 7, "fetched_at": "2026-02-07T23:50:04"}
-{"source": "douyin", "rank": 8, "title": "广州街头豫剧奶奶", "hot_value": 9417084, "duration": 47520, "top_rank_today": 4, "fetched_at": "2026-02-07T23:50:04"}
-{"source": "douyin", "rank": 9, "title": "我有节目献给抖音非遗联欢会", "hot_value": 9416671, "duration": 54900, "top_rank_today": 2, "fetched_at": "2026-02-07T23:50:04"}
-{"source": "douyin", "rank": 10, "title": "谷爱凌第二跳发挥出色晋级决赛", "hot_value": 9254084, "duration": 16080, "top_rank_today": 9, "fetched_at": "2026-02-07T23:50:04"}
-{"source": "toutiao", "rank": 1, "title": "临近春节东北大姨排队烫头", "hot_value": 8660139, "duration": 46500, "top_rank_today": 1, "fetched_at": "2026-02-07T23:50:05"}
-{"source": "toutiao", "rank": 2, "title": "特朗普宣布取消对印度商品25%关税", "hot_value": 14278156, "duration": 2580, "top_rank_today": 2, "fetched_at": "2026-02-07T23:50:05"}
-{"source": "toutiao", "rank": 3, "title": "春运看发展", "hot_value": 11689966, "duration": 8640, "top_rank_today": 3, "fetched_at": "2026-02-07T23:50:05"}
-{"source": "toutiao", "rank": 4, "title": "赵心童与张安达会师决赛", "hot_value": 7836018, "duration": 3900, "top_rank_today": 4, "fetched_at": "2026-02-07T23:50:05"}
-{"source": "toutiao", "rank": 5, "title": "官方回应王楚钦屡遭闪光灯干扰", "hot_value": 7090322, "duration": 4920, "top_rank_today": 5, "fetched_at": "2026-02-07T23:50:05"}
-{"source": "toutiao", "rank": 6, "title": "夫妻俩在婚礼上打羽毛球", "hot_value": 5805065, "duration": 9060, "top_rank_today": 6, "fetched_at": "2026-02-07T23:50:05"}
-{"source": "toutiao", "rank": 7, "title": "世界排名106位的张佑安闯入男单4强", "hot_value": 4300498, "duration": 4260, "top_rank_today": 4, "fetched_at": "2026-02-07T23:50:05"}
-{"source": "toutiao", "rank": 8, "title": "视障女生独自返乡获14人爱心接力", "hot_value": 2882710, "duration": 28380, "top_rank_today": 1, "fetched_at": "2026-02-07T23:50:05"}
-{"source": "toutiao", "rank": 9, "title": "苏翊鸣单板滑雪大跳台冲金", "hot_value": 6415589, "duration": 5580, "top_rank_today": 9, "fetched_at": "2026-02-07T23:50:05"}
-{"source": "toutiao", "rank": 10, "title": "陈幸同1-4不敌张本美和", "hot_value": 3891251, "duration": 8580, "top_rank_today": 2, "fetched_at": "2026-02-07T23:50:05"}
-{"source": "baidu", "rank": 1, "title": "教育部：将有序推进中考改革", "hot_value": 7809604, "duration": 3960, "top_rank_today": 1, "fetched_at": "2026-02-07T23:50:06"}
-{"source": "baidu", "rank": 2, "title": "剑门关景区：身份证23开头永久免费", "hot_value": 7712343, "duration": 10560, "top_rank_today": 1, "fetched_at": "2026-02-07T23:50:06"}
-{"source": "baidu", "rank": 3, "title": "一起为中国冬奥健儿加油", "hot_value": 7619233, "duration": 7560, "top_rank_today": 3, "fetched_at": "2026-02-07T23:50:06"}
-{"source": "baidu", "rank": 4, "title": "74岁老人获评好婆婆 一句话暖哭众人", "hot_value": 7524441, "duration": 13320, "top_rank_today": 4, "fetched_at": "2026-02-07T23:50:06"}
-{"source": "baidu", "rank": 5, "title": "山姆你还续卡吗", "hot_value": 7424784, "duration": 14160, "top_rank_today": 2, "fetched_at": "2026-02-07T23:50:06"}
-{"source": "baidu", "rank": 6, "title": "巅峰对决 苏翊鸣大跳台决赛冲金", "hot_value": 7333226, "duration": 4560, "top_rank_today": 6, "fetched_at": "2026-02-07T23:50:06"}
-{"source": "baidu", "rank": 7, "title": "林诗栋不敌户上隼辅无缘亚洲杯四强", "hot_value": 7231632, "duration": 4860, "top_rank_today": 7, "fetched_at": "2026-02-07T23:50:06"}
-{"source": "baidu", "rank": 8, "title": "买家网购一把椅子收到一块银砖", "hot_value": 7142103, "duration": 9900, "top_rank_today": 4, "fetched_at": "2026-02-07T23:50:06"}
-{"source": "baidu", "rank": 9, "title": "87岁奶奶摔倒半小时被发现 孙女发声", "hot_value": 7044151, "duration": 13560, "top_rank_today": 4, "fetched_at": "2026-02-07T23:50:06"}
-{"source": "baidu", "rank": 10, "title": "穿羽绒服可能把肺“穿坏”", "hot_value": 6945657, "duration": 17040, "top_rank_today": 4, "fetched_at": "2026-02-07T23:50:06"}
+{"source": "weibo", "rank": 1, "title": "王楚钦vs张本智和", "hot_value": 5292367, "duration": 8880, "top_rank_today": 1, "fetched_at": "2026-02-08T23:50:02"}
+{"source": "weibo", "rank": 2, "title": "王楚钦金牌", "hot_value": 1344648, "duration": 3480, "top_rank_today": 2, "fetched_at": "2026-02-08T23:50:02"}
+{"source": "weibo", "rank": 3, "title": "他们把忠诚写在祖国的边境线上", "hot_value": 1039804, "duration": 9180, "top_rank_today": 3, "fetched_at": "2026-02-08T23:50:02"}
+{"source": "weibo", "rank": 4, "title": "孙颖莎金牌", "hot_value": 749269, "duration": 9360, "top_rank_today": 2, "fetched_at": "2026-02-08T23:50:02"}
+{"source": "weibo", "rank": 5, "title": "中国军网点名张本智和", "hot_value": 576262, "duration": 22860, "top_rank_today": 1, "fetched_at": "2026-02-08T23:50:02"}
+{"source": "weibo", "rank": 6, "title": "孙颖莎vs王曼昱", "hot_value": 390564, "duration": 15840, "top_rank_today": 1, "fetched_at": "2026-02-08T23:50:02"}
+{"source": "weibo", "rank": 7, "title": "白鹿破万四连拍", "hot_value": 387701, "duration": 9180, "top_rank_today": 4, "fetched_at": "2026-02-08T23:50:02"}
+{"source": "weibo", "rank": 8, "title": "父亲去世试管婴儿获工亡抚恤金", "hot_value": 241648, "duration": 10740, "top_rank_today": 5, "fetched_at": "2026-02-08T23:50:02"}
+{"source": "weibo", "rank": 9, "title": "21岁国际名模在新家猝然离世", "hot_value": 209062, "duration": 1560, "top_rank_today": 9, "fetched_at": "2026-02-08T23:50:02"}
+{"source": "weibo", "rank": 10, "title": "日本军国主义渗透文体领域", "hot_value": 186741, "duration": 22680, "top_rank_today": 4, "fetched_at": "2026-02-08T23:50:02"}
+{"source": "douyin", "rank": 1, "title": "亚洲杯王楚钦夺冠", "hot_value": 12385640, "duration": 3900, "top_rank_today": 1, "fetched_at": "2026-02-08T23:50:03"}
+{"source": "douyin", "rank": 2, "title": "亚洲杯孙颖莎4:3王曼昱夺冠", "hot_value": 11873413, "duration": 9480, "top_rank_today": 2, "fetched_at": "2026-02-08T23:50:03"}
+{"source": "douyin", "rank": 3, "title": "年货快递春节不停", "hot_value": 11522738, "duration": 10200, "top_rank_today": 3, "fetched_at": "2026-02-08T23:50:03"}
+{"source": "douyin", "rank": 4, "title": "赵心童世界大奖赛夺冠", "hot_value": 11177888, "duration": 2280, "top_rank_today": 4, "fetched_at": "2026-02-08T23:50:03"}
+{"source": "douyin", "rank": 5, "title": "新年流光贵女妆", "hot_value": 10609090, "duration": 16080, "top_rank_today": 4, "fetched_at": "2026-02-08T23:50:03"}
+{"source": "douyin", "rank": 6, "title": "新年马“甲”变装挑战", "hot_value": 10261316, "duration": 30120, "top_rank_today": 1, "fetched_at": "2026-02-08T23:50:03"}
+{"source": "douyin", "rank": 7, "title": "中国黄金调整回购规则", "hot_value": 9141529, "duration": 32520, "top_rank_today": 6, "fetched_at": "2026-02-08T23:50:03"}
+{"source": "douyin", "rank": 8, "title": "CBA杯赛上海112:83山东", "hot_value": 9086128, "duration": 5700, "top_rank_today": 7, "fetched_at": "2026-02-08T23:50:03"}
+{"source": "douyin", "rank": 9, "title": "中式台球的风吹到了斯诺克", "hot_value": 8971741, "duration": 32100, "top_rank_today": 8, "fetched_at": "2026-02-08T23:50:03"}
+{"source": "douyin", "rank": 10, "title": "日本执政联盟已获众议院过半议席", "hot_value": 8888619, "duration": 7860, "top_rank_today": 10, "fetched_at": "2026-02-08T23:50:03"}
+{"source": "toutiao", "rank": 1, "title": "亚洲杯女单颁奖仪式同升三面五星红旗", "hot_value": 8987817, "duration": 3060, "top_rank_today": 1, "fetched_at": "2026-02-08T23:50:05"}
+{"source": "toutiao", "rank": 2, "title": "赵心童首夺斯诺克世界大奖赛冠军", "hot_value": 14818406, "duration": 6720, "top_rank_today": 2, "fetched_at": "2026-02-08T23:50:05"}
+{"source": "toutiao", "rank": 3, "title": "春运期间车票已累计发售超1.5亿张", "hot_value": 13408248, "duration": 9960, "top_rank_today": 3, "fetched_at": "2026-02-08T23:50:05"}
+{"source": "toutiao", "rank": 4, "title": "王楚钦胜张本智和亚洲杯夺冠", "hot_value": 16376871, "duration": 3240, "top_rank_today": 2, "fetched_at": "2026-02-08T23:50:05"}
+{"source": "toutiao", "rank": 5, "title": "上海二手房成交暴涨 楼市回暖了吗", "hot_value": 4463218, "duration": 4980, "top_rank_today": 1, "fetched_at": "2026-02-08T23:50:05"}
+{"source": "toutiao", "rank": 6, "title": "未来能赚钱的行业有哪些", "hot_value": 5451386, "duration": 7860, "top_rank_today": 6, "fetched_at": "2026-02-08T23:50:05"}
+{"source": "toutiao", "rank": 7, "title": "王楚钦夺冠后疯狂庆祝", "hot_value": 10977745, "duration": 2040, "top_rank_today": 7, "fetched_at": "2026-02-08T23:50:05"}
+{"source": "toutiao", "rank": 8, "title": "一夜之间4家A股公司被立案或处罚", "hot_value": 4038486, "duration": 8160, "top_rank_today": 5, "fetched_at": "2026-02-08T23:50:05"}
+{"source": "toutiao", "rank": 9, "title": "苏翊鸣回应判罚争议", "hot_value": 3306433, "duration": 58260, "top_rank_today": 5, "fetched_at": "2026-02-08T23:50:05"}
+{"source": "toutiao", "rank": 10, "title": "孙颖莎首夺亚洲杯女单冠军", "hot_value": 7358602, "duration": 7680, "top_rank_today": 2, "fetched_at": "2026-02-08T23:50:05"}
+{"source": "baidu", "rank": 1, "title": "王楚钦胜张本智和夺亚洲杯男单冠军", "hot_value": 7808037, "duration": 3420, "top_rank_today": 1, "fetched_at": "2026-02-08T23:50:06"}
+{"source": "baidu", "rank": 2, "title": "多家银行上调存款利率", "hot_value": 7714629, "duration": 27480, "top_rank_today": 1, "fetched_at": "2026-02-08T23:50:06"}
+{"source": "baidu", "rank": 3, "title": "在50万米高空卫星能拍到什么", "hot_value": 7615875, "duration": 9000, "top_rank_today": 3, "fetched_at": "2026-02-08T23:50:06"}
+{"source": "baidu", "rank": 4, "title": "孙颖莎夺乒乓球亚洲杯女单冠军", "hot_value": 7522794, "duration": 9000, "top_rank_today": 1, "fetched_at": "2026-02-08T23:50:06"}
+{"source": "baidu", "rank": 5, "title": "男生寒假打工烤糊200多个鸡翅", "hot_value": 7426928, "duration": 11520, "top_rank_today": 4, "fetched_at": "2026-02-08T23:50:06"}
+{"source": "baidu", "rank": 6, "title": "赵心童首夺斯诺克世界大奖赛冠军", "hot_value": 7328354, "duration": 6660, "top_rank_today": 6, "fetched_at": "2026-02-08T23:50:06"}
+{"source": "baidu", "rank": 7, "title": "张本智和被王楚钦打得直跺脚", "hot_value": 7232478, "duration": 2580, "top_rank_today": 7, "fetched_at": "2026-02-08T23:50:06"}
+{"source": "baidu", "rank": 8, "title": "谁给了窗口人员8年收1614万的勇气", "hot_value": 7140327, "duration": 28560, "top_rank_today": 4, "fetched_at": "2026-02-08T23:50:06"}
+{"source": "baidu", "rank": 9, "title": "日本国会众议院选举投票结束", "hot_value": 7040573, "duration": 16500, "top_rank_today": 7, "fetched_at": "2026-02-08T23:50:06"}
+{"source": "baidu", "rank": 10, "title": "男子谎称过年不回家 父母寄大量年货", "hot_value": 6950645, "duration": 6360, "top_rank_today": 5, "fetched_at": "2026-02-08T23:50:06"}
 ```
