@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-02-11 23:50:07
+更新时间：2026-02-12 23:50:08
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "KK园区2.0内部照首曝光", "hot_value": 1054069, "duration": 19500, "top_rank_today": 1, "fetched_at": "2026-02-11T23:50:03"}
-{"source": "weibo", "rank": 2, "title": "湖南卫视春晚", "hot_value": 753450, "duration": 16260, "top_rank_today": 1, "fetched_at": "2026-02-11T23:50:03"}
-{"source": "weibo", "rank": 3, "title": "春运路上藏着这些马年彩蛋", "hot_value": 593890, "duration": 4200, "top_rank_today": 3, "fetched_at": "2026-02-11T23:50:03"}
-{"source": "weibo", "rank": 4, "title": "周深忘词", "hot_value": 527446, "duration": 3600, "top_rank_today": 4, "fetched_at": "2026-02-11T23:50:03"}
-{"source": "weibo", "rank": 5, "title": "新加坡女子误以为中大奖", "hot_value": 435362, "duration": 6240, "top_rank_today": 4, "fetched_at": "2026-02-11T23:50:03"}
-{"source": "weibo", "rank": 6, "title": "陈哲远李一桐用一个麦", "hot_value": 248330, "duration": 6240, "top_rank_today": 4, "fetched_at": "2026-02-11T23:50:03"}
-{"source": "weibo", "rank": 7, "title": "以前的宠妃美貌都是这种级别", "hot_value": 206635, "duration": 6300, "top_rank_today": 7, "fetched_at": "2026-02-11T23:50:03"}
-{"source": "weibo", "rank": 8, "title": "米兰冬奥首位三金王诞生", "hot_value": 206263, "duration": 7260, "top_rank_today": 4, "fetched_at": "2026-02-11T23:50:03"}
-{"source": "weibo", "rank": 9, "title": "郑钦文vs莱巴金娜", "hot_value": 205482, "duration": 1200, "top_rank_today": 9, "fetched_at": "2026-02-11T23:50:03"}
-{"source": "weibo", "rank": 10, "title": "长征十号箭体落点并非失误", "hot_value": 205163, "duration": 660, "top_rank_today": 10, "fetched_at": "2026-02-11T23:50:03"}
-{"source": "douyin", "rank": 1, "title": "U17国足3:2绝杀印尼", "hot_value": 11969131, "duration": 8520, "top_rank_today": 1, "fetched_at": "2026-02-11T23:50:05"}
-{"source": "douyin", "rank": 2, "title": "我国首次载人飞船返回舱海上溅落", "hot_value": 11876324, "duration": 43440, "top_rank_today": 1, "fetched_at": "2026-02-11T23:50:05"}
-{"source": "douyin", "rank": 3, "title": "我国首个载人登月发射场初具规模", "hot_value": 11797554, "duration": 11220, "top_rank_today": 3, "fetched_at": "2026-02-11T23:50:05"}
-{"source": "douyin", "rank": 4, "title": "你只管走幸福随处可见", "hot_value": 11559396, "duration": 22020, "top_rank_today": 4, "fetched_at": "2026-02-11T23:50:05"}
-{"source": "douyin", "rank": 5, "title": "今天是南方小年", "hot_value": 10861297, "duration": 58500, "top_rank_today": 1, "fetched_at": "2026-02-11T23:50:05"}
-{"source": "douyin", "rank": 6, "title": "自驾回家过年啦", "hot_value": 10193077, "duration": 55980, "top_rank_today": 4, "fetched_at": "2026-02-11T23:50:05"}
-{"source": "douyin", "rank": 7, "title": "马年就要马上时髦", "hot_value": 8920704, "duration": 36300, "top_rank_today": 4, "fetched_at": "2026-02-11T23:50:05"}
-{"source": "douyin", "rank": 8, "title": "摩托车返乡人向着家的方向出发", "hot_value": 8837514, "duration": 85800, "top_rank_today": 4, "fetched_at": "2026-02-11T23:50:05"}
-{"source": "douyin", "rank": 9, "title": "年味穿搭穿出高级感", "hot_value": 8439975, "duration": 85800, "top_rank_today": 6, "fetched_at": "2026-02-11T23:50:05"}
-{"source": "douyin", "rank": 10, "title": "赵睿被停赛3场罚款5万", "hot_value": 7852987, "duration": 8760, "top_rank_today": 10, "fetched_at": "2026-02-11T23:50:05"}
-{"source": "toutiao", "rank": 1, "title": "一家35口人开大巴春节自驾游", "hot_value": 3362268, "duration": 19020, "top_rank_today": 1, "fetched_at": "2026-02-11T23:50:06"}
-{"source": "toutiao", "rank": 2, "title": "特朗普发帖后 CNN都看不下去了", "hot_value": 6126452, "duration": 5040, "top_rank_today": 2, "fetched_at": "2026-02-11T23:50:06"}
-{"source": "toutiao", "rank": 3, "title": "多种列车新场景丰富旅客春运路", "hot_value": 5543443, "duration": 11220, "top_rank_today": 3, "fetched_at": "2026-02-11T23:50:06"}
-{"source": "toutiao", "rank": 4, "title": "长征十号箭体落点并非失误", "hot_value": 4538587, "duration": 6180, "top_rank_today": 2, "fetched_at": "2026-02-11T23:50:06"}
-{"source": "toutiao", "rank": 5, "title": "韩国瑜力挺高金素梅", "hot_value": 4106683, "duration": 10020, "top_rank_today": 2, "fetched_at": "2026-02-11T23:50:06"}
-{"source": "toutiao", "rank": 6, "title": "中国女特警实力碾压美国男队", "hot_value": 2752792, "duration": 48780, "top_rank_today": 2, "fetched_at": "2026-02-11T23:50:06"}
-{"source": "toutiao", "rank": 7, "title": "00后办的年货有多震撼", "hot_value": 3715880, "duration": 8580, "top_rank_today": 7, "fetched_at": "2026-02-11T23:50:06"}
-{"source": "toutiao", "rank": 8, "title": "岛内人士：祖国是统一力量坚强后盾", "hot_value": 1845251, "duration": 4080, "top_rank_today": 8, "fetched_at": "2026-02-11T23:50:06"}
-{"source": "toutiao", "rank": 9, "title": "赵心童回应拿下2026年首冠", "hot_value": 1669652, "duration": 4200, "top_rank_today": 8, "fetched_at": "2026-02-11T23:50:06"}
-{"source": "toutiao", "rank": 10, "title": "9天假期有奖发票奖金将超10亿元", "hot_value": 1510764, "duration": 36000, "top_rank_today": 2, "fetched_at": "2026-02-11T23:50:06"}
-{"source": "baidu", "rank": 1, "title": "全国房价止跌信号初现", "hot_value": 7808266, "duration": 5700, "top_rank_today": 1, "fetched_at": "2026-02-11T23:50:07"}
-{"source": "baidu", "rank": 2, "title": "9岁抗癌女孩去世前整夜呼喊妈妈", "hot_value": 7714293, "duration": 11760, "top_rank_today": 2, "fetched_at": "2026-02-11T23:50:07"}
-{"source": "baidu", "rank": 3, "title": "外国人也赶春运 ChinaTravel说走就走", "hot_value": 7617529, "duration": 23820, "top_rank_today": 3, "fetched_at": "2026-02-11T23:50:07"}
-{"source": "baidu", "rank": 4, "title": "米兰冬奥会首位三金王诞生", "hot_value": 7520542, "duration": 3960, "top_rank_today": 4, "fetched_at": "2026-02-11T23:50:07"}
-{"source": "baidu", "rank": 5, "title": "西部战区年度大片：战机“大象漫步”", "hot_value": 7426622, "duration": 2700, "top_rank_today": 5, "fetched_at": "2026-02-11T23:50:07"}
-{"source": "baidu", "rank": 6, "title": "一家35口人开大巴春节自驾游", "hot_value": 7329502, "duration": 13260, "top_rank_today": 4, "fetched_at": "2026-02-11T23:50:07"}
-{"source": "baidu", "rank": 7, "title": "刘佳宇重摔倒地 被担架抬走", "hot_value": 7239060, "duration": 10860, "top_rank_today": 4, "fetched_at": "2026-02-11T23:50:07"}
-{"source": "baidu", "rank": 8, "title": "女生带回家的男友是堂弟初中同学", "hot_value": 7143648, "duration": 7920, "top_rank_today": 5, "fetched_at": "2026-02-11T23:50:07"}
-{"source": "baidu", "rank": 9, "title": "手机出现这些问题可能是被控屏了", "hot_value": 7046458, "duration": 15960, "top_rank_today": 9, "fetched_at": "2026-02-11T23:50:07"}
-{"source": "baidu", "rank": 10, "title": "湖南卫视春晚", "hot_value": 6946460, "duration": 5880, "top_rank_today": 4, "fetched_at": "2026-02-11T23:50:07"}
+{"source": "weibo", "rank": 1, "title": "22岁主播每天焊妆两次确诊肺炎", "hot_value": 1091717, "duration": 4800, "top_rank_today": 1, "fetched_at": "2026-02-12T23:50:03"}
+{"source": "weibo", "rank": 2, "title": "Deepseek被指变冷淡了", "hot_value": 806080, "duration": 3840, "top_rank_today": 2, "fetched_at": "2026-02-12T23:50:03"}
+{"source": "weibo", "rank": 3, "title": "我家的C位年货", "hot_value": 614964, "duration": 8760, "top_rank_today": 3, "fetched_at": "2026-02-12T23:50:03"}
+{"source": "weibo", "rank": 4, "title": "虞书欣直播", "hot_value": 614237, "duration": 3960, "top_rank_today": 4, "fetched_at": "2026-02-12T23:50:03"}
+{"source": "weibo", "rank": 5, "title": "王者荣耀超话爆了", "hot_value": 354108, "duration": 6180, "top_rank_today": 4, "fetched_at": "2026-02-12T23:50:03"}
+{"source": "weibo", "rank": 6, "title": "丞磊在飞机上帮王楚然剔牙", "hot_value": 344152, "duration": 2100, "top_rank_today": 6, "fetched_at": "2026-02-12T23:50:03"}
+{"source": "weibo", "rank": 7, "title": "爸爸被劝酒女儿站身后霸气挡酒", "hot_value": 259062, "duration": 12660, "top_rank_today": 2, "fetched_at": "2026-02-12T23:50:03"}
+{"source": "weibo", "rank": 8, "title": "坏果太多胖东来下架全部智利车厘子", "hot_value": 215471, "duration": 11640, "top_rank_today": 1, "fetched_at": "2026-02-12T23:50:03"}
+{"source": "weibo", "rank": 9, "title": "太平年大结局", "hot_value": 171394, "duration": 4920, "top_rank_today": 7, "fetched_at": "2026-02-12T23:50:03"}
+{"source": "weibo", "rank": 10, "title": "小马打架被咬伤负气出逃跑上高架", "hot_value": 138280, "duration": 3240, "top_rank_today": 10, "fetched_at": "2026-02-12T23:50:03"}
+{"source": "douyin", "rank": 1, "title": "豆包即梦上线视频模型Seedance2.0", "hot_value": 11824003, "duration": 35100, "top_rank_today": 1, "fetched_at": "2026-02-12T23:50:05"}
+{"source": "douyin", "rank": 2, "title": "CBA杯上海战胜山西夺冠", "hot_value": 11244162, "duration": 6720, "top_rank_today": 1, "fetched_at": "2026-02-12T23:50:05"}
+{"source": "douyin", "rank": 3, "title": "我国科学家在3D打印领域有新突破", "hot_value": 11109717, "duration": 9660, "top_rank_today": 3, "fetched_at": "2026-02-12T23:50:05"}
+{"source": "douyin", "rank": 4, "title": "林孝埈刘少昂孙龙出战1000米", "hot_value": 11008536, "duration": 47280, "top_rank_today": 1, "fetched_at": "2026-02-12T23:50:05"}
+{"source": "douyin", "rank": 5, "title": "认真生活的人本就闪亮", "hot_value": 10398260, "duration": 4800, "top_rank_today": 5, "fetched_at": "2026-02-12T23:50:05"}
+{"source": "douyin", "rank": 6, "title": "我年少你飘渺", "hot_value": 10376664, "duration": 58860, "top_rank_today": 4, "fetched_at": "2026-02-12T23:50:05"}
+{"source": "douyin", "rank": 7, "title": "廉子文与文内马斯碰撞", "hot_value": 9220845, "duration": 46020, "top_rank_today": 2, "fetched_at": "2026-02-12T23:50:05"}
+{"source": "douyin", "rank": 8, "title": "我们总能在逆境中重生千千万万次", "hot_value": 9209720, "duration": 3360, "top_rank_today": 8, "fetched_at": "2026-02-12T23:50:05"}
+{"source": "douyin", "rank": 9, "title": "永远会被老一辈的爱情感动", "hot_value": 9204638, "duration": 28800, "top_rank_today": 6, "fetched_at": "2026-02-12T23:50:05"}
+{"source": "douyin", "rank": 10, "title": "两艘美国海军舰艇发生碰撞", "hot_value": 9186439, "duration": 14820, "top_rank_today": 2, "fetched_at": "2026-02-12T23:50:05"}
+{"source": "toutiao", "rank": 1, "title": "女孩在爸爸公司年会上自信表演舞蹈", "hot_value": 12626873, "duration": 4620, "top_rank_today": 1, "fetched_at": "2026-02-12T23:50:07"}
+{"source": "toutiao", "rank": 2, "title": "中国已购买美出售的委石油？中方回应", "hot_value": 9354218, "duration": 7920, "top_rank_today": 1, "fetched_at": "2026-02-12T23:50:07"}
+{"source": "toutiao", "rank": 3, "title": "入境游热度高涨", "hot_value": 10338010, "duration": 9840, "top_rank_today": 3, "fetched_at": "2026-02-12T23:50:07"}
+{"source": "toutiao", "rank": 4, "title": "正部级“女老虎”王莉霞被双开", "hot_value": 7658586, "duration": 36240, "top_rank_today": 2, "fetched_at": "2026-02-12T23:50:07"}
+{"source": "toutiao", "rank": 5, "title": "坏果太多 胖东来全面下架智利车厘子", "hot_value": 6929775, "duration": 2400, "top_rank_today": 5, "fetched_at": "2026-02-12T23:50:07"}
+{"source": "toutiao", "rank": 6, "title": "13年前的奔驰车设计有多炸裂", "hot_value": 6270320, "duration": 5220, "top_rank_today": 1, "fetched_at": "2026-02-12T23:50:07"}
+{"source": "toutiao", "rank": 7, "title": "评论员：俄军苦战1年终于要有成果", "hot_value": 5673620, "duration": 2460, "top_rank_today": 7, "fetched_at": "2026-02-12T23:50:07"}
+{"source": "toutiao", "rank": 8, "title": "男子火车上打盹5分钟被盗49000元", "hot_value": 5133703, "duration": 5700, "top_rank_today": 6, "fetched_at": "2026-02-12T23:50:07"}
+{"source": "toutiao", "rank": 9, "title": "你今年会回家过年吗", "hot_value": 4203121, "duration": 2220, "top_rank_today": 7, "fetched_at": "2026-02-12T23:50:07"}
+{"source": "toutiao", "rank": 10, "title": "军委副主席张升民：要加强练兵备战", "hot_value": 3441224, "duration": 18600, "top_rank_today": 2, "fetched_at": "2026-02-12T23:50:07"}
+{"source": "baidu", "rank": 1, "title": "坏果太多胖东来下架全部智利车厘子", "hot_value": 7808063, "duration": 7980, "top_rank_today": 1, "fetched_at": "2026-02-12T23:50:08"}
+{"source": "baidu", "rank": 2, "title": "9岁男孩拍短剧一天挣2000", "hot_value": 7712823, "duration": 13020, "top_rank_today": 2, "fetched_at": "2026-02-12T23:50:08"}
+{"source": "baidu", "rank": 3, "title": "坐火车回家 这些东西不能带", "hot_value": 7617967, "duration": 9240, "top_rank_today": 3, "fetched_at": "2026-02-12T23:50:08"}
+{"source": "baidu", "rank": 4, "title": "已购买美国出售的委石油？中方回应", "hot_value": 7522166, "duration": 5580, "top_rank_today": 4, "fetched_at": "2026-02-12T23:50:08"}
+{"source": "baidu", "rank": 5, "title": "女儿看到外出打工一年的妈妈不敢认", "hot_value": 7424202, "duration": 6300, "top_rank_today": 5, "fetched_at": "2026-02-12T23:50:08"}
+{"source": "baidu", "rank": 6, "title": "数十万亿定期存款到期后将去向哪里", "hot_value": 7327748, "duration": 9780, "top_rank_today": 4, "fetched_at": "2026-02-12T23:50:08"}
+{"source": "baidu", "rank": 7, "title": "小狗船上走半天发现 “位移为0”", "hot_value": 7235686, "duration": 12180, "top_rank_today": 5, "fetched_at": "2026-02-12T23:50:08"}
+{"source": "baidu", "rank": 8, "title": "54岁大叔扛着行李和塑料桶返乡", "hot_value": 7135992, "duration": 19080, "top_rank_today": 4, "fetched_at": "2026-02-12T23:50:08"}
+{"source": "baidu", "rank": 9, "title": "男子火车上打盹5分钟被偷49000元", "hot_value": 7042918, "duration": 3180, "top_rank_today": 9, "fetched_at": "2026-02-12T23:50:08"}
+{"source": "baidu", "rank": 10, "title": "年底家政市场日薪700元招不到人", "hot_value": 6951559, "duration": 11820, "top_rank_today": 4, "fetched_at": "2026-02-12T23:50:08"}
 ```
