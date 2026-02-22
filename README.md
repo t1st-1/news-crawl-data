@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-02-21 23:50:07
+更新时间：2026-02-22 23:50:07
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "前方无厕所无烤肠无茶叶蛋", "hot_value": 1083556, "duration": 7740, "top_rank_today": 1, "fetched_at": "2026-02-21T23:50:04"}
-{"source": "weibo", "rank": 2, "title": "镖人", "hot_value": 759057, "duration": 5460, "top_rank_today": 2, "fetched_at": "2026-02-21T23:50:04"}
-{"source": "weibo", "rank": 3, "title": "热气腾腾的中国年", "hot_value": 643933, "duration": 7320, "top_rank_today": 3, "fetched_at": "2026-02-21T23:50:04"}
-{"source": "weibo", "rank": 4, "title": "李昀锐拍宋雨琦", "hot_value": 541961, "duration": 1860, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:04"}
-{"source": "weibo", "rank": 5, "title": "游客挤到悔不当初不如在家刷手机", "hot_value": 254845, "duration": 10500, "top_rank_today": 5, "fetched_at": "2026-02-21T23:50:04"}
-{"source": "weibo", "rank": 6, "title": "白鹿 我家923", "hot_value": 243938, "duration": 8880, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:04"}
-{"source": "weibo", "rank": 7, "title": "林孝埈发博总结冬奥", "hot_value": 177999, "duration": 3300, "top_rank_today": 7, "fetched_at": "2026-02-21T23:50:04"}
-{"source": "weibo", "rank": 8, "title": "辽宁春晚最大黑马小品以貌取人", "hot_value": 167906, "duration": 11940, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:04"}
-{"source": "weibo", "rank": 9, "title": "上门喂猫不让人走", "hot_value": 155607, "duration": 12720, "top_rank_today": 9, "fetched_at": "2026-02-21T23:50:04"}
-{"source": "weibo", "rank": 10, "title": "谷爱凌第八位出场", "hot_value": 132128, "duration": 2460, "top_rank_today": 8, "fetched_at": "2026-02-21T23:50:04"}
-{"source": "douyin", "rank": 1, "title": "中国队空中技巧混合团体摘铜", "hot_value": 12103031, "duration": 16080, "top_rank_today": 1, "fetched_at": "2026-02-21T23:50:05"}
-{"source": "douyin", "rank": 2, "title": "正月初五接财神", "hot_value": 11302838, "duration": 54120, "top_rank_today": 1, "fetched_at": "2026-02-21T23:50:05"}
-{"source": "douyin", "rank": 3, "title": "春节档电影总票房突破40亿元", "hot_value": 11299291, "duration": 7920, "top_rank_today": 3, "fetched_at": "2026-02-21T23:50:05"}
-{"source": "douyin", "rank": 4, "title": "过年好像一场热闹的梦", "hot_value": 11101595, "duration": 11100, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:05"}
-{"source": "douyin", "rank": 5, "title": "新春穿搭不重样挑战", "hot_value": 10545974, "duration": 13500, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:05"}
-{"source": "douyin", "rank": 6, "title": "消息称美考虑打击哈梅内伊父子", "hot_value": 10532711, "duration": 20100, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:05"}
-{"source": "douyin", "rank": 7, "title": "宁忠岩直播“验”冬奥金牌", "hot_value": 9355734, "duration": 6060, "top_rank_today": 5, "fetched_at": "2026-02-21T23:50:05"}
-{"source": "douyin", "rank": 8, "title": "王心迪夺冠后谈及徐梦桃", "hot_value": 9307585, "duration": 33480, "top_rank_today": 6, "fetched_at": "2026-02-21T23:50:05"}
-{"source": "douyin", "rank": 9, "title": "与中国短道速滑队同在", "hot_value": 9205790, "duration": 45000, "top_rank_today": 5, "fetched_at": "2026-02-21T23:50:05"}
-{"source": "douyin", "rank": 10, "title": "中国自由式滑雪空中技巧为何这么强", "hot_value": 9184369, "duration": 45660, "top_rank_today": 8, "fetched_at": "2026-02-21T23:50:05"}
-{"source": "toutiao", "rank": 1, "title": "男子自驾游开10小时后弃车换高铁", "hot_value": 24935301, "duration": 16020, "top_rank_today": 1, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "toutiao", "rank": 2, "title": "物理老师飞机上突发灵感给学生录实验", "hot_value": 20415298, "duration": 5940, "top_rank_today": 2, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "toutiao", "rank": 3, "title": "春节哪些景点更热门？一组数据盘点", "hot_value": 22562393, "duration": 7980, "top_rank_today": 3, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "toutiao", "rank": 4, "title": "网友家有个塑料盆用了40多年仍完好", "hot_value": 13684783, "duration": 2940, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "toutiao", "rank": 5, "title": "韩国拒绝韩美日三边空中演习邀请", "hot_value": 12382504, "duration": 2220, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "toutiao", "rank": 6, "title": "魏东旭：美胆敢介入台海下场可想而知", "hot_value": 11204153, "duration": 4080, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "toutiao", "rank": 7, "title": "北京世界公园临时闭园", "hot_value": 9173184, "duration": 4680, "top_rank_today": 7, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "toutiao", "rank": 8, "title": "黑龙江现大型动物咬死小牛", "hot_value": 8300240, "duration": 4740, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "toutiao", "rank": 9, "title": "专家解读本次沙尘天气从何而来", "hot_value": 7510368, "duration": 7080, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "toutiao", "rank": 10, "title": "女财神被游客追得满场跑", "hot_value": 6795662, "duration": 1560, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "baidu", "rank": 1, "title": "“前方无厕所、无烤肠、无茶叶蛋”", "hot_value": 7808750, "duration": 18780, "top_rank_today": 1, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "baidu", "rank": 2, "title": "山东网友自驾去重庆 开了10小时弃车", "hot_value": 7714378, "duration": 18240, "top_rank_today": 2, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "baidu", "rank": 3, "title": "“赛博”中国年", "hot_value": 7615814, "duration": 6900, "top_rank_today": 3, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "baidu", "rank": 4, "title": "游客挤到悔不当初不如在家刷手机", "hot_value": 7522843, "duration": 6780, "top_rank_today": 4, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "baidu", "rank": 5, "title": "“假蔡明”被送给了真蔡明", "hot_value": 7425730, "duration": 2580, "top_rank_today": 5, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "baidu", "rank": 6, "title": "“天下第一财神庙”被游客挤爆", "hot_value": 7332676, "duration": 29160, "top_rank_today": 1, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "baidu", "rank": 7, "title": "中国有六对奥运金牌夫妇", "hot_value": 7232943, "duration": 21300, "top_rank_today": 5, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "baidu", "rank": 8, "title": "弟弟假期日记曝光 鸡鸭每天瑟瑟发抖", "hot_value": 7136888, "duration": 17820, "top_rank_today": 5, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "baidu", "rank": 9, "title": "哈尔滨冰雪大世界：正式闭园", "hot_value": 7042711, "duration": 10800, "top_rank_today": 5, "fetched_at": "2026-02-21T23:50:07"}
-{"source": "baidu", "rank": 10, "title": "寒潮+暴雪+大风+沙尘暴4预警齐发", "hot_value": 6948266, "duration": 20520, "top_rank_today": 10, "fetched_at": "2026-02-21T23:50:07"}
+{"source": "weibo", "rank": 1, "title": "谷爱凌金牌", "hot_value": 1124382, "duration": 16920, "top_rank_today": 1, "fetched_at": "2026-02-22T23:50:02"}
+{"source": "weibo", "rank": 2, "title": "谷爱凌第三滑94.75分", "hot_value": 823367, "duration": 17400, "top_rank_today": 1, "fetched_at": "2026-02-22T23:50:02"}
+{"source": "weibo", "rank": 3, "title": "2026新春走基层", "hot_value": 631424, "duration": 9600, "top_rank_today": 3, "fetched_at": "2026-02-22T23:50:02"}
+{"source": "weibo", "rank": 4, "title": "虞书欣何与 神仙肉", "hot_value": 314468, "duration": 11940, "top_rank_today": 4, "fetched_at": "2026-02-22T23:50:02"}
+{"source": "weibo", "rank": 5, "title": "镖人", "hot_value": 278774, "duration": 67500, "top_rank_today": 2, "fetched_at": "2026-02-22T23:50:02"}
+{"source": "weibo", "rank": 6, "title": "女子U型场地决赛", "hot_value": 197947, "duration": 22020, "top_rank_today": 1, "fetched_at": "2026-02-22T23:50:02"}
+{"source": "weibo", "rank": 7, "title": "王楚钦鹰眼挑战成功", "hot_value": 197830, "duration": 4500, "top_rank_today": 7, "fetched_at": "2026-02-22T23:50:02"}
+{"source": "weibo", "rank": 8, "title": "李昀锐将无缝进组剑阁闻铃", "hot_value": 197317, "duration": 120, "top_rank_today": 8, "fetched_at": "2026-02-22T23:50:02"}
+{"source": "weibo", "rank": 9, "title": "谷爱凌从16分到94分绝地反击", "hot_value": 197047, "duration": 4200, "top_rank_today": 7, "fetched_at": "2026-02-22T23:50:02"}
+{"source": "weibo", "rank": 10, "title": "中国队5金4银6铜收官", "hot_value": 196513, "duration": 15900, "top_rank_today": 2, "fetched_at": "2026-02-22T23:50:02"}
+{"source": "douyin", "rank": 1, "title": "谷爱凌李方慧包揽U池金银牌", "hot_value": 12222602, "duration": 16860, "top_rank_today": 1, "fetched_at": "2026-02-22T23:50:04"}
+{"source": "douyin", "rank": 2, "title": "苏翊鸣担任闭幕式旗手", "hot_value": 11885905, "duration": 59940, "top_rank_today": 2, "fetched_at": "2026-02-22T23:50:04"}
+{"source": "douyin", "rank": 3, "title": "数说新春出游", "hot_value": 11740142, "duration": 10740, "top_rank_today": 3, "fetched_at": "2026-02-22T23:50:04"}
+{"source": "douyin", "rank": 4, "title": "返程高速堵成什么样了", "hot_value": 11606817, "duration": 14400, "top_rank_today": 4, "fetched_at": "2026-02-22T23:50:04"}
+{"source": "douyin", "rank": 5, "title": "即使万般不舍 依然也要往前走", "hot_value": 10899460, "duration": 44280, "top_rank_today": 4, "fetched_at": "2026-02-22T23:50:04"}
+{"source": "douyin", "rank": 6, "title": "当美妆达人回村后", "hot_value": 10623201, "duration": 41160, "top_rank_today": 5, "fetched_at": "2026-02-22T23:50:04"}
+{"source": "douyin", "rank": 7, "title": "大年初六送穷日", "hot_value": 9471508, "duration": 58680, "top_rank_today": 1, "fetched_at": "2026-02-22T23:50:04"}
+{"source": "douyin", "rank": 8, "title": "行李箱一装又该返程了", "hot_value": 9275078, "duration": 9900, "top_rank_today": 5, "fetched_at": "2026-02-22T23:50:04"}
+{"source": "douyin", "rank": 9, "title": "节后必带回北上广的老家特产", "hot_value": 9123720, "duration": 31860, "top_rank_today": 8, "fetched_at": "2026-02-22T23:50:04"}
+{"source": "douyin", "rank": 10, "title": "谷爱凌一战刷新多项纪录", "hot_value": 9083705, "duration": 14400, "top_rank_today": 10, "fetched_at": "2026-02-22T23:50:04"}
+{"source": "toutiao", "rank": 1, "title": "中国队5金4银6铜收官", "hot_value": 11506377, "duration": 16140, "top_rank_today": 1, "fetched_at": "2026-02-22T23:50:06"}
+{"source": "toutiao", "rank": 2, "title": "曝伊朗革命卫队已接管黎巴嫩真主党", "hot_value": 10411400, "duration": 8220, "top_rank_today": 2, "fetched_at": "2026-02-22T23:50:06"}
+{"source": "toutiao", "rank": 3, "title": "跨区域人员流动量将达峰值", "hot_value": 9420625, "duration": 10500, "top_rank_today": 3, "fetched_at": "2026-02-22T23:50:06"}
+{"source": "toutiao", "rank": 4, "title": "谷爱凌：我的100%拿牌率不可思议", "hot_value": 8524134, "duration": 12540, "top_rank_today": 2, "fetched_at": "2026-02-22T23:50:06"}
+{"source": "toutiao", "rank": 5, "title": "提前返程的聪明人连饭都带了", "hot_value": 7712955, "duration": 6420, "top_rank_today": 4, "fetched_at": "2026-02-22T23:50:06"}
+{"source": "toutiao", "rank": 6, "title": "春节返程第一批狗狗已经出发了", "hot_value": 6978970, "duration": 9000, "top_rank_today": 2, "fetched_at": "2026-02-22T23:50:06"}
+{"source": "toutiao", "rank": 7, "title": "大年初六恰是马年马日", "hot_value": 5713897, "duration": 4080, "top_rank_today": 7, "fetched_at": "2026-02-22T23:50:06"}
+{"source": "toutiao", "rank": 8, "title": "谷爱凌夺金刷新多项纪录", "hot_value": 5170148, "duration": 10500, "top_rank_today": 7, "fetched_at": "2026-02-22T23:50:06"}
+{"source": "toutiao", "rank": 9, "title": "内蒙古赤峰遭遇罕见强风天气", "hot_value": 3830140, "duration": 3780, "top_rank_today": 8, "fetched_at": "2026-02-22T23:50:06"}
+{"source": "toutiao", "rank": 10, "title": "你如何看“成为中国人”海外爆火", "hot_value": 4232959, "duration": 9960, "top_rank_today": 4, "fetched_at": "2026-02-22T23:50:06"}
+{"source": "baidu", "rank": 1, "title": "“上了高速发现全是聪明人”", "hot_value": 7808919, "duration": 5700, "top_rank_today": 1, "fetched_at": "2026-02-22T23:50:07"}
+{"source": "baidu", "rank": 2, "title": "历史第一人！谷爱凌冬奥刷爆纪录", "hot_value": 7712987, "duration": 14280, "top_rank_today": 2, "fetched_at": "2026-02-22T23:50:07"}
+{"source": "baidu", "rank": 3, "title": "假期返程天气、交通等服务指南来了", "hot_value": 7619529, "duration": 9960, "top_rank_today": 3, "fetched_at": "2026-02-22T23:50:07"}
+{"source": "baidu", "rank": 4, "title": "开了12小时还要12小时：肉要臭了", "hot_value": 7519959, "duration": 8820, "top_rank_today": 4, "fetched_at": "2026-02-22T23:50:07"}
+{"source": "baidu", "rank": 5, "title": "6元塑料盆用了41年仍完好", "hot_value": 7423686, "duration": 5400, "top_rank_today": 4, "fetched_at": "2026-02-22T23:50:07"}
+{"source": "baidu", "rank": 6, "title": "第一批返程的人已堵哭", "hot_value": 7333362, "duration": 24480, "top_rank_today": 1, "fetched_at": "2026-02-22T23:50:07"}
+{"source": "baidu", "rank": 7, "title": "北京市委市政府发贺电", "hot_value": 7233007, "duration": 8220, "top_rank_today": 7, "fetched_at": "2026-02-22T23:50:07"}
+{"source": "baidu", "rank": 8, "title": "谷爱凌：我的100%拿牌率不可思议", "hot_value": 7140244, "duration": 7740, "top_rank_today": 4, "fetched_at": "2026-02-22T23:50:07"}
+{"source": "baidu", "rank": 9, "title": "彩民随手扔掉千万彩票2天才发现", "hot_value": 7045532, "duration": 24180, "top_rank_today": 7, "fetched_at": "2026-02-22T23:50:07"}
+{"source": "baidu", "rank": 10, "title": "谷爱凌夺冠后拥吻母亲", "hot_value": 6943529, "duration": 7740, "top_rank_today": 10, "fetched_at": "2026-02-22T23:50:07"}
 ```
