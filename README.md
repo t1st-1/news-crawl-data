@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-02-27 23:50:06
+更新时间：2026-02-28 23:50:07
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "提醒在伊朗的中国公民尽快撤离", "hot_value": 1107078, "duration": 16620, "top_rank_today": 1, "fetched_at": "2026-02-27T23:50:02"}
-{"source": "weibo", "rank": 2, "title": "21岁女生头晕以为没睡好查出脑梗", "hot_value": 799616, "duration": 1860, "top_rank_today": 2, "fetched_at": "2026-02-27T23:50:02"}
-{"source": "weibo", "rank": 3, "title": "关注2026全国两会", "hot_value": 659936, "duration": 8340, "top_rank_today": 3, "fetched_at": "2026-02-27T23:50:02"}
-{"source": "weibo", "rank": 4, "title": "虎跳峡男游客疑因洗杯落水失联", "hot_value": 394606, "duration": 6540, "top_rank_today": 2, "fetched_at": "2026-02-27T23:50:02"}
-{"source": "weibo", "rank": 5, "title": "美国双航母已就位", "hot_value": 262380, "duration": 8040, "top_rank_today": 2, "fetched_at": "2026-02-27T23:50:02"}
-{"source": "weibo", "rank": 6, "title": "政府借厕所遭辱骂男子要求公开道歉", "hot_value": 245515, "duration": 5400, "top_rank_today": 6, "fetched_at": "2026-02-27T23:50:02"}
-{"source": "weibo", "rank": 7, "title": "伊军方将对美侵略予以毁灭性回应", "hot_value": 227814, "duration": 7380, "top_rank_today": 4, "fetched_at": "2026-02-27T23:50:02"}
-{"source": "weibo", "rank": 8, "title": "反诈老陈因多次违规被罚", "hot_value": 227675, "duration": 1740, "top_rank_today": 8, "fetched_at": "2026-02-27T23:50:02"}
-{"source": "weibo", "rank": 9, "title": "当妈妈把欧洲特产蒸了后", "hot_value": 183122, "duration": 3480, "top_rank_today": 9, "fetched_at": "2026-02-27T23:50:02"}
-{"source": "weibo", "rank": 10, "title": "Gucci直播", "hot_value": 151865, "duration": 10200, "top_rank_today": 4, "fetched_at": "2026-02-27T23:50:02"}
-{"source": "douyin", "rank": 1, "title": "欧冠淘汰赛抽签结果出炉", "hot_value": 11818512, "duration": 12720, "top_rank_today": 1, "fetched_at": "2026-02-27T23:50:03"}
-{"source": "douyin", "rank": 2, "title": "中国公民暂勿前往伊朗", "hot_value": 11689205, "duration": 19020, "top_rank_today": 2, "fetched_at": "2026-02-27T23:50:03"}
-{"source": "douyin", "rank": 3, "title": "从春运变化看消费业态升级", "hot_value": 11480437, "duration": 23160, "top_rank_today": 3, "fetched_at": "2026-02-27T23:50:03"}
-{"source": "douyin", "rank": 4, "title": "孙颖莎晋级新加坡大满贯八强", "hot_value": 11398779, "duration": 9840, "top_rank_today": 2, "fetched_at": "2026-02-27T23:50:03"}
-{"source": "douyin", "rank": 5, "title": "晒晒我的四六级", "hot_value": 10647953, "duration": 31320, "top_rank_today": 1, "fetched_at": "2026-02-27T23:50:03"}
-{"source": "douyin", "rank": 6, "title": "聚光灯给到2026届高三生", "hot_value": 10402867, "duration": 4500, "top_rank_today": 6, "fetched_at": "2026-02-27T23:50:03"}
-{"source": "douyin", "rank": 7, "title": "中国驻以色列使馆紧急通知", "hot_value": 9304847, "duration": 9720, "top_rank_today": 7, "fetched_at": "2026-02-27T23:50:03"}
-{"source": "douyin", "rank": 8, "title": "美国建议美公民尽快离开以色列", "hot_value": 9242371, "duration": 20520, "top_rank_today": 8, "fetched_at": "2026-02-27T23:50:03"}
-{"source": "douyin", "rank": 9, "title": "谁还没个隐藏技能", "hot_value": 9195308, "duration": 23520, "top_rank_today": 2, "fetched_at": "2026-02-27T23:50:03"}
-{"source": "douyin", "rank": 10, "title": "美军双航母就位", "hot_value": 9136359, "duration": 4680, "top_rank_today": 10, "fetched_at": "2026-02-27T23:50:03"}
-{"source": "toutiao", "rank": 1, "title": "外交部回应巴拿马称中方不会反制", "hot_value": 13935331, "duration": 3420, "top_rank_today": 1, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "toutiao", "rank": 2, "title": "为5胞胎接生的专家肉眼可见地老了", "hot_value": 10323547, "duration": 2820, "top_rank_today": 2, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "toutiao", "rank": 3, "title": "“到中国过年”成新潮", "hot_value": 11409284, "duration": 10560, "top_rank_today": 3, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "toutiao", "rank": 4, "title": "巴阿为何又打起来了", "hot_value": 9341131, "duration": 4560, "top_rank_today": 4, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "toutiao", "rank": 5, "title": "开工1天签5千万大单女销售再签4千万", "hot_value": 8452205, "duration": 10620, "top_rank_today": 2, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "toutiao", "rank": 6, "title": "美团淘宝京东响应外卖新规", "hot_value": 5665682, "duration": 7920, "top_rank_today": 2, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "toutiao", "rank": 7, "title": "巴基斯坦军人在阿富汗阵地升旗", "hot_value": 7647872, "duration": 4560, "top_rank_today": 7, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "toutiao", "rank": 8, "title": "你如何看待机器人发展对人类的影响", "hot_value": 4638668, "duration": 2160, "top_rank_today": 7, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "toutiao", "rank": 9, "title": "未来十年真正的稀缺资产是什么", "hot_value": 3797820, "duration": 2760, "top_rank_today": 7, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "toutiao", "rank": 10, "title": "巴基斯坦与阿富汗激烈冲突有何影响", "hot_value": 6920080, "duration": 7800, "top_rank_today": 4, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "baidu", "rank": 1, "title": "美团、淘宝、京东齐发声", "hot_value": 7809530, "duration": 11880, "top_rank_today": 1, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "baidu", "rank": 2, "title": "网友建议每年免费5000公里 专家回应", "hot_value": 7713740, "duration": 11460, "top_rank_today": 2, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "baidu", "rank": 3, "title": "从三餐四季看小麦变身记", "hot_value": 7617873, "duration": 9960, "top_rank_today": 3, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "baidu", "rank": 4, "title": "中国驻以使馆：中国公民非必要不外出", "hot_value": 7523547, "duration": 8460, "top_rank_today": 4, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "baidu", "rank": 5, "title": "开工1天签5千万单的女子再签4千万", "hot_value": 7425838, "duration": 7860, "top_rank_today": 5, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "baidu", "rank": 6, "title": "伊军方称将对美侵略予以毁灭性回应", "hot_value": 7330338, "duration": 3780, "top_rank_today": 6, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "baidu", "rank": 7, "title": "男孩地铁走丢 报出妈妈号码逗笑路人", "hot_value": 7234492, "duration": 13080, "top_rank_today": 4, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "baidu", "rank": 8, "title": "车价大跳水：宝马降30万 雅阁降10万", "hot_value": 7142683, "duration": 26220, "top_rank_today": 1, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "baidu", "rank": 9, "title": "千元机正在消失", "hot_value": 7044750, "duration": 30960, "top_rank_today": 4, "fetched_at": "2026-02-27T23:50:06"}
-{"source": "baidu", "rank": 10, "title": "00后员工年薪80万 是老板的6倍", "hot_value": 6950043, "duration": 12660, "top_rank_today": 5, "fetched_at": "2026-02-27T23:50:06"}
+{"source": "weibo", "rank": 1, "title": "以色列宣布袭击伊朗", "hot_value": 1586285, "duration": 33660, "top_rank_today": 1, "fetched_at": "2026-02-28T23:50:02"}
+{"source": "weibo", "rank": 2, "title": "小米超跑亮相", "hot_value": 949979, "duration": 4560, "top_rank_today": 2, "fetched_at": "2026-02-28T23:50:02"}
+{"source": "weibo", "rank": 3, "title": "3月起一批国家标准开始实施", "hot_value": 741360, "duration": 7440, "top_rank_today": 3, "fetched_at": "2026-02-28T23:50:02"}
+{"source": "weibo", "rank": 4, "title": "据称伊朗革命卫队总司令和防长身亡", "hot_value": 456368, "duration": 6060, "top_rank_today": 4, "fetched_at": "2026-02-28T23:50:02"}
+{"source": "weibo", "rank": 5, "title": "国乒仅王楚钦晋级男单四强", "hot_value": 298731, "duration": 3720, "top_rank_today": 5, "fetched_at": "2026-02-28T23:50:02"}
+{"source": "weibo", "rank": 6, "title": "伊朗一小学遭袭51人死60人伤", "hot_value": 284639, "duration": 12720, "top_rank_today": 2, "fetched_at": "2026-02-28T23:50:02"}
+{"source": "weibo", "rank": 7, "title": "时光与你都很甜2", "hot_value": 246911, "duration": 6240, "top_rank_today": 6, "fetched_at": "2026-02-28T23:50:02"}
+{"source": "weibo", "rank": 8, "title": "美颜突然关掉吓得人一哆嗦", "hot_value": 234382, "duration": 17520, "top_rank_today": 6, "fetched_at": "2026-02-28T23:50:02"}
+{"source": "weibo", "rank": 9, "title": "小米发布会", "hot_value": 232628, "duration": 8820, "top_rank_today": 2, "fetched_at": "2026-02-28T23:50:02"}
+{"source": "weibo", "rank": 10, "title": "镖人票房超越惊蛰无声", "hot_value": 231964, "duration": 6840, "top_rank_today": 5, "fetched_at": "2026-02-28T23:50:02"}
+{"source": "douyin", "rank": 1, "title": "元宵节一定要去福州接福鱼", "hot_value": 11912089, "duration": 25980, "top_rank_today": 1, "fetched_at": "2026-02-28T23:50:04"}
+{"source": "douyin", "rank": 2, "title": "中方就美以袭击伊朗表态", "hot_value": 11539440, "duration": 7380, "top_rank_today": 2, "fetched_at": "2026-02-28T23:50:04"}
+{"source": "douyin", "rank": 3, "title": "我国最大采煤沉陷区光伏基地投运", "hot_value": 11501494, "duration": 8040, "top_rank_today": 3, "fetched_at": "2026-02-28T23:50:04"}
+{"source": "douyin", "rank": 4, "title": "伊朗：袭击致约200名美军人员伤亡", "hot_value": 11476081, "duration": 9960, "top_rank_today": 4, "fetched_at": "2026-02-28T23:50:04"}
+{"source": "douyin", "rank": 5, "title": "哈梅内伊将就美以袭击发表讲话", "hot_value": 10783609, "duration": 2340, "top_rank_today": 5, "fetched_at": "2026-02-28T23:50:04"}
+{"source": "douyin", "rank": 6, "title": "我的考研出分时刻", "hot_value": 10544354, "duration": 43140, "top_rank_today": 4, "fetched_at": "2026-02-28T23:50:04"}
+{"source": "douyin", "rank": 7, "title": "蔡磊已进入渐冻症疾病的终末期", "hot_value": 9317174, "duration": 28080, "top_rank_today": 5, "fetched_at": "2026-02-28T23:50:04"}
+{"source": "douyin", "rank": 8, "title": "五粮液董事长曾从钦被查", "hot_value": 9264441, "duration": 11040, "top_rank_today": 8, "fetched_at": "2026-02-28T23:50:04"}
+{"source": "douyin", "rank": 9, "title": "反诈老陈因多次违规被处罚", "hot_value": 9243589, "duration": 13080, "top_rank_today": 5, "fetched_at": "2026-02-28T23:50:04"}
+{"source": "douyin", "rank": 10, "title": "考研失败又不是人生失败", "hot_value": 9202502, "duration": 4200, "top_rank_today": 7, "fetched_at": "2026-02-28T23:50:04"}
+{"source": "toutiao", "rank": 1, "title": "新华社：四问美以袭击伊朗", "hot_value": 64912723, "duration": 3240, "top_rank_today": 1, "fetched_at": "2026-02-28T23:50:06"}
+{"source": "toutiao", "rank": 2, "title": "国防部：美是全球战略稳定最大乱源", "hot_value": 14483986, "duration": 13380, "top_rank_today": 2, "fetched_at": "2026-02-28T23:50:06"}
+{"source": "toutiao", "rank": 3, "title": "2025年经济社会发展成绩单", "hot_value": 53146043, "duration": 8160, "top_rank_today": 3, "fetched_at": "2026-02-28T23:50:06"}
+{"source": "toutiao", "rank": 4, "title": "伊朗首都遭袭后什么样", "hot_value": 58735461, "duration": 8160, "top_rank_today": 1, "fetched_at": "2026-02-28T23:50:06"}
+{"source": "toutiao", "rank": 5, "title": "开工1天签5千万大单女销售再签4千万", "hot_value": 13105652, "duration": 85800, "top_rank_today": 2, "fetched_at": "2026-02-28T23:50:06"}
+{"source": "toutiao", "rank": 6, "title": "网友造谣“霸王茶姬涉毒”被抓", "hot_value": 7192534, "duration": 660, "top_rank_today": 5, "fetched_at": "2026-02-28T23:50:06"}
+{"source": "toutiao", "rank": 7, "title": "伊朗小学遇袭 死亡人数升至约85人", "hot_value": 48088528, "duration": 420, "top_rank_today": 7, "fetched_at": "2026-02-28T23:50:06"}
+{"source": "toutiao", "rank": 8, "title": "默茨：脱钩中国就像朝自己的脚开枪", "hot_value": 32234704, "duration": 22380, "top_rank_today": 8, "fetched_at": "2026-02-28T23:50:06"}
+{"source": "toutiao", "rank": 9, "title": "国防部：绝不让任何祸乱南海图谋得逞", "hot_value": 29167167, "duration": 21960, "top_rank_today": 9, "fetched_at": "2026-02-28T23:50:06"}
+{"source": "toutiao", "rank": 10, "title": "伊朗：袭击致约200名美军人员伤亡", "hot_value": 43512300, "duration": 7560, "top_rank_today": 2, "fetched_at": "2026-02-28T23:50:06"}
+{"source": "baidu", "rank": 1, "title": "伊朗称重创美军支援舰", "hot_value": 7809219, "duration": 3420, "top_rank_today": 1, "fetched_at": "2026-02-28T23:50:07"}
+{"source": "baidu", "rank": 2, "title": "伊朗首都遭袭后什么样", "hot_value": 7713013, "duration": 2880, "top_rank_today": 2, "fetched_at": "2026-02-28T23:50:07"}
+{"source": "baidu", "rank": 3, "title": "3月1日起一批国家标准开始实施", "hot_value": 7618070, "duration": 8100, "top_rank_today": 3, "fetched_at": "2026-02-28T23:50:07"}
+{"source": "baidu", "rank": 4, "title": "外交部回应美以打击伊朗", "hot_value": 7519710, "duration": 7020, "top_rank_today": 4, "fetched_at": "2026-02-28T23:50:07"}
+{"source": "baidu", "rank": 5, "title": "手机集体涨价 谁最受伤", "hot_value": 7423547, "duration": 7800, "top_rank_today": 5, "fetched_at": "2026-02-28T23:50:07"}
+{"source": "baidu", "rank": 6, "title": "“脱钩中国就像朝自己的脚开枪”", "hot_value": 7328629, "duration": 12900, "top_rank_today": 4, "fetched_at": "2026-02-28T23:50:07"}
+{"source": "baidu", "rank": 7, "title": "“如果活100岁还能见你10回”", "hot_value": 7234013, "duration": 20880, "top_rank_today": 7, "fetched_at": "2026-02-28T23:50:07"}
+{"source": "baidu", "rank": 8, "title": "惊魂28秒 女孩喂狮子被隔栏抓腿", "hot_value": 7136678, "duration": 5880, "top_rank_today": 8, "fetched_at": "2026-02-28T23:50:07"}
+{"source": "baidu", "rank": 9, "title": "女子离家17天智能马桶狂冲200吨水", "hot_value": 7045332, "duration": 13320, "top_rank_today": 7, "fetched_at": "2026-02-28T23:50:07"}
+{"source": "baidu", "rank": 10, "title": "老板把五金店收拾成精品店引围观", "hot_value": 6948472, "duration": 7560, "top_rank_today": 10, "fetched_at": "2026-02-28T23:50:07"}
 ```
