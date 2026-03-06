@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-03-05 23:50:05
+更新时间：2026-03-06 23:50:09
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "17岁男生发现新物种筷子蛇登上SCI", "hot_value": 1101030, "duration": 2460, "top_rank_today": 1, "fetched_at": "2026-03-05T23:50:02"}
-{"source": "weibo", "rank": 2, "title": "建议短视频凌晨1点至5点深夜静默", "hot_value": 795910, "duration": 18540, "top_rank_today": 1, "fetched_at": "2026-03-05T23:50:02"}
-{"source": "weibo", "rank": 3, "title": "中国将在哪些方向发力", "hot_value": 639207, "duration": 8220, "top_rank_today": 3, "fetched_at": "2026-03-05T23:50:02"}
-{"source": "weibo", "rank": 4, "title": "春假清明连休6天家长称很无奈", "hot_value": 637164, "duration": 16920, "top_rank_today": 4, "fetched_at": "2026-03-05T23:50:02"}
-{"source": "weibo", "rank": 5, "title": "香港没有调休", "hot_value": 291999, "duration": 5760, "top_rank_today": 2, "fetched_at": "2026-03-05T23:50:02"}
-{"source": "weibo", "rank": 6, "title": "伊朗学校葬礼上的中国书包令人心碎", "hot_value": 287809, "duration": 3000, "top_rank_today": 6, "fetched_at": "2026-03-05T23:50:02"}
-{"source": "weibo", "rank": 7, "title": "年入近50万律师挤20小时绿皮火车看书", "hot_value": 270770, "duration": 3000, "top_rank_today": 7, "fetched_at": "2026-03-05T23:50:02"}
-{"source": "weibo", "rank": 8, "title": "建议不调休的代表被记者围住了", "hot_value": 270712, "duration": 27180, "top_rank_today": 1, "fetched_at": "2026-03-05T23:50:02"}
-{"source": "weibo", "rank": 9, "title": "QG五虎十年再合体", "hot_value": 270037, "duration": 5640, "top_rank_today": 5, "fetched_at": "2026-03-05T23:50:02"}
-{"source": "weibo", "rank": 10, "title": "呼吁节假日公共停车位免费", "hot_value": 268996, "duration": 660, "top_rank_today": 10, "fetched_at": "2026-03-05T23:50:02"}
-{"source": "douyin", "rank": 1, "title": "推进祖国统一大业", "hot_value": 11667449, "duration": 13320, "top_rank_today": 1, "fetched_at": "2026-03-05T23:50:03"}
-{"source": "douyin", "rank": 2, "title": "社保迎来“第六险”", "hot_value": 11249214, "duration": 14520, "top_rank_today": 2, "fetched_at": "2026-03-05T23:50:03"}
-{"source": "douyin", "rank": 3, "title": "2026政府工作报告“民生清单”", "hot_value": 11231388, "duration": 9420, "top_rank_today": 3, "fetched_at": "2026-03-05T23:50:03"}
-{"source": "douyin", "rank": 4, "title": "建议扩大公共假期 尽量不要调休", "hot_value": 11007826, "duration": 15300, "top_rank_today": 1, "fetched_at": "2026-03-05T23:50:03"}
-{"source": "douyin", "rank": 5, "title": "郭艾伦受伤离场", "hot_value": 10269794, "duration": 7920, "top_rank_today": 5, "fetched_at": "2026-03-05T23:50:03"}
-{"source": "douyin", "rank": 6, "title": "在抖音沉迷读“论文”", "hot_value": 10207538, "duration": 13680, "top_rank_today": 6, "fetched_at": "2026-03-05T23:50:03"}
-{"source": "douyin", "rank": 7, "title": "建议明确下班后有权拒回工作消息", "hot_value": 9123942, "duration": 5160, "top_rank_today": 7, "fetched_at": "2026-03-05T23:50:03"}
-{"source": "douyin", "rank": 8, "title": "今天惊蛰", "hot_value": 9086585, "duration": 56880, "top_rank_today": 1, "fetched_at": "2026-03-05T23:50:03"}
-{"source": "douyin", "rank": 9, "title": "速览“十四五”经济社会发展成就", "hot_value": 9081373, "duration": 9240, "top_rank_today": 9, "fetched_at": "2026-03-05T23:50:03"}
-{"source": "douyin", "rank": 10, "title": "我的CBA全明星记忆", "hot_value": 9020004, "duration": 14520, "top_rank_today": 6, "fetched_at": "2026-03-05T23:50:03"}
-{"source": "toutiao", "rank": 1, "title": "社保迎来“第六险”", "hot_value": 33633217, "duration": 31140, "top_rank_today": 1, "fetched_at": "2026-03-05T23:50:04"}
-{"source": "toutiao", "rank": 2, "title": "建议取消私家车年审制度", "hot_value": 30432593, "duration": 11580, "top_rank_today": 2, "fetched_at": "2026-03-05T23:50:04"}
-{"source": "toutiao", "rank": 3, "title": "政府工作报告中的新提法", "hot_value": 27536549, "duration": 9720, "top_rank_today": 3, "fetched_at": "2026-03-05T23:50:04"}
-{"source": "toutiao", "rank": 4, "title": "建议春节9天假代表收到很多祝贺", "hot_value": 24916100, "duration": 11280, "top_rank_today": 4, "fetched_at": "2026-03-05T23:50:04"}
-{"source": "toutiao", "rank": 5, "title": "比亚迪：第二代刀片电池9分钟充饱", "hot_value": 9166121, "duration": 13680, "top_rank_today": 2, "fetched_at": "2026-03-05T23:50:04"}
-{"source": "toutiao", "rank": 6, "title": "代表建议80岁以上农民免缴个人医保", "hot_value": 8293849, "duration": 3540, "top_rank_today": 5, "fetched_at": "2026-03-05T23:50:04"}
-{"source": "toutiao", "rank": 7, "title": "建议明确下班后有权拒回工作消息", "hot_value": 18458301, "duration": 14880, "top_rank_today": 6, "fetched_at": "2026-03-05T23:50:04"}
-{"source": "toutiao", "rank": 8, "title": "比亚迪大唐首发亮相", "hot_value": 16701761, "duration": 4320, "top_rank_today": 6, "fetched_at": "2026-03-05T23:50:04"}
-{"source": "toutiao", "rank": 9, "title": "看懂中国经济预期目标的“进”与“稳”", "hot_value": 15112378, "duration": 9780, "top_rank_today": 9, "fetched_at": "2026-03-05T23:50:04"}
-{"source": "toutiao", "rank": 10, "title": "建议适当降低法定结婚年龄", "hot_value": 13674245, "duration": 6240, "top_rank_today": 10, "fetched_at": "2026-03-05T23:50:04"}
-{"source": "baidu", "rank": 1, "title": "建议年轻人晚上11点前一定要睡觉", "hot_value": 7808176, "duration": 28320, "top_rank_today": 1, "fetched_at": "2026-03-05T23:50:05"}
-{"source": "baidu", "rank": 2, "title": "建议短视频凌晨1点至5点深夜静默", "hot_value": 7712793, "duration": 9420, "top_rank_today": 2, "fetched_at": "2026-03-05T23:50:05"}
-{"source": "baidu", "rank": 3, "title": "这些KPI 事关你我的2026", "hot_value": 7617510, "duration": 9180, "top_rank_today": 3, "fetched_at": "2026-03-05T23:50:05"}
-{"source": "baidu", "rank": 4, "title": "建议不调休的代表被记者围住了", "hot_value": 7520820, "duration": 19620, "top_rank_today": 4, "fetched_at": "2026-03-05T23:50:05"}
-{"source": "baidu", "rank": 5, "title": "比亚迪：第二代刀片电池9分钟充饱", "hot_value": 7426640, "duration": 10740, "top_rank_today": 5, "fetched_at": "2026-03-05T23:50:05"}
-{"source": "baidu", "rank": 6, "title": "代表建议80岁以上农民免缴个人医保", "hot_value": 7334268, "duration": 2220, "top_rank_today": 6, "fetched_at": "2026-03-05T23:50:05"}
-{"source": "baidu", "rank": 7, "title": "00后高速收费员撞脸多个明星", "hot_value": 7234760, "duration": 6420, "top_rank_today": 7, "fetched_at": "2026-03-05T23:50:05"}
-{"source": "baidu", "rank": 8, "title": "委员建议取消私家车年审制度", "hot_value": 7136847, "duration": 14220, "top_rank_today": 5, "fetched_at": "2026-03-05T23:50:05"}
-{"source": "baidu", "rank": 9, "title": "提振消费！2026年这些最新部署", "hot_value": 7045090, "duration": 9060, "top_rank_today": 9, "fetched_at": "2026-03-05T23:50:05"}
-{"source": "baidu", "rank": 10, "title": "央行：6日开展8000亿元买断式逆回购", "hot_value": 6947357, "duration": 5520, "top_rank_today": 10, "fetched_at": "2026-03-05T23:50:05"}
+{"source": "weibo", "rank": 1, "title": "花呗等网络消费信贷可享受贴息", "hot_value": 1063238, "duration": 7020, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:06"}
+{"source": "weibo", "rank": 2, "title": "草莓价格大大大跳水", "hot_value": 762088, "duration": 4140, "top_rank_today": 2, "fetched_at": "2026-03-06T23:50:06"}
+{"source": "weibo", "rank": 3, "title": "十五五规划新指标新看点", "hot_value": 615789, "duration": 10920, "top_rank_today": 3, "fetched_at": "2026-03-06T23:50:06"}
+{"source": "weibo", "rank": 4, "title": "生命树", "hot_value": 303997, "duration": 13920, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:06"}
+{"source": "weibo", "rank": 5, "title": "六大未来产业有哪些", "hot_value": 267044, "duration": 13440, "top_rank_today": 5, "fetched_at": "2026-03-06T23:50:06"}
+{"source": "weibo", "rank": 6, "title": "伊朗导弹袭击以色列最大机场", "hot_value": 265597, "duration": 15300, "top_rank_today": 6, "fetched_at": "2026-03-06T23:50:06"}
+{"source": "weibo", "rank": 7, "title": "代表说70岁以上老人真干不动农活了", "hot_value": 259635, "duration": 9840, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:06"}
+{"source": "weibo", "rank": 8, "title": "我国初高中学生人数将排浪式达峰", "hot_value": 259588, "duration": 3480, "top_rank_today": 8, "fetched_at": "2026-03-06T23:50:06"}
+{"source": "weibo", "rank": 9, "title": "预计今年GDP增量超6万亿元", "hot_value": 259439, "duration": 25680, "top_rank_today": 9, "fetched_at": "2026-03-06T23:50:06"}
+{"source": "weibo", "rank": 10, "title": "广西壮族自治区党委书记陈刚亮家丑", "hot_value": 259246, "duration": 17400, "top_rank_today": 4, "fetched_at": "2026-03-06T23:50:06"}
+{"source": "douyin", "rank": 1, "title": "全国人大举行经济主题记者会", "hot_value": 11456359, "duration": 31500, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:07"}
+{"source": "douyin", "rank": 2, "title": "成都蓉城5:1深圳新鹏城", "hot_value": 10831393, "duration": 7500, "top_rank_today": 2, "fetched_at": "2026-03-06T23:50:07"}
+{"source": "douyin", "rank": 3, "title": "预计今年GDP增量超6万亿", "hot_value": 10739006, "duration": 11100, "top_rank_today": 3, "fetched_at": "2026-03-06T23:50:07"}
+{"source": "douyin", "rank": 4, "title": "中国量子计算如何改变世界", "hot_value": 10738518, "duration": 44820, "top_rank_today": 4, "fetched_at": "2026-03-06T23:50:07"}
+{"source": "douyin", "rank": 5, "title": "建议探索4天半工作制", "hot_value": 10193265, "duration": 7140, "top_rank_today": 5, "fetched_at": "2026-03-06T23:50:07"}
+{"source": "douyin", "rank": 6, "title": "代表建议统一全国婚假天数", "hot_value": 10135770, "duration": 37320, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:07"}
+{"source": "douyin", "rank": 7, "title": "中国女足3:0乌兹别克斯坦女足", "hot_value": 9005207, "duration": 20520, "top_rank_today": 2, "fetched_at": "2026-03-06T23:50:07"}
+{"source": "douyin", "rank": 8, "title": "年轻人拒绝酒桌文化是社会进步", "hot_value": 8380908, "duration": 13140, "top_rank_today": 8, "fetched_at": "2026-03-06T23:50:07"}
+{"source": "douyin", "rank": 9, "title": "政府工作报告里的民生温度", "hot_value": 8354204, "duration": 11040, "top_rank_today": 9, "fetched_at": "2026-03-06T23:50:07"}
+{"source": "douyin", "rank": 10, "title": "油价即将上涨", "hot_value": 7824738, "duration": 36300, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:07"}
+{"source": "toutiao", "rank": 1, "title": "普通高中将增加学位200万个以上", "hot_value": 19830704, "duration": 12720, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:08"}
+{"source": "toutiao", "rank": 2, "title": "多地官宣中小学春假清明连休6天", "hot_value": 5972893, "duration": 38940, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:08"}
+{"source": "toutiao", "rank": 3, "title": "速览“十五五”20项主要指标", "hot_value": 26768650, "duration": 11160, "top_rank_today": 3, "fetched_at": "2026-03-06T23:50:08"}
+{"source": "toutiao", "rank": 4, "title": "商务部长两会提“西方不亮东方亮”", "hot_value": 12027930, "duration": 7860, "top_rank_today": 4, "fetched_at": "2026-03-06T23:50:08"}
+{"source": "toutiao", "rank": 5, "title": "草莓价格跳水 批发价低至1-2元/斤", "hot_value": 598835, "duration": 900, "top_rank_today": 5, "fetched_at": "2026-03-06T23:50:08"}
+{"source": "toutiao", "rank": 6, "title": "魏建军承认魏牌海报抄袭并道歉", "hot_value": 4890191, "duration": 6060, "top_rank_today": 6, "fetched_at": "2026-03-06T23:50:08"}
+{"source": "toutiao", "rank": 7, "title": "“十五五”将探索延长义务教育年限", "hot_value": 5404497, "duration": 21060, "top_rank_today": 4, "fetched_at": "2026-03-06T23:50:08"}
+{"source": "toutiao", "rank": 8, "title": "蒙曼谈年轻人婚育：这个世界需要爱", "hot_value": 541848, "duration": 30900, "top_rank_today": 4, "fetched_at": "2026-03-06T23:50:08"}
+{"source": "toutiao", "rank": 9, "title": "“十五五”规划109项重大工程项目", "hot_value": 14690947, "duration": 11220, "top_rank_today": 9, "fetched_at": "2026-03-06T23:50:08"}
+{"source": "toutiao", "rank": 10, "title": "建议不对70岁以上老人开自动续费", "hot_value": 4424828, "duration": 15000, "top_rank_today": 5, "fetched_at": "2026-03-06T23:50:08"}
+{"source": "baidu", "rank": 1, "title": "多地官宣中小学春假", "hot_value": 7809239, "duration": 11640, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:09"}
+{"source": "baidu", "rank": 2, "title": "代表：70岁以上老人真干不动农活了", "hot_value": 7714377, "duration": 7320, "top_rank_today": 2, "fetched_at": "2026-03-06T23:50:09"}
+{"source": "baidu", "rank": 3, "title": "政府工作报告提到的资金关系你我", "hot_value": 7617110, "duration": 10140, "top_rank_today": 3, "fetched_at": "2026-03-06T23:50:09"}
+{"source": "baidu", "rank": 4, "title": "妈妈带女儿在大屏前跳舞火爆全网", "hot_value": 7523023, "duration": 20280, "top_rank_today": 4, "fetched_at": "2026-03-06T23:50:09"}
+{"source": "baidu", "rank": 5, "title": "委员：去机场比坐飞机时间还长", "hot_value": 7425101, "duration": 6060, "top_rank_today": 5, "fetched_at": "2026-03-06T23:50:09"}
+{"source": "baidu", "rank": 6, "title": "长城汽车魏建军就抄袭路虎海报道歉", "hot_value": 7332624, "duration": 6120, "top_rank_today": 6, "fetched_at": "2026-03-06T23:50:09"}
+{"source": "baidu", "rank": 7, "title": "破5亿播放AI短剧成本仅3000", "hot_value": 7235330, "duration": 3420, "top_rank_today": 7, "fetched_at": "2026-03-06T23:50:09"}
+{"source": "baidu", "rank": 8, "title": "Lululemon千元新鞋被指像老奶奶布鞋", "hot_value": 7141565, "duration": 13620, "top_rank_today": 8, "fetched_at": "2026-03-06T23:50:09"}
+{"source": "baidu", "rank": 9, "title": "这一波民生好消息请查收", "hot_value": 7047043, "duration": 10140, "top_rank_today": 9, "fetched_at": "2026-03-06T23:50:09"}
+{"source": "baidu", "rank": 10, "title": "祖父母去世请不了丧假 代表建议修改", "hot_value": 6949645, "duration": 14820, "top_rank_today": 10, "fetched_at": "2026-03-06T23:50:09"}
 ```
