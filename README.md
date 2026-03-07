@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-03-06 23:50:09
+更新时间：2026-03-07 23:50:08
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "花呗等网络消费信贷可享受贴息", "hot_value": 1063238, "duration": 7020, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:06"}
-{"source": "weibo", "rank": 2, "title": "草莓价格大大大跳水", "hot_value": 762088, "duration": 4140, "top_rank_today": 2, "fetched_at": "2026-03-06T23:50:06"}
-{"source": "weibo", "rank": 3, "title": "十五五规划新指标新看点", "hot_value": 615789, "duration": 10920, "top_rank_today": 3, "fetched_at": "2026-03-06T23:50:06"}
-{"source": "weibo", "rank": 4, "title": "生命树", "hot_value": 303997, "duration": 13920, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:06"}
-{"source": "weibo", "rank": 5, "title": "六大未来产业有哪些", "hot_value": 267044, "duration": 13440, "top_rank_today": 5, "fetched_at": "2026-03-06T23:50:06"}
-{"source": "weibo", "rank": 6, "title": "伊朗导弹袭击以色列最大机场", "hot_value": 265597, "duration": 15300, "top_rank_today": 6, "fetched_at": "2026-03-06T23:50:06"}
-{"source": "weibo", "rank": 7, "title": "代表说70岁以上老人真干不动农活了", "hot_value": 259635, "duration": 9840, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:06"}
-{"source": "weibo", "rank": 8, "title": "我国初高中学生人数将排浪式达峰", "hot_value": 259588, "duration": 3480, "top_rank_today": 8, "fetched_at": "2026-03-06T23:50:06"}
-{"source": "weibo", "rank": 9, "title": "预计今年GDP增量超6万亿元", "hot_value": 259439, "duration": 25680, "top_rank_today": 9, "fetched_at": "2026-03-06T23:50:06"}
-{"source": "weibo", "rank": 10, "title": "广西壮族自治区党委书记陈刚亮家丑", "hot_value": 259246, "duration": 17400, "top_rank_today": 4, "fetched_at": "2026-03-06T23:50:06"}
-{"source": "douyin", "rank": 1, "title": "全国人大举行经济主题记者会", "hot_value": 11456359, "duration": 31500, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:07"}
-{"source": "douyin", "rank": 2, "title": "成都蓉城5:1深圳新鹏城", "hot_value": 10831393, "duration": 7500, "top_rank_today": 2, "fetched_at": "2026-03-06T23:50:07"}
-{"source": "douyin", "rank": 3, "title": "预计今年GDP增量超6万亿", "hot_value": 10739006, "duration": 11100, "top_rank_today": 3, "fetched_at": "2026-03-06T23:50:07"}
-{"source": "douyin", "rank": 4, "title": "中国量子计算如何改变世界", "hot_value": 10738518, "duration": 44820, "top_rank_today": 4, "fetched_at": "2026-03-06T23:50:07"}
-{"source": "douyin", "rank": 5, "title": "建议探索4天半工作制", "hot_value": 10193265, "duration": 7140, "top_rank_today": 5, "fetched_at": "2026-03-06T23:50:07"}
-{"source": "douyin", "rank": 6, "title": "代表建议统一全国婚假天数", "hot_value": 10135770, "duration": 37320, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:07"}
-{"source": "douyin", "rank": 7, "title": "中国女足3:0乌兹别克斯坦女足", "hot_value": 9005207, "duration": 20520, "top_rank_today": 2, "fetched_at": "2026-03-06T23:50:07"}
-{"source": "douyin", "rank": 8, "title": "年轻人拒绝酒桌文化是社会进步", "hot_value": 8380908, "duration": 13140, "top_rank_today": 8, "fetched_at": "2026-03-06T23:50:07"}
-{"source": "douyin", "rank": 9, "title": "政府工作报告里的民生温度", "hot_value": 8354204, "duration": 11040, "top_rank_today": 9, "fetched_at": "2026-03-06T23:50:07"}
-{"source": "douyin", "rank": 10, "title": "油价即将上涨", "hot_value": 7824738, "duration": 36300, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:07"}
-{"source": "toutiao", "rank": 1, "title": "普通高中将增加学位200万个以上", "hot_value": 19830704, "duration": 12720, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:08"}
-{"source": "toutiao", "rank": 2, "title": "多地官宣中小学春假清明连休6天", "hot_value": 5972893, "duration": 38940, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:08"}
-{"source": "toutiao", "rank": 3, "title": "速览“十五五”20项主要指标", "hot_value": 26768650, "duration": 11160, "top_rank_today": 3, "fetched_at": "2026-03-06T23:50:08"}
-{"source": "toutiao", "rank": 4, "title": "商务部长两会提“西方不亮东方亮”", "hot_value": 12027930, "duration": 7860, "top_rank_today": 4, "fetched_at": "2026-03-06T23:50:08"}
-{"source": "toutiao", "rank": 5, "title": "草莓价格跳水 批发价低至1-2元/斤", "hot_value": 598835, "duration": 900, "top_rank_today": 5, "fetched_at": "2026-03-06T23:50:08"}
-{"source": "toutiao", "rank": 6, "title": "魏建军承认魏牌海报抄袭并道歉", "hot_value": 4890191, "duration": 6060, "top_rank_today": 6, "fetched_at": "2026-03-06T23:50:08"}
-{"source": "toutiao", "rank": 7, "title": "“十五五”将探索延长义务教育年限", "hot_value": 5404497, "duration": 21060, "top_rank_today": 4, "fetched_at": "2026-03-06T23:50:08"}
-{"source": "toutiao", "rank": 8, "title": "蒙曼谈年轻人婚育：这个世界需要爱", "hot_value": 541848, "duration": 30900, "top_rank_today": 4, "fetched_at": "2026-03-06T23:50:08"}
-{"source": "toutiao", "rank": 9, "title": "“十五五”规划109项重大工程项目", "hot_value": 14690947, "duration": 11220, "top_rank_today": 9, "fetched_at": "2026-03-06T23:50:08"}
-{"source": "toutiao", "rank": 10, "title": "建议不对70岁以上老人开自动续费", "hot_value": 4424828, "duration": 15000, "top_rank_today": 5, "fetched_at": "2026-03-06T23:50:08"}
-{"source": "baidu", "rank": 1, "title": "多地官宣中小学春假", "hot_value": 7809239, "duration": 11640, "top_rank_today": 1, "fetched_at": "2026-03-06T23:50:09"}
-{"source": "baidu", "rank": 2, "title": "代表：70岁以上老人真干不动农活了", "hot_value": 7714377, "duration": 7320, "top_rank_today": 2, "fetched_at": "2026-03-06T23:50:09"}
-{"source": "baidu", "rank": 3, "title": "政府工作报告提到的资金关系你我", "hot_value": 7617110, "duration": 10140, "top_rank_today": 3, "fetched_at": "2026-03-06T23:50:09"}
-{"source": "baidu", "rank": 4, "title": "妈妈带女儿在大屏前跳舞火爆全网", "hot_value": 7523023, "duration": 20280, "top_rank_today": 4, "fetched_at": "2026-03-06T23:50:09"}
-{"source": "baidu", "rank": 5, "title": "委员：去机场比坐飞机时间还长", "hot_value": 7425101, "duration": 6060, "top_rank_today": 5, "fetched_at": "2026-03-06T23:50:09"}
-{"source": "baidu", "rank": 6, "title": "长城汽车魏建军就抄袭路虎海报道歉", "hot_value": 7332624, "duration": 6120, "top_rank_today": 6, "fetched_at": "2026-03-06T23:50:09"}
-{"source": "baidu", "rank": 7, "title": "破5亿播放AI短剧成本仅3000", "hot_value": 7235330, "duration": 3420, "top_rank_today": 7, "fetched_at": "2026-03-06T23:50:09"}
-{"source": "baidu", "rank": 8, "title": "Lululemon千元新鞋被指像老奶奶布鞋", "hot_value": 7141565, "duration": 13620, "top_rank_today": 8, "fetched_at": "2026-03-06T23:50:09"}
-{"source": "baidu", "rank": 9, "title": "这一波民生好消息请查收", "hot_value": 7047043, "duration": 10140, "top_rank_today": 9, "fetched_at": "2026-03-06T23:50:09"}
-{"source": "baidu", "rank": 10, "title": "祖父母去世请不了丧假 代表建议修改", "hot_value": 6949645, "duration": 14820, "top_rank_today": 10, "fetched_at": "2026-03-06T23:50:09"}
+{"source": "weibo", "rank": 1, "title": "3人48小时做出5亿播放量AI短剧", "hot_value": 1092572, "duration": 6000, "top_rank_today": 1, "fetched_at": "2026-03-07T23:50:03"}
+{"source": "weibo", "rank": 2, "title": "霍启刚回应香港无冰雪发展冰雪经济", "hot_value": 797324, "duration": 8580, "top_rank_today": 1, "fetched_at": "2026-03-07T23:50:03"}
+{"source": "weibo", "rank": 3, "title": "两会学习笔记", "hot_value": 602584, "duration": 4740, "top_rank_today": 3, "fetched_at": "2026-03-07T23:50:03"}
+{"source": "weibo", "rank": 4, "title": "谭松韵演技", "hot_value": 600835, "duration": 3000, "top_rank_today": 4, "fetched_at": "2026-03-07T23:50:03"}
+{"source": "weibo", "rank": 5, "title": "手机放大身份证竟藏微缩字母", "hot_value": 599348, "duration": 6120, "top_rank_today": 4, "fetched_at": "2026-03-07T23:50:03"}
+{"source": "weibo", "rank": 6, "title": "多地实现草莓自由", "hot_value": 597171, "duration": 2640, "top_rank_today": 6, "fetched_at": "2026-03-07T23:50:03"}
+{"source": "weibo", "rank": 7, "title": "田曦薇跳高好有力量美", "hot_value": 595901, "duration": 540, "top_rank_today": 7, "fetched_at": "2026-03-07T23:50:03"}
+{"source": "weibo", "rank": 8, "title": "巴黎世家大秀", "hot_value": 593847, "duration": 2400, "top_rank_today": 6, "fetched_at": "2026-03-07T23:50:03"}
+{"source": "weibo", "rank": 9, "title": "速览民生主题记者会上的惠民清单", "hot_value": 592902, "duration": 4740, "top_rank_today": 9, "fetched_at": "2026-03-07T23:50:03"}
+{"source": "weibo", "rank": 10, "title": "邝兆镭中超首秀", "hot_value": 591294, "duration": 4500, "top_rank_today": 4, "fetched_at": "2026-03-07T23:50:03"}
+{"source": "douyin", "rank": 1, "title": "寻找100个生动的她", "hot_value": 11746302, "duration": 7500, "top_rank_today": 1, "fetched_at": "2026-03-07T23:50:05"}
+{"source": "douyin", "rank": 2, "title": "三峡大坝内部有多震撼", "hot_value": 11209046, "duration": 34920, "top_rank_today": 1, "fetched_at": "2026-03-07T23:50:05"}
+{"source": "douyin", "rank": 3, "title": "将健全困境儿童福利保障制度体系", "hot_value": 10810005, "duration": 4920, "top_rank_today": 3, "fetched_at": "2026-03-07T23:50:05"}
+{"source": "douyin", "rank": 4, "title": "雷军说未来每周或仅需工作3天", "hot_value": 10786117, "duration": 25560, "top_rank_today": 2, "fetched_at": "2026-03-07T23:50:05"}
+{"source": "douyin", "rank": 5, "title": "一条视频看懂什么是消费贴息", "hot_value": 10188858, "duration": 54120, "top_rank_today": 1, "fetched_at": "2026-03-07T23:50:05"}
+{"source": "douyin", "rank": 6, "title": "3300多万家庭领到育儿补贴了", "hot_value": 10188854, "duration": 27720, "top_rank_today": 3, "fetched_at": "2026-03-07T23:50:05"}
+{"source": "douyin", "rank": 7, "title": "全国人大举行民生主题记者会", "hot_value": 9112574, "duration": 49860, "top_rank_today": 1, "fetched_at": "2026-03-07T23:50:05"}
+{"source": "douyin", "rank": 8, "title": "去年高中毛入学率92%", "hot_value": 8928662, "duration": 48300, "top_rank_today": 5, "fetched_at": "2026-03-07T23:50:05"}
+{"source": "douyin", "rank": 9, "title": "感受政府工作报告里的民生温度", "hot_value": 8863999, "duration": 21900, "top_rank_today": 9, "fetched_at": "2026-03-07T23:50:05"}
+{"source": "douyin", "rank": 10, "title": "中超山东泰山3:0辽宁铁人", "hot_value": 8836375, "duration": 22500, "top_rank_today": 4, "fetched_at": "2026-03-07T23:50:05"}
+{"source": "toutiao", "rank": 1, "title": "“孩子一出生就自带口粮自带工资”", "hot_value": 23653235, "duration": 36060, "top_rank_today": 1, "fetched_at": "2026-03-07T23:50:06"}
+{"source": "toutiao", "rank": 2, "title": "歼10战机飞行训练精彩瞬间", "hot_value": 8701538, "duration": 1740, "top_rank_today": 1, "fetched_at": "2026-03-07T23:50:06"}
+{"source": "toutiao", "rank": 3, "title": "从全国两会看开局之年新步伐", "hot_value": 31928527, "duration": 5820, "top_rank_today": 3, "fetched_at": "2026-03-07T23:50:06"}
+{"source": "toutiao", "rank": 4, "title": "省长说抢不到苏超的票找副省长", "hot_value": 14346412, "duration": 22740, "top_rank_today": 4, "fetched_at": "2026-03-07T23:50:06"}
+{"source": "toutiao", "rank": 5, "title": "江西将结直肠癌筛查列入2026民生实事", "hot_value": 1756810, "duration": 2940, "top_rank_today": 2, "fetched_at": "2026-03-07T23:50:06"}
+{"source": "toutiao", "rank": 6, "title": "别等到睡觉前才刷牙", "hot_value": 28890126, "duration": 3660, "top_rank_today": 6, "fetched_at": "2026-03-07T23:50:06"}
+{"source": "toutiao", "rank": 7, "title": "将玄武岩拉“丝”可制成消防服", "hot_value": 10628083, "duration": 5100, "top_rank_today": 1, "fetched_at": "2026-03-07T23:50:06"}
+{"source": "toutiao", "rank": 8, "title": "90后单亲妈妈摆地摊起家年入上千万", "hot_value": 646294, "duration": 29100, "top_rank_today": 2, "fetched_at": "2026-03-07T23:50:06"}
+{"source": "toutiao", "rank": 9, "title": "锚定发展目标 释放政策红利", "hot_value": 17522747, "duration": 5880, "top_rank_today": 9, "fetched_at": "2026-03-07T23:50:06"}
+{"source": "toutiao", "rank": 10, "title": "雷军：未来每周或仅需工作3天", "hot_value": 7124217, "duration": 32220, "top_rank_today": 4, "fetched_at": "2026-03-07T23:50:06"}
+{"source": "baidu", "rank": 1, "title": "卫健委提醒！这几类人群做好癌症筛查", "hot_value": 7809472, "duration": 10080, "top_rank_today": 1, "fetched_at": "2026-03-07T23:50:08"}
+{"source": "baidu", "rank": 2, "title": "华春莹被化橘红“圈粉”", "hot_value": 7712230, "duration": 9360, "top_rank_today": 2, "fetched_at": "2026-03-07T23:50:08"}
+{"source": "baidu", "rank": 3, "title": "16个“强国”怎么看？怎么干？", "hot_value": 7618672, "duration": 5400, "top_rank_today": 3, "fetched_at": "2026-03-07T23:50:08"}
+{"source": "baidu", "rank": 4, "title": "你的身份证上 有不少彩蛋", "hot_value": 7522598, "duration": 24120, "top_rank_today": 1, "fetched_at": "2026-03-07T23:50:08"}
+{"source": "baidu", "rank": 5, "title": "“孩子的饭钱是高压线 动不得”", "hot_value": 7426369, "duration": 21660, "top_rank_today": 1, "fetched_at": "2026-03-07T23:50:08"}
+{"source": "baidu", "rank": 6, "title": "这种“厨房纸”别再直接接触食物了", "hot_value": 7328629, "duration": 10920, "top_rank_today": 5, "fetched_at": "2026-03-07T23:50:08"}
+{"source": "baidu", "rank": 7, "title": "河南矿山老板给女员工发160万", "hot_value": 7232135, "duration": 21720, "top_rank_today": 7, "fetched_at": "2026-03-07T23:50:08"}
+{"source": "baidu", "rank": 8, "title": "吉林省委书记：我们要替国家争口气", "hot_value": 7137319, "duration": 9420, "top_rank_today": 4, "fetched_at": "2026-03-07T23:50:08"}
+{"source": "baidu", "rank": 9, "title": "这场记者会直面百姓关心事", "hot_value": 7041517, "duration": 5280, "top_rank_today": 9, "fetched_at": "2026-03-07T23:50:08"}
+{"source": "baidu", "rank": 10, "title": "景区乞丐npc遭到游客疯狂投喂", "hot_value": 6947056, "duration": 17940, "top_rank_today": 10, "fetched_at": "2026-03-07T23:50:08"}
 ```
