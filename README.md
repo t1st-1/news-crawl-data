@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-03-21 23:50:10
+更新时间：2026-03-22 23:50:07
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "梅姨被逮捕", "hot_value": 1058834, "duration": 43620, "top_rank_today": 1, "fetched_at": "2026-03-21T23:50:05"}
-{"source": "weibo", "rank": 2, "title": "小区旁400万吨垃圾被挖出来了", "hot_value": 773920, "duration": 5100, "top_rank_today": 2, "fetched_at": "2026-03-21T23:50:05"}
-{"source": "weibo", "rank": 3, "title": "2026全国寻春地图", "hot_value": 610933, "duration": 6960, "top_rank_today": 3, "fetched_at": "2026-03-21T23:50:05"}
-{"source": "weibo", "rank": 4, "title": "GEN对战G2", "hot_value": 560508, "duration": 7740, "top_rank_today": 4, "fetched_at": "2026-03-21T23:50:05"}
-{"source": "weibo", "rank": 5, "title": "G2虐泉GEN", "hot_value": 443827, "duration": 4140, "top_rank_today": 5, "fetched_at": "2026-03-21T23:50:05"}
-{"source": "weibo", "rank": 6, "title": "管泽元 G2太猛了", "hot_value": 349329, "duration": 3540, "top_rank_today": 5, "fetched_at": "2026-03-21T23:50:05"}
-{"source": "weibo", "rank": 7, "title": "以色列称伊朗发射弹道导弹", "hot_value": 329709, "duration": 3300, "top_rank_today": 6, "fetched_at": "2026-03-21T23:50:05"}
-{"source": "weibo", "rank": 8, "title": "出车祸私了后发现9级伤残", "hot_value": 243715, "duration": 3180, "top_rank_today": 5, "fetched_at": "2026-03-21T23:50:05"}
-{"source": "weibo", "rank": 9, "title": "梅姨到哪也不出示身份证", "hot_value": 242596, "duration": 2220, "top_rank_today": 9, "fetched_at": "2026-03-21T23:50:05"}
-{"source": "weibo", "rank": 10, "title": "当年亲爱的热爱的被泄漏反创新高", "hot_value": 214116, "duration": 1860, "top_rank_today": 8, "fetched_at": "2026-03-21T23:50:05"}
-{"source": "douyin", "rank": 1, "title": "这个春天真好吃", "hot_value": 11979608, "duration": 15120, "top_rank_today": 1, "fetched_at": "2026-03-21T23:50:07"}
-{"source": "douyin", "rank": 2, "title": "去户外定格春天", "hot_value": 11933357, "duration": 31320, "top_rank_today": 1, "fetched_at": "2026-03-21T23:50:07"}
-{"source": "douyin", "rank": 3, "title": "春日经济何以活力全开", "hot_value": 11806050, "duration": 7140, "top_rank_today": 3, "fetched_at": "2026-03-21T23:50:07"}
-{"source": "douyin", "rank": 4, "title": "第26个世界睡眠日", "hot_value": 11795102, "duration": 31500, "top_rank_today": 2, "fetched_at": "2026-03-21T23:50:07"}
-{"source": "douyin", "rank": 5, "title": "CBA北京逆转终结辽宁六连胜", "hot_value": 11075450, "duration": 7140, "top_rank_today": 1, "fetched_at": "2026-03-21T23:50:07"}
-{"source": "douyin", "rank": 6, "title": "梅姨落网背后的打拐黑科技", "hot_value": 10947106, "duration": 29520, "top_rank_today": 5, "fetched_at": "2026-03-21T23:50:07"}
-{"source": "douyin", "rank": 7, "title": "梅姨落网寻亲家庭集体发声", "hot_value": 9785158, "duration": 30720, "top_rank_today": 6, "fetched_at": "2026-03-21T23:50:07"}
-{"source": "douyin", "rank": 8, "title": "闲鱼为何突然“高调”", "hot_value": 9374166, "duration": 9360, "top_rank_today": 6, "fetched_at": "2026-03-21T23:50:07"}
-{"source": "douyin", "rank": 9, "title": "北京国安1:1上海申花", "hot_value": 9118811, "duration": 20700, "top_rank_today": 6, "fetched_at": "2026-03-21T23:50:07"}
-{"source": "douyin", "rank": 10, "title": "G2封零GEN", "hot_value": 9092474, "duration": 1080, "top_rank_today": 1, "fetched_at": "2026-03-21T23:50:07"}
-{"source": "toutiao", "rank": 1, "title": "“梅姨”长相与画像相似度不到30%", "hot_value": 12934651, "duration": 29760, "top_rank_today": 1, "fetched_at": "2026-03-21T23:50:08"}
-{"source": "toutiao", "rank": 2, "title": "雷军就发布会口误道歉", "hot_value": 17459953, "duration": 4560, "top_rank_today": 2, "fetched_at": "2026-03-21T23:50:08"}
-{"source": "toutiao", "rank": 3, "title": "中国生活方式为何成为世界潮流", "hot_value": 15798418, "duration": 6780, "top_rank_today": 3, "fetched_at": "2026-03-21T23:50:08"}
-{"source": "toutiao", "rank": 4, "title": "律师称梅姨很可能被判处死刑", "hot_value": 11703756, "duration": 26580, "top_rank_today": 4, "fetched_at": "2026-03-21T23:50:08"}
-{"source": "toutiao", "rank": 5, "title": "武汉三镇1-1战平河南队", "hot_value": 2886110, "duration": 120, "top_rank_today": 5, "fetched_at": "2026-03-21T23:50:08"}
-{"source": "toutiao", "rank": 6, "title": "190斤男子睡觉打鼾查出重度呼吸暂停", "hot_value": 5258836, "duration": 4860, "top_rank_today": 6, "fetched_at": "2026-03-21T23:50:08"}
-{"source": "toutiao", "rank": 7, "title": "梅姨落网 盲比天网如何跨时空执法", "hot_value": 5811913, "duration": 11580, "top_rank_today": 7, "fetched_at": "2026-03-21T23:50:08"}
-{"source": "toutiao", "rank": 8, "title": "普通人能不能考教师资格证", "hot_value": 3525103, "duration": 420, "top_rank_today": 8, "fetched_at": "2026-03-21T23:50:08"}
-{"source": "toutiao", "rank": 9, "title": "女儿相中599元的鞋 母亲纠结后买下", "hot_value": 2611461, "duration": 13500, "top_rank_today": 6, "fetched_at": "2026-03-21T23:50:08"}
-{"source": "toutiao", "rank": 10, "title": "人民日报评梅姨落网：必遭严惩", "hot_value": 3895842, "duration": 28260, "top_rank_today": 6, "fetched_at": "2026-03-21T23:50:08"}
-{"source": "baidu", "rank": 1, "title": "知情人士：“梅姨”长相变化很大", "hot_value": 7808269, "duration": 27180, "top_rank_today": 1, "fetched_at": "2026-03-21T23:50:10"}
-{"source": "baidu", "rank": 2, "title": "9省份11所高校升格为“大学”", "hot_value": 7714623, "duration": 7500, "top_rank_today": 2, "fetched_at": "2026-03-21T23:50:10"}
-{"source": "baidu", "rank": 3, "title": "铁路“票根经济”了解一下", "hot_value": 7616937, "duration": 6540, "top_rank_today": 3, "fetched_at": "2026-03-21T23:50:10"}
-{"source": "baidu", "rank": 4, "title": "儿子每天开车带103岁母亲上班", "hot_value": 7521347, "duration": 19980, "top_rank_today": 4, "fetched_at": "2026-03-21T23:50:10"}
-{"source": "baidu", "rank": 5, "title": "专家：睡眠有个“黄金4小时”", "hot_value": 7426947, "duration": 17220, "top_rank_today": 2, "fetched_at": "2026-03-21T23:50:10"}
-{"source": "baidu", "rank": 6, "title": "伊朗军方：击中以军F-16战机", "hot_value": 7329100, "duration": 12180, "top_rank_today": 6, "fetched_at": "2026-03-21T23:50:10"}
-{"source": "baidu", "rank": 7, "title": "警方曾释放梅姨不存在的信号", "hot_value": 7236114, "duration": 10080, "top_rank_today": 5, "fetched_at": "2026-03-21T23:50:10"}
-{"source": "baidu", "rank": 8, "title": "这4种癌症早期筛查真的有用", "hot_value": 7139167, "duration": 11820, "top_rank_today": 8, "fetched_at": "2026-03-21T23:50:10"}
-{"source": "baidu", "rank": 9, "title": "“我爸爸去做大体老师了”", "hot_value": 7044918, "duration": 11220, "top_rank_today": 4, "fetched_at": "2026-03-21T23:50:10"}
-{"source": "baidu", "rank": 10, "title": "小学生校门口买“小火龙”后中毒", "hot_value": 6944606, "duration": 18780, "top_rank_today": 5, "fetched_at": "2026-03-21T23:50:10"}
+{"source": "weibo", "rank": 1, "title": "爱吃荔枝的人今年天塌了", "hot_value": 1044360, "duration": 23280, "top_rank_today": 1, "fetched_at": "2026-03-22T23:50:03"}
+{"source": "weibo", "rank": 2, "title": "高市早苗称访美照夸张系因太感动", "hot_value": 737617, "duration": 4800, "top_rank_today": 2, "fetched_at": "2026-03-22T23:50:03"}
+{"source": "weibo", "rank": 3, "title": "9组数据见证大国治水生动画卷", "hot_value": 604514, "duration": 10320, "top_rank_today": 3, "fetched_at": "2026-03-22T23:50:03"}
+{"source": "weibo", "rank": 4, "title": "苍兰诀", "hot_value": 516209, "duration": 9000, "top_rank_today": 4, "fetched_at": "2026-03-22T23:50:03"}
+{"source": "weibo", "rank": 5, "title": "律师解读梅姨照片为何暂不公开", "hot_value": 208294, "duration": 6000, "top_rank_today": 2, "fetched_at": "2026-03-22T23:50:03"}
+{"source": "weibo", "rank": 6, "title": "逐玉直播", "hot_value": 207727, "duration": 12780, "top_rank_today": 6, "fetched_at": "2026-03-22T23:50:03"}
+{"source": "weibo", "rank": 7, "title": "Jennie音乐节", "hot_value": 198614, "duration": 4740, "top_rank_today": 7, "fetched_at": "2026-03-22T23:50:03"}
+{"source": "weibo", "rank": 8, "title": "G2对战BLG", "hot_value": 158667, "duration": 11040, "top_rank_today": 5, "fetched_at": "2026-03-22T23:50:03"}
+{"source": "weibo", "rank": 9, "title": "伊朗导弹绕过以色列拦截弹", "hot_value": 158440, "duration": 2880, "top_rank_today": 7, "fetched_at": "2026-03-22T23:50:03"}
+{"source": "weibo", "rank": 10, "title": "i人梦中情岗已有48人报名缴费", "hot_value": 157916, "duration": 1800, "top_rank_today": 10, "fetched_at": "2026-03-22T23:50:03"}
+{"source": "douyin", "rank": 1, "title": "探访全国唯一海上有人值守气象站", "hot_value": 12106455, "duration": 25500, "top_rank_today": 1, "fetched_at": "2026-03-22T23:50:04"}
+{"source": "douyin", "rank": 2, "title": "一个人也要好好吃饭", "hot_value": 11765837, "duration": 11100, "top_rank_today": 1, "fetched_at": "2026-03-22T23:50:04"}
+{"source": "douyin", "rank": 3, "title": "非常规水利用量超250亿立方米", "hot_value": 11290198, "duration": 11280, "top_rank_today": 3, "fetched_at": "2026-03-22T23:50:04"}
+{"source": "douyin", "rank": 4, "title": "今天是世界水日", "hot_value": 10832033, "duration": 46800, "top_rank_today": 1, "fetched_at": "2026-03-22T23:50:04"}
+{"source": "douyin", "rank": 5, "title": "沙特预警4月油价或飙破180美元", "hot_value": 10187027, "duration": 3120, "top_rank_today": 5, "fetched_at": "2026-03-22T23:50:04"}
+{"source": "douyin", "rank": 6, "title": "中国股市债市规模均位居全球第二", "hot_value": 10178266, "duration": 2400, "top_rank_today": 6, "fetched_at": "2026-03-22T23:50:04"}
+{"source": "douyin", "rank": 7, "title": "AI演员为啥遭网友抵制", "hot_value": 8993051, "duration": 52320, "top_rank_today": 2, "fetched_at": "2026-03-22T23:50:04"}
+{"source": "douyin", "rank": 8, "title": "警方辟谣梅姨在广州三元里落网", "hot_value": 8052997, "duration": 30480, "top_rank_today": 4, "fetched_at": "2026-03-22T23:50:04"}
+{"source": "douyin", "rank": 9, "title": "水果代餐能减肥吗", "hot_value": 7809756, "duration": 15360, "top_rank_today": 8, "fetched_at": "2026-03-22T23:50:04"}
+{"source": "douyin", "rank": 10, "title": "塔猜亚10:7战胜奥沙利文夺冠", "hot_value": 7809304, "duration": 360, "top_rank_today": 10, "fetched_at": "2026-03-22T23:50:04"}
+{"source": "toutiao", "rank": 1, "title": "双汇王中王火腿肠被曝吃出两根钢钉", "hot_value": 17774867, "duration": 5220, "top_rank_today": 1, "fetched_at": "2026-03-22T23:50:05"}
+{"source": "toutiao", "rank": 2, "title": "黄海部分海域执行军事任务", "hot_value": 7226721, "duration": 8580, "top_rank_today": 1, "fetched_at": "2026-03-22T23:50:05"}
+{"source": "toutiao", "rank": 3, "title": "跨越千年的治水智慧", "hot_value": 21710272, "duration": 10740, "top_rank_today": 3, "fetched_at": "2026-03-22T23:50:05"}
+{"source": "toutiao", "rank": 4, "title": "黄金“牛市”神话还能稳住吗", "hot_value": 5916739, "duration": 2400, "top_rank_today": 4, "fetched_at": "2026-03-22T23:50:05"}
+{"source": "toutiao", "rank": 5, "title": "梅姨多年难抓或因长相太普通", "hot_value": 5353687, "duration": 37800, "top_rank_today": 1, "fetched_at": "2026-03-22T23:50:05"}
+{"source": "toutiao", "rank": 6, "title": "网警破获网络开盒案 守护网络空间安全", "hot_value": 16083365, "duration": 49080, "top_rank_today": 6, "fetched_at": "2026-03-22T23:50:05"}
+{"source": "toutiao", "rank": 7, "title": "伊朗武装部队：已从防御转为进攻", "hot_value": 13167945, "duration": 22560, "top_rank_today": 7, "fetched_at": "2026-03-22T23:50:05"}
+{"source": "toutiao", "rank": 8, "title": "男子因睡眠呼吸暂停1年撞坏3辆车", "hot_value": 4844216, "duration": 34680, "top_rank_today": 5, "fetched_at": "2026-03-22T23:50:05"}
+{"source": "toutiao", "rank": 9, "title": "吉林省委书记：留下烂摊子要追责", "hot_value": 4383228, "duration": 11820, "top_rank_today": 4, "fetched_at": "2026-03-22T23:50:05"}
+{"source": "toutiao", "rank": 10, "title": "猪肉价格为何跌至20年新低", "hot_value": 3588683, "duration": 18180, "top_rank_today": 1, "fetched_at": "2026-03-22T23:50:05"}
+{"source": "baidu", "rank": 1, "title": "多名配音演员集体维权", "hot_value": 7807893, "duration": 6900, "top_rank_today": 1, "fetched_at": "2026-03-22T23:50:07"}
+{"source": "baidu", "rank": 2, "title": "跑马拉松护航的民警居然是AI机器人", "hot_value": 7711873, "duration": 12360, "top_rank_today": 2, "fetched_at": "2026-03-22T23:50:07"}
+{"source": "baidu", "rank": 3, "title": "这五个“强国”透露哪些信号", "hot_value": 7618452, "duration": 10620, "top_rank_today": 3, "fetched_at": "2026-03-22T23:50:07"}
+{"source": "baidu", "rank": 4, "title": "吉林省委书记：留下烂摊子要追责", "hot_value": 7519800, "duration": 8040, "top_rank_today": 4, "fetched_at": "2026-03-22T23:50:07"}
+{"source": "baidu", "rank": 5, "title": "《逐玉》全集泄露损失不可估量", "hot_value": 7426522, "duration": 4680, "top_rank_today": 5, "fetched_at": "2026-03-22T23:50:07"}
+{"source": "baidu", "rank": 6, "title": "网警破获“网络开盒”案", "hot_value": 7334294, "duration": 48600, "top_rank_today": 6, "fetched_at": "2026-03-22T23:50:07"}
+{"source": "baidu", "rank": 7, "title": "别再信女儿像爸儿子像妈了", "hot_value": 7234463, "duration": 12300, "top_rank_today": 2, "fetched_at": "2026-03-22T23:50:07"}
+{"source": "baidu", "rank": 8, "title": "含娃量最高的小长假要来了", "hot_value": 7142361, "duration": 25680, "top_rank_today": 1, "fetched_at": "2026-03-22T23:50:07"}
+{"source": "baidu", "rank": 9, "title": "“世界上最神秘的鸟”现身广东", "hot_value": 7044135, "duration": 12420, "top_rank_today": 4, "fetched_at": "2026-03-22T23:50:07"}
+{"source": "baidu", "rank": 10, "title": "俄方：暗杀伊朗领导人产生极严重后果", "hot_value": 6953775, "duration": 4620, "top_rank_today": 9, "fetched_at": "2026-03-22T23:50:07"}
 ```
