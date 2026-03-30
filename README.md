@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-03-29 23:50:10
+更新时间：2026-03-30 23:50:10
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "中国将在长江水下开高铁", "hot_value": 1034541, "duration": 8760, "top_rank_today": 1, "fetched_at": "2026-03-29T23:50:05"}
-{"source": "weibo", "rank": 2, "title": "雀巢12吨巧克力被盗", "hot_value": 770491, "duration": 28680, "top_rank_today": 1, "fetched_at": "2026-03-29T23:50:05"}
-{"source": "weibo", "rank": 3, "title": "数据感知中国经济活力满满", "hot_value": 583797, "duration": 12840, "top_rank_today": 3, "fetched_at": "2026-03-29T23:50:05"}
-{"source": "weibo", "rank": 4, "title": "凌晨3点孩子等家长睡熟偷平板玩", "hot_value": 583745, "duration": 12120, "top_rank_today": 4, "fetched_at": "2026-03-29T23:50:05"}
-{"source": "weibo", "rank": 5, "title": "DeepSeek崩了", "hot_value": 583597, "duration": 7140, "top_rank_today": 4, "fetched_at": "2026-03-29T23:50:05"}
-{"source": "weibo", "rank": 6, "title": "逐玉", "hot_value": 583424, "duration": 6480, "top_rank_today": 6, "fetched_at": "2026-03-29T23:50:05"}
-{"source": "weibo", "rank": 7, "title": "以色列还能撑多久", "hot_value": 583385, "duration": 4200, "top_rank_today": 7, "fetched_at": "2026-03-29T23:50:05"}
-{"source": "weibo", "rank": 8, "title": "白桃星座一周运势", "hot_value": 583221, "duration": 1920, "top_rank_today": 7, "fetched_at": "2026-03-29T23:50:05"}
-{"source": "weibo", "rank": 9, "title": "伊朗向美以进一步摊牌", "hot_value": 583122, "duration": 8820, "top_rank_today": 7, "fetched_at": "2026-03-29T23:50:05"}
-{"source": "weibo", "rank": 10, "title": "D3665列车乘客称多人疑似晕厥", "hot_value": 582908, "duration": 4620, "top_rank_today": 1, "fetched_at": "2026-03-29T23:50:05"}
-{"source": "douyin", "rank": 1, "title": "穿搭能让普通人改变气质", "hot_value": 12276378, "duration": 48480, "top_rank_today": 1, "fetched_at": "2026-03-29T23:50:06"}
-{"source": "douyin", "rank": 2, "title": "警惕把学校变成“无菌”的存在", "hot_value": 11437904, "duration": 12480, "top_rank_today": 2, "fetched_at": "2026-03-29T23:50:06"}
-{"source": "douyin", "rank": 3, "title": "好内容自带光正能量有回响", "hot_value": 11092866, "duration": 13200, "top_rank_today": 3, "fetched_at": "2026-03-29T23:50:06"}
-{"source": "douyin", "rank": 4, "title": "首场大范围强对流天气来袭", "hot_value": 10834548, "duration": 32760, "top_rank_today": 4, "fetched_at": "2026-03-29T23:50:06"}
-{"source": "douyin", "rank": 5, "title": "国足在墨尔本进行第一堂训练课", "hot_value": 10012470, "duration": 9300, "top_rank_today": 5, "fetched_at": "2026-03-29T23:50:06"}
-{"source": "douyin", "rank": 6, "title": "媒体评广西农民走上球场", "hot_value": 9813282, "duration": 17880, "top_rank_today": 5, "fetched_at": "2026-03-29T23:50:06"}
-{"source": "douyin", "rank": 7, "title": "张雪机车登顶WSBK", "hot_value": 8598521, "duration": 48720, "top_rank_today": 7, "fetched_at": "2026-03-29T23:50:06"}
-{"source": "douyin", "rank": 8, "title": "秦皇岛海市蜃楼", "hot_value": 7857613, "duration": 21900, "top_rank_today": 4, "fetched_at": "2026-03-29T23:50:06"}
-{"source": "douyin", "rank": 9, "title": "喝红酒可以预防心血管病吗", "hot_value": 7823078, "duration": 19500, "top_rank_today": 9, "fetched_at": "2026-03-29T23:50:06"}
-{"source": "douyin", "rank": 10, "title": "柏欣妤朱怡欣现场太幸福了", "hot_value": 7810140, "duration": 5520, "top_rank_today": 10, "fetched_at": "2026-03-29T23:50:06"}
-{"source": "toutiao", "rank": 1, "title": "内存条价格出现断崖式下跌", "hot_value": 8406972, "duration": 15900, "top_rank_today": 1, "fetched_at": "2026-03-29T23:50:08"}
-{"source": "toutiao", "rank": 2, "title": "反对特朗普的浪潮国际化了", "hot_value": 27912130, "duration": 7800, "top_rank_today": 2, "fetched_at": "2026-03-29T23:50:08"}
-{"source": "toutiao", "rank": 3, "title": "大国重器上新，一周惊喜不断！", "hot_value": 22852519, "duration": 13020, "top_rank_today": 3, "fetched_at": "2026-03-29T23:50:08"}
-{"source": "toutiao", "rank": 4, "title": "全球都在抢油 为什么只有中国能稳住", "hot_value": 25255940, "duration": 7440, "top_rank_today": 1, "fetched_at": "2026-03-29T23:50:08"}
-{"source": "toutiao", "rank": 5, "title": "日本民众举行集会高呼中国对不起", "hot_value": 6883046, "duration": 37320, "top_rank_today": 1, "fetched_at": "2026-03-29T23:50:08"}
-{"source": "toutiao", "rank": 6, "title": "男子自导自演网约车纠纷骂乘客被罚", "hot_value": 16929563, "duration": 34380, "top_rank_today": 6, "fetched_at": "2026-03-29T23:50:08"}
-{"source": "toutiao", "rank": 7, "title": "你如何看待清明祭祖习俗", "hot_value": 5635362, "duration": 3660, "top_rank_today": 7, "fetched_at": "2026-03-29T23:50:08"}
-{"source": "toutiao", "rank": 8, "title": "孩子凌晨偷拿平板玩2小时再放回去", "hot_value": 5099086, "duration": 22440, "top_rank_today": 7, "fetched_at": "2026-03-29T23:50:08"}
-{"source": "toutiao", "rank": 9, "title": "非洲男孩车祸后腿部畸形到郑州求医", "hot_value": 4174778, "duration": 11760, "top_rank_today": 9, "fetched_at": "2026-03-29T23:50:08"}
-{"source": "toutiao", "rank": 10, "title": "南极冰层为何会流出血红色液体", "hot_value": 3777496, "duration": 7560, "top_rank_today": 4, "fetched_at": "2026-03-29T23:50:08"}
-{"source": "baidu", "rank": 1, "title": "中国将在长江水下开高铁", "hot_value": 7808361, "duration": 6480, "top_rank_today": 1, "fetched_at": "2026-03-29T23:50:10"}
-{"source": "baidu", "rank": 2, "title": "儿子一家去世 老人骑行30年治愈自己", "hot_value": 7713202, "duration": 13020, "top_rank_today": 2, "fetched_at": "2026-03-29T23:50:10"}
-{"source": "baidu", "rank": 3, "title": "他们一笑 全场哭了", "hot_value": 7617947, "duration": 12780, "top_rank_today": 3, "fetched_at": "2026-03-29T23:50:10"}
-{"source": "baidu", "rank": 4, "title": "小时候流行的“屁股针”消失了吗", "hot_value": 7524098, "duration": 5100, "top_rank_today": 4, "fetched_at": "2026-03-29T23:50:10"}
-{"source": "baidu", "rank": 5, "title": "孩子凌晨偷拿平板玩2小时再放回去", "hot_value": 7428093, "duration": 18180, "top_rank_today": 5, "fetched_at": "2026-03-29T23:50:10"}
-{"source": "baidu", "rank": 6, "title": "摆拍“打网约车遭司机辱骂”者被罚", "hot_value": 7331856, "duration": 31920, "top_rank_today": 6, "fetched_at": "2026-03-29T23:50:10"}
-{"source": "baidu", "rank": 7, "title": "DeepSeek“崩了”", "hot_value": 7235434, "duration": 3480, "top_rank_today": 7, "fetched_at": "2026-03-29T23:50:10"}
-{"source": "baidu", "rank": 8, "title": "身份证号的“X”到底咋读", "hot_value": 7139808, "duration": 17580, "top_rank_today": 4, "fetched_at": "2026-03-29T23:50:10"}
-{"source": "baidu", "rank": 9, "title": "国产杀癌核药实现量产", "hot_value": 7041360, "duration": 19020, "top_rank_today": 4, "fetched_at": "2026-03-29T23:50:10"}
-{"source": "baidu", "rank": 10, "title": "内存条价格崩了", "hot_value": 6952752, "duration": 25380, "top_rank_today": 2, "fetched_at": "2026-03-29T23:50:10"}
+{"source": "weibo", "rank": 1, "title": "跳楼机原唱实在是忍不下去了", "hot_value": 1360412, "duration": 1080, "top_rank_today": 1, "fetched_at": "2026-03-30T23:50:03"}
+{"source": "weibo", "rank": 2, "title": "13岁少年去世前绝食让父母生二胎", "hot_value": 871298, "duration": 3660, "top_rank_today": 1, "fetched_at": "2026-03-30T23:50:03"}
+{"source": "weibo", "rank": 3, "title": "中国经济硬核数据上新", "hot_value": 720519, "duration": 12360, "top_rank_today": 3, "fetched_at": "2026-03-30T23:50:03"}
+{"source": "weibo", "rank": 4, "title": "张凌赫逐玉收官小作文", "hot_value": 321979, "duration": 14280, "top_rank_today": 4, "fetched_at": "2026-03-30T23:50:03"}
+{"source": "weibo", "rank": 5, "title": "西班牙对袭击伊朗军机关闭领空", "hot_value": 305644, "duration": 2040, "top_rank_today": 5, "fetched_at": "2026-03-30T23:50:03"}
+{"source": "weibo", "rank": 6, "title": "美客机与直升机相撞致67死画面曝光", "hot_value": 291339, "duration": 15120, "top_rank_today": 1, "fetched_at": "2026-03-30T23:50:03"}
+{"source": "weibo", "rank": 7, "title": "澳大利亚惊现末日红", "hot_value": 269879, "duration": 2160, "top_rank_today": 2, "fetched_at": "2026-03-30T23:50:03"}
+{"source": "weibo", "rank": 8, "title": "那英唱三五句也要问版权问题", "hot_value": 258586, "duration": 22260, "top_rank_today": 4, "fetched_at": "2026-03-30T23:50:03"}
+{"source": "weibo", "rank": 9, "title": "美以伊地面战一触即发", "hot_value": 227405, "duration": 3660, "top_rank_today": 5, "fetched_at": "2026-03-30T23:50:03"}
+{"source": "weibo", "rank": 10, "title": "张雪称将吃掉国际大牌超50%份额", "hot_value": 201028, "duration": 5880, "top_rank_today": 2, "fetched_at": "2026-03-30T23:50:03"}
+{"source": "douyin", "rank": 1, "title": "澳门乒乓世界杯今日开战", "hot_value": 12155529, "duration": 21900, "top_rank_today": 1, "fetched_at": "2026-03-30T23:50:04"}
+{"source": "douyin", "rank": 2, "title": "离清明小长假只剩4天", "hot_value": 11404993, "duration": 42300, "top_rank_today": 2, "fetched_at": "2026-03-30T23:50:04"}
+{"source": "douyin", "rank": 3, "title": "我国发布首个氢能产品耐久性验证体系", "hot_value": 11380416, "duration": 24480, "top_rank_today": 3, "fetched_at": "2026-03-30T23:50:04"}
+{"source": "douyin", "rank": 4, "title": "在公园花海里大晒一场", "hot_value": 11255342, "duration": 25500, "top_rank_today": 4, "fetched_at": "2026-03-30T23:50:04"}
+{"source": "douyin", "rank": 5, "title": "今天是浅春系少女", "hot_value": 10643235, "duration": 25680, "top_rank_today": 5, "fetched_at": "2026-03-30T23:50:04"}
+{"source": "douyin", "rank": 6, "title": "中方反制日本国会众议员古屋圭司", "hot_value": 10539152, "duration": 33720, "top_rank_today": 6, "fetched_at": "2026-03-30T23:50:04"}
+{"source": "douyin", "rank": 7, "title": "张雪机车夺冠意味着什么", "hot_value": 9238843, "duration": 21480, "top_rank_today": 7, "fetched_at": "2026-03-30T23:50:04"}
+{"source": "douyin", "rank": 8, "title": "中国将在长江水下开高铁", "hot_value": 9235144, "duration": 45480, "top_rank_today": 7, "fetched_at": "2026-03-30T23:50:04"}
+{"source": "douyin", "rank": 9, "title": "张雪机车创始人现实版飞驰人生", "hot_value": 9204470, "duration": 33900, "top_rank_today": 5, "fetched_at": "2026-03-30T23:50:04"}
+{"source": "douyin", "rank": 10, "title": "国航中朝航线恢复运行", "hot_value": 9203546, "duration": 26700, "top_rank_today": 9, "fetched_at": "2026-03-30T23:50:04"}
+{"source": "toutiao", "rank": 1, "title": "美客机从巴西起飞后发动机爆炸", "hot_value": 35130706, "duration": 5640, "top_rank_today": 1, "fetched_at": "2026-03-30T23:50:06"}
+{"source": "toutiao", "rank": 2, "title": "患癌男子赠3亿家产致谢小28岁妻子", "hot_value": 31787577, "duration": 3660, "top_rank_today": 2, "fetched_at": "2026-03-30T23:50:06"}
+{"source": "toutiao", "rank": 3, "title": "这个世界第九，见证我国创新实力", "hot_value": 28762589, "duration": 24780, "top_rank_today": 3, "fetched_at": "2026-03-30T23:50:06"}
+{"source": "toutiao", "rank": 4, "title": "张雪从修车穷小子到冠军缔造者", "hot_value": 26025467, "duration": 8040, "top_rank_today": 2, "fetched_at": "2026-03-30T23:50:06"}
+{"source": "toutiao", "rank": 5, "title": "茅台涨价", "hot_value": 23548816, "duration": 6600, "top_rank_today": 2, "fetched_at": "2026-03-30T23:50:06"}
+{"source": "toutiao", "rank": 6, "title": "全新坦克700正式预售", "hot_value": 15785243, "duration": 2820, "top_rank_today": 6, "fetched_at": "2026-03-30T23:50:06"}
+{"source": "toutiao", "rank": 7, "title": "重庆两江新区为张雪机车规划新基地", "hot_value": 21307850, "duration": 3900, "top_rank_today": 7, "fetched_at": "2026-03-30T23:50:06"}
+{"source": "toutiao", "rank": 8, "title": "佩斯科夫：俄愿向古巴供应石油", "hot_value": 14283079, "duration": 12660, "top_rank_today": 8, "fetched_at": "2026-03-30T23:50:06"}
+{"source": "toutiao", "rank": 9, "title": "“抗拒走红”老板爆火后将休息半个月", "hot_value": 11693996, "duration": 4860, "top_rank_today": 7, "fetched_at": "2026-03-30T23:50:06"}
+{"source": "toutiao", "rank": 10, "title": "哈佛教授：人民币将在5年内成储备货币", "hot_value": 10581165, "duration": 24180, "top_rank_today": 4, "fetched_at": "2026-03-30T23:50:06"}
+{"source": "baidu", "rank": 1, "title": "美一客机从巴西起飞后发动机爆炸", "hot_value": 7808992, "duration": 8280, "top_rank_today": 1, "fetched_at": "2026-03-30T23:50:10"}
+{"source": "baidu", "rank": 2, "title": "牛奶价格卷起来了", "hot_value": 7712488, "duration": 14520, "top_rank_today": 1, "fetched_at": "2026-03-30T23:50:10"}
+{"source": "baidu", "rank": 3, "title": "又燃又好哭的现场是什么样的", "hot_value": 7618277, "duration": 25740, "top_rank_today": 3, "fetched_at": "2026-03-30T23:50:10"}
+{"source": "baidu", "rank": 4, "title": "贵州茅台宣布涨价", "hot_value": 7519752, "duration": 9660, "top_rank_today": 4, "fetched_at": "2026-03-30T23:50:10"}
+{"source": "baidu", "rank": 5, "title": "孙颖莎3比0横扫夺得世界杯开门红", "hot_value": 7426448, "duration": 11580, "top_rank_today": 5, "fetched_at": "2026-03-30T23:50:10"}
+{"source": "baidu", "rank": 6, "title": "西班牙对参与美伊战事的军机关闭领空", "hot_value": 7332512, "duration": 360, "top_rank_today": 6, "fetched_at": "2026-03-30T23:50:10"}
+{"source": "baidu", "rank": 7, "title": "张雪机车夺冠 估值站上10亿", "hot_value": 7235154, "duration": 14520, "top_rank_today": 7, "fetched_at": "2026-03-30T23:50:10"}
+{"source": "baidu", "rank": 8, "title": "“小电驴”下月将涨价", "hot_value": 7135446, "duration": 21480, "top_rank_today": 2, "fetched_at": "2026-03-30T23:50:10"}
+{"source": "baidu", "rank": 9, "title": "租房6年发现多帮房东交几万电费", "hot_value": 7040289, "duration": 13680, "top_rank_today": 2, "fetched_at": "2026-03-30T23:50:10"}
+{"source": "baidu", "rank": 10, "title": "有26套房男子开假装上班公司持续亏损", "hot_value": 6946852, "duration": 6660, "top_rank_today": 10, "fetched_at": "2026-03-30T23:50:10"}
 ```
