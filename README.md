@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-04-23 15:50:06
+更新时间：2026-04-24 15:50:07
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "曝广州一知名酒楼吃出嚼过的槟榔", "hot_value": 1067631, "duration": 6060, "top_rank_today": 1, "fetched_at": "2026-04-23T15:50:02"}
-{"source": "weibo", "rank": 2, "title": "镜片装反孩子暴涨到900度妈妈崩溃", "hot_value": 1056768, "duration": 19200, "top_rank_today": 1, "fetched_at": "2026-04-23T15:50:02"}
-{"source": "weibo", "rank": 3, "title": "第六届亚洲沙滩运动会在三亚开幕", "hot_value": 1055621, "duration": 1380, "top_rank_today": 3, "fetched_at": "2026-04-23T15:50:02"}
-{"source": "weibo", "rank": 4, "title": "泰国榴莲正在疯狂涌入", "hot_value": 1055333, "duration": 1800, "top_rank_today": 4, "fetched_at": "2026-04-23T15:50:02"}
-{"source": "weibo", "rank": 5, "title": "医生提醒40至60岁为神经梅毒高发人群", "hot_value": 654778, "duration": 6900, "top_rank_today": 4, "fetched_at": "2026-04-23T15:50:02"}
-{"source": "weibo", "rank": 6, "title": "被卖到电诈园女生说发位置会被打", "hot_value": 652849, "duration": 1320, "top_rank_today": 6, "fetched_at": "2026-04-23T15:50:02"}
-{"source": "weibo", "rank": 7, "title": "伊能静说孙杨不靠谱", "hot_value": 650563, "duration": 6120, "top_rank_today": 7, "fetched_at": "2026-04-23T15:50:02"}
-{"source": "weibo", "rank": 8, "title": "踹保安后被掌掴女子耳膜穿孔", "hot_value": 647573, "duration": 5820, "top_rank_today": 1, "fetched_at": "2026-04-23T15:50:02"}
-{"source": "weibo", "rank": 9, "title": "谢娜李小冉回应不和传闻", "hot_value": 646565, "duration": 5400, "top_rank_today": 5, "fetched_at": "2026-04-23T15:50:02"}
-{"source": "weibo", "rank": 10, "title": "全新奔驰纯电GLC", "hot_value": 643425, "duration": 2520, "top_rank_today": 8, "fetched_at": "2026-04-23T15:50:02"}
-{"source": "douyin", "rank": 1, "title": "海军宣传片主角名字亮了", "hot_value": 11962904, "duration": 18120, "top_rank_today": 1, "fetched_at": "2026-04-23T15:50:04"}
-{"source": "douyin", "rank": 2, "title": "NBA活塞击败魔术", "hot_value": 11397115, "duration": 14880, "top_rank_today": 1, "fetched_at": "2026-04-23T15:50:04"}
-{"source": "douyin", "rank": 3, "title": "促进青年发展全面融入城市各领域", "hot_value": 11083625, "duration": 2640, "top_rank_today": 3, "fetched_at": "2026-04-23T15:50:04"}
-{"source": "douyin", "rank": 4, "title": "旅行熟人局到底有多废嘴", "hot_value": 11013811, "duration": 3360, "top_rank_today": 4, "fetched_at": "2026-04-23T15:50:04"}
-{"source": "douyin", "rank": 5, "title": "李幼斌6分钟替老兵走完回家路", "hot_value": 10305284, "duration": 3720, "top_rank_today": 5, "fetched_at": "2026-04-23T15:50:04"}
-{"source": "douyin", "rank": 6, "title": "问界M6趣往生活每一处", "hot_value": 10289008, "duration": 9540, "top_rank_today": 6, "fetched_at": "2026-04-23T15:50:04"}
-{"source": "douyin", "rank": 7, "title": "人民海军成立77周年", "hot_value": 10272733, "duration": 23160, "top_rank_today": 2, "fetched_at": "2026-04-23T15:50:04"}
-{"source": "douyin", "rank": 8, "title": "鱼和饼的奇妙相遇", "hot_value": 9183543, "duration": 18960, "top_rank_today": 4, "fetched_at": "2026-04-23T15:50:04"}
-{"source": "douyin", "rank": 9, "title": "打工人的周末穿搭预备备", "hot_value": 9179120, "duration": 3360, "top_rank_today": 8, "fetched_at": "2026-04-23T15:50:04"}
-{"source": "douyin", "rank": 10, "title": "当方圆脸剪短发后", "hot_value": 9169611, "duration": 57000, "top_rank_today": 7, "fetched_at": "2026-04-23T15:50:04"}
-{"source": "toutiao", "rank": 1, "title": "中际旭创市值破一万亿", "hot_value": 37503437, "duration": 14100, "top_rank_today": 1, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "toutiao", "rank": 2, "title": "湖北一派出所所长值班时倒地牺牲", "hot_value": 33934514, "duration": 7800, "top_rank_today": 1, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "toutiao", "rank": 3, "title": "亚洲沙滩运动会在海南三亚开幕", "hot_value": 30705218, "duration": 2820, "top_rank_today": 3, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "toutiao", "rank": 4, "title": "自称空姐女子怒怼空乘？南航回应", "hot_value": 22746984, "duration": 9060, "top_rank_today": 2, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "toutiao", "rank": 5, "title": "河北一巨大冰块掉落砸到地面", "hot_value": 20582323, "duration": 1140, "top_rank_today": 5, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "toutiao", "rank": 6, "title": "已婚女子多次表白老师被拒确诊桃花癫", "hot_value": 27783230, "duration": 2400, "top_rank_today": 6, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "toutiao", "rank": 7, "title": "受贿数额特别巨大 副部级王会民被公诉", "hot_value": 16851380, "duration": 11820, "top_rank_today": 5, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "toutiao", "rank": 8, "title": "第4艘航母？海军宣传片主角名字亮了", "hot_value": 15247760, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "toutiao", "rank": 9, "title": "一季度2.3万村支书村主任被立案", "hot_value": 11295818, "duration": 12060, "top_rank_today": 6, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "toutiao", "rank": 10, "title": "朝鲜发声要求日本向中国道歉", "hot_value": 9248233, "duration": 57000, "top_rank_today": 2, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "baidu", "rank": 1, "title": "海军五指山舰女兵“一问三不知”", "hot_value": 7809174, "duration": 8220, "top_rank_today": 1, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "baidu", "rank": 2, "title": "微信提醒：接到此类电话立即挂断", "hot_value": 7712394, "duration": 7080, "top_rank_today": 2, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "baidu", "rank": 3, "title": "12位志愿军烈士在沈阳安葬", "hot_value": 7617697, "duration": 2640, "top_rank_today": 3, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "baidu", "rank": 4, "title": "著名书法家爱新觉罗·启骧逝世", "hot_value": 7523680, "duration": 4320, "top_rank_today": 4, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "baidu", "rank": 5, "title": "受AI冲击 短剧霸总回家种地", "hot_value": 7429038, "duration": 21720, "top_rank_today": 5, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "baidu", "rank": 6, "title": "美国多名科学家死亡失踪 FBI介入", "hot_value": 7332575, "duration": 24360, "top_rank_today": 2, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "baidu", "rank": 7, "title": "A股又一万亿巨头诞生", "hot_value": 7232812, "duration": 12660, "top_rank_today": 2, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "baidu", "rank": 8, "title": "对不起 请叫我塔克拉玛干大粮仓", "hot_value": 7135401, "duration": 10320, "top_rank_today": 2, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "baidu", "rank": 9, "title": "司机凌晨呕吐不止 果断掉头去医院", "hot_value": 7043638, "duration": 16680, "top_rank_today": 8, "fetched_at": "2026-04-23T15:50:05"}
-{"source": "baidu", "rank": 10, "title": "15岁少女酒吧误饮有毒液体身亡", "hot_value": 6943677, "duration": 15120, "top_rank_today": 8, "fetched_at": "2026-04-23T15:50:05"}
+{"source": "weibo", "rank": 1, "title": "月薪1.6万放羊已筛选出2对夫妻", "hot_value": 1141056, "duration": 1980, "top_rank_today": 1, "fetched_at": "2026-04-24T15:50:03"}
+{"source": "weibo", "rank": 2, "title": "设计师办公室猝死微信定格在凌晨3点", "hot_value": 808997, "duration": 9840, "top_rank_today": 1, "fetched_at": "2026-04-24T15:50:03"}
+{"source": "weibo", "rank": 3, "title": "有一种浪漫叫中国航天", "hot_value": 775762, "duration": 1080, "top_rank_today": 3, "fetched_at": "2026-04-24T15:50:03"}
+{"source": "weibo", "rank": 4, "title": "张彬彬郑业成KO美人师兄售后", "hot_value": 770872, "duration": 1920, "top_rank_today": 4, "fetched_at": "2026-04-24T15:50:03"}
+{"source": "weibo", "rank": 5, "title": "王者哪吒2联动", "hot_value": 570188, "duration": 1800, "top_rank_today": 5, "fetched_at": "2026-04-24T15:50:03"}
+{"source": "weibo", "rank": 6, "title": "剪毁刘海意外剪成了人生发型", "hot_value": 545329, "duration": 5520, "top_rank_today": 4, "fetched_at": "2026-04-24T15:50:03"}
+{"source": "weibo", "rank": 7, "title": "簪花的孟子义", "hot_value": 472683, "duration": 3480, "top_rank_today": 5, "fetched_at": "2026-04-24T15:50:03"}
+{"source": "weibo", "rank": 8, "title": "原村支书用铲车推土埋村民被刑拘", "hot_value": 433629, "duration": 4860, "top_rank_today": 5, "fetched_at": "2026-04-24T15:50:03"}
+{"source": "weibo", "rank": 9, "title": "浪姐", "hot_value": 404572, "duration": 6420, "top_rank_today": 1, "fetched_at": "2026-04-24T15:50:03"}
+{"source": "weibo", "rank": 10, "title": "DeepSeek v4 百万上下文", "hot_value": 280526, "duration": 14520, "top_rank_today": 7, "fetched_at": "2026-04-24T15:50:03"}
+{"source": "douyin", "rank": 1, "title": "DeepSeek V4 发布", "hot_value": 11745222, "duration": 10680, "top_rank_today": 1, "fetched_at": "2026-04-24T15:50:04"}
+{"source": "douyin", "rank": 2, "title": "华谊兄弟被申请破产重整", "hot_value": 11547032, "duration": 25920, "top_rank_today": 1, "fetched_at": "2026-04-24T15:50:04"}
+{"source": "douyin", "rank": 3, "title": "我国再发现两种月球新矿物", "hot_value": 11340775, "duration": 1920, "top_rank_today": 3, "fetched_at": "2026-04-24T15:50:04"}
+{"source": "douyin", "rank": 4, "title": "NBA官方取消布克技术犯规", "hot_value": 11078125, "duration": 2340, "top_rank_today": 2, "fetched_at": "2026-04-24T15:50:04"}
+{"source": "douyin", "rank": 5, "title": "2026北京国际车展", "hot_value": 10502127, "duration": 17400, "top_rank_today": 1, "fetched_at": "2026-04-24T15:50:04"}
+{"source": "douyin", "rank": 6, "title": "五一在这拍大片", "hot_value": 10448536, "duration": 300, "top_rank_today": 5, "fetched_at": "2026-04-24T15:50:04"}
+{"source": "douyin", "rank": 7, "title": "摩旅路上不一样的风景", "hot_value": 9270468, "duration": 18780, "top_rank_today": 5, "fetched_at": "2026-04-24T15:50:04"}
+{"source": "douyin", "rank": 8, "title": "牛仔短裤在夏天的权威无需多言", "hot_value": 9224832, "duration": 57000, "top_rank_today": 5, "fetched_at": "2026-04-24T15:50:04"}
+{"source": "douyin", "rank": 9, "title": "一人之下6王也再战陈金魁", "hot_value": 9147318, "duration": 13800, "top_rank_today": 8, "fetched_at": "2026-04-24T15:50:04"}
+{"source": "douyin", "rank": 10, "title": "第五人格演绎之星投票开启", "hot_value": 9123524, "duration": 2340, "top_rank_today": 7, "fetched_at": "2026-04-24T15:50:04"}
+{"source": "toutiao", "rank": 1, "title": "月薪1.6万放羊 已筛选出2对夫妻", "hot_value": 24976195, "duration": 1560, "top_rank_today": 1, "fetched_at": "2026-04-24T15:50:06"}
+{"source": "toutiao", "rank": 2, "title": "郑丽文：全世界都不支持“台独”", "hot_value": 16742044, "duration": 8460, "top_rank_today": 2, "fetched_at": "2026-04-24T15:50:06"}
+{"source": "toutiao", "rank": 3, "title": "看“十五五”首季农业农村经济成绩单", "hot_value": 20448779, "duration": 2340, "top_rank_today": 3, "fetched_at": "2026-04-24T15:50:06"}
+{"source": "toutiao", "rank": 4, "title": "美国女子在印度遭民宿员工下药强奸", "hot_value": 22599396, "duration": 2520, "top_rank_today": 4, "fetched_at": "2026-04-24T15:50:06"}
+{"source": "toutiao", "rank": 5, "title": "雷军玩梗送李想“听我讲完”T恤", "hot_value": 15148828, "duration": 1980, "top_rank_today": 5, "fetched_at": "2026-04-24T15:50:06"}
+{"source": "toutiao", "rank": 6, "title": "原村支书驾铲车推土埋村民被刑拘", "hot_value": 18502820, "duration": 3600, "top_rank_today": 6, "fetched_at": "2026-04-24T15:50:06"}
+{"source": "toutiao", "rank": 7, "title": "马克龙：明年卸任后将不再从政", "hot_value": 13707226, "duration": 1560, "top_rank_today": 7, "fetched_at": "2026-04-24T15:50:06"}
+{"source": "toutiao", "rank": 8, "title": "中国海军：我只出一剑谁敢接招", "hot_value": 11222527, "duration": 16920, "top_rank_today": 1, "fetched_at": "2026-04-24T15:50:06"}
+{"source": "toutiao", "rank": 9, "title": "演员陈丽君晋升副主任", "hot_value": 10154563, "duration": 2160, "top_rank_today": 5, "fetched_at": "2026-04-24T15:50:06"}
+{"source": "toutiao", "rank": 10, "title": "8年亏85亿 华谊兄弟为何走到今天", "hot_value": 8313853, "duration": 2640, "top_rank_today": 5, "fetched_at": "2026-04-24T15:50:06"}
+{"source": "baidu", "rank": 1, "title": "“拖鞋面包”走红 有门店销量翻倍", "hot_value": 7808250, "duration": 11580, "top_rank_today": 1, "fetched_at": "2026-04-24T15:50:07"}
+{"source": "baidu", "rank": 2, "title": "起猛了 看见“绿植”自己抱着盆跑了", "hot_value": 7714358, "duration": 17280, "top_rank_today": 2, "fetched_at": "2026-04-24T15:50:07"}
+{"source": "baidu", "rank": 3, "title": "中国科学家发现两种月球新矿物", "hot_value": 7615796, "duration": 2160, "top_rank_today": 3, "fetched_at": "2026-04-24T15:50:07"}
+{"source": "baidu", "rank": 4, "title": "“一听就知道是中国制造”", "hot_value": 7522078, "duration": 5640, "top_rank_today": 1, "fetched_at": "2026-04-24T15:50:07"}
+{"source": "baidu", "rank": 5, "title": "机器人上岗劝阻挖婆婆丁", "hot_value": 7423980, "duration": 17040, "top_rank_today": 5, "fetched_at": "2026-04-24T15:50:07"}
+{"source": "baidu", "rank": 6, "title": "臭名昭著的日本“特高课”或要重现", "hot_value": 7330243, "duration": 25020, "top_rank_today": 2, "fetched_at": "2026-04-24T15:50:07"}
+{"source": "baidu", "rank": 7, "title": "美国巴士爆炸 国会大厦上空黑烟弥漫", "hot_value": 7232612, "duration": 19380, "top_rank_today": 4, "fetched_at": "2026-04-24T15:50:07"}
+{"source": "baidu", "rank": 8, "title": "山东新娘输液昏迷92天后初现意识", "hot_value": 7143594, "duration": 16020, "top_rank_today": 8, "fetched_at": "2026-04-24T15:50:07"}
+{"source": "baidu", "rank": 9, "title": "加拿大女歌手因恐飞取消北京巡演", "hot_value": 7043122, "duration": 24600, "top_rank_today": 5, "fetched_at": "2026-04-24T15:50:07"}
+{"source": "baidu", "rank": 10, "title": "首届国医大师吴咸中逝世 享年101岁", "hot_value": 6952144, "duration": 1680, "top_rank_today": 10, "fetched_at": "2026-04-24T15:50:07"}
 ```
