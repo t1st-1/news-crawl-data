@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-05-08 15:50:06
+更新时间：2026-05-09 15:50:07
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "榴莲仅退款买家被行拘", "hot_value": 3668520, "duration": 2820, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:03"}
-{"source": "weibo", "rank": 2, "title": "台湾出现汉坦病毒致死病例", "hot_value": 1656647, "duration": 1740, "top_rank_today": 2, "fetched_at": "2026-05-08T15:50:03"}
-{"source": "weibo", "rank": 3, "title": "以旧换新助推智能消费升级", "hot_value": 1335726, "duration": 120, "top_rank_today": 3, "fetched_at": "2026-05-08T15:50:03"}
-{"source": "weibo", "rank": 4, "title": "湖南卫视综艺本周停播", "hot_value": 1216914, "duration": 8400, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:03"}
-{"source": "weibo", "rank": 5, "title": "工作后大家的朋友圈都变了", "hot_value": 998030, "duration": 4080, "top_rank_today": 4, "fetched_at": "2026-05-08T15:50:03"}
-{"source": "weibo", "rank": 6, "title": "淘宝免单", "hot_value": 690262, "duration": 16500, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:03"}
-{"source": "weibo", "rank": 7, "title": "这一刻所有偶像剧都要弱爆了", "hot_value": 476642, "duration": 13140, "top_rank_today": 5, "fetched_at": "2026-05-08T15:50:03"}
-{"source": "weibo", "rank": 8, "title": "张杰在谢娜庆功宴上敬酒", "hot_value": 464706, "duration": 17220, "top_rank_today": 4, "fetched_at": "2026-05-08T15:50:03"}
-{"source": "weibo", "rank": 9, "title": "斜方肌就是一个巨大的讨好型人格", "hot_value": 440872, "duration": 14580, "top_rank_today": 4, "fetched_at": "2026-05-08T15:50:03"}
-{"source": "weibo", "rank": 10, "title": "香港拿下世界杯转播权", "hot_value": 306894, "duration": 20280, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:03"}
-{"source": "douyin", "rank": 1, "title": "湖人不敌雷霆总比分0:2落后", "hot_value": 12115504, "duration": 9600, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:04"}
-{"source": "douyin", "rank": 2, "title": "香港拿下世界杯转播权", "hot_value": 12001475, "duration": 14160, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:04"}
-{"source": "douyin", "rank": 3, "title": "科技赋能中国农业加速跑", "hot_value": 11716451, "duration": 240, "top_rank_today": 3, "fetched_at": "2026-05-08T15:50:04"}
-{"source": "douyin", "rank": 4, "title": "高考倒计时祝考生金榜题名", "hot_value": 11568245, "duration": 16920, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:04"}
-{"source": "douyin", "rank": 5, "title": "年轻人有自己的奥运会要备战", "hot_value": 10401605, "duration": 16800, "top_rank_today": 5, "fetched_at": "2026-05-08T15:50:04"}
-{"source": "douyin", "rank": 6, "title": "爱要大声说出来", "hot_value": 10331101, "duration": 8280, "top_rank_today": 4, "fetched_at": "2026-05-08T15:50:04"}
-{"source": "douyin", "rank": 7, "title": "萌娃钓鱼的新手大礼包来了", "hot_value": 9212049, "duration": 9300, "top_rank_today": 6, "fetched_at": "2026-05-08T15:50:04"}
-{"source": "douyin", "rank": 8, "title": "什么是汉坦病毒", "hot_value": 9210703, "duration": 57000, "top_rank_today": 7, "fetched_at": "2026-05-08T15:50:04"}
-{"source": "douyin", "rank": 9, "title": "又到穿裙子的季节了", "hot_value": 9180419, "duration": 28920, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:04"}
-{"source": "douyin", "rank": 10, "title": "我妈是世界上最好的妈", "hot_value": 9173817, "duration": 56940, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:04"}
-{"source": "toutiao", "rank": 1, "title": "香港1.7亿人民币拿下世界杯转播权", "hot_value": 35072760, "duration": 17400, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:05"}
-{"source": "toutiao", "rank": 2, "title": "民调称近7成岛内民众向“台独”说不", "hot_value": 28715147, "duration": 3780, "top_rank_today": 2, "fetched_at": "2026-05-08T15:50:05"}
-{"source": "toutiao", "rank": 3, "title": "这是中国外贸的一张“新名片”", "hot_value": 38761394, "duration": 600, "top_rank_today": 3, "fetched_at": "2026-05-08T15:50:05"}
-{"source": "toutiao", "rank": 4, "title": "男孩每天坚持猛跑1小时把骨头跑断了", "hot_value": 31735145, "duration": 2340, "top_rank_today": 4, "fetched_at": "2026-05-08T15:50:05"}
-{"source": "toutiao", "rank": 5, "title": "美加墨世界杯会和中国观众无缘吗", "hot_value": 25982539, "duration": 6120, "top_rank_today": 4, "fetched_at": "2026-05-08T15:50:05"}
-{"source": "toutiao", "rank": 6, "title": "广州一公园现70cm剧毒外来入侵物种", "hot_value": 21272704, "duration": 4380, "top_rank_today": 2, "fetched_at": "2026-05-08T15:50:05"}
-{"source": "toutiao", "rank": 7, "title": "市监局称4只皮皮虾1035元价格合规", "hot_value": 19248339, "duration": 57000, "top_rank_today": 5, "fetched_at": "2026-05-08T15:50:05"}
-{"source": "toutiao", "rank": 8, "title": "武汉大学教授柯涛逝世 终年48岁", "hot_value": 15759207, "duration": 19800, "top_rank_today": 4, "fetched_at": "2026-05-08T15:50:05"}
-{"source": "toutiao", "rank": 9, "title": "三亚千古情演出被质疑“擦边”", "hot_value": 12902547, "duration": 4500, "top_rank_today": 5, "fetched_at": "2026-05-08T15:50:05"}
-{"source": "toutiao", "rank": 10, "title": "歼35“0001编号”亮相 瞄准国际市场", "hot_value": 11674707, "duration": 22260, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:05"}
-{"source": "baidu", "rank": 1, "title": "香港1.7亿拿下世界杯转播权", "hot_value": 7809793, "duration": 14040, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:06"}
-{"source": "baidu", "rank": 2, "title": "湖南卫视综艺本周停播", "hot_value": 7713092, "duration": 4020, "top_rank_today": 2, "fetched_at": "2026-05-08T15:50:06"}
-{"source": "baidu", "rank": 3, "title": "“太空快递”即将发货", "hot_value": 7618996, "duration": 240, "top_rank_today": 3, "fetched_at": "2026-05-08T15:50:06"}
-{"source": "baidu", "rank": 4, "title": "买190元榴莲“仅退款”买家已被拘", "hot_value": 7521406, "duration": 4140, "top_rank_today": 4, "fetched_at": "2026-05-08T15:50:06"}
-{"source": "baidu", "rank": 5, "title": "台湾出现汉坦病毒致死病例", "hot_value": 7424664, "duration": 1980, "top_rank_today": 5, "fetched_at": "2026-05-08T15:50:06"}
-{"source": "baidu", "rank": 6, "title": "中国大陆球迷还能看到世界杯直播吗", "hot_value": 7328707, "duration": 4140, "top_rank_today": 5, "fetched_at": "2026-05-08T15:50:06"}
-{"source": "baidu", "rank": 7, "title": "晚上睡前刷牙、刷牙后漱口竟是错的", "hot_value": 7236546, "duration": 28920, "top_rank_today": 6, "fetched_at": "2026-05-08T15:50:06"}
-{"source": "baidu", "rank": 8, "title": "男孩每天坚持猛跑1小时把骨头跑断了", "hot_value": 7136035, "duration": 14520, "top_rank_today": 6, "fetched_at": "2026-05-08T15:50:06"}
-{"source": "baidu", "rank": 9, "title": "微信未读语音消息变灰", "hot_value": 7043976, "duration": 20760, "top_rank_today": 1, "fetched_at": "2026-05-08T15:50:06"}
-{"source": "baidu", "rank": 10, "title": "外交部回应英方裁定2名中国公民有罪", "hot_value": 6949579, "duration": 120, "top_rank_today": 10, "fetched_at": "2026-05-08T15:50:06"}
+{"source": "weibo", "rank": 1, "title": "世界杯转播权", "hot_value": 2689741, "duration": 7920, "top_rank_today": 1, "fetched_at": "2026-05-09T15:50:03"}
+{"source": "weibo", "rank": 2, "title": "车企锁电", "hot_value": 1488984, "duration": 2760, "top_rank_today": 2, "fetched_at": "2026-05-09T15:50:03"}
+{"source": "weibo", "rank": 3, "title": "好的营商环境就是生产力", "hot_value": 1247161, "duration": 19920, "top_rank_today": 3, "fetched_at": "2026-05-09T15:50:03"}
+{"source": "weibo", "rank": 4, "title": "给阿嬷的情书剧组穷成这样", "hot_value": 1166355, "duration": 2340, "top_rank_today": 4, "fetched_at": "2026-05-09T15:50:03"}
+{"source": "weibo", "rank": 5, "title": "奔跑吧回应收视率低", "hot_value": 1162589, "duration": 15180, "top_rank_today": 1, "fetched_at": "2026-05-09T15:50:03"}
+{"source": "weibo", "rank": 6, "title": "淘宝免单", "hot_value": 631104, "duration": 15840, "top_rank_today": 1, "fetched_at": "2026-05-09T15:50:03"}
+{"source": "weibo", "rank": 7, "title": "白鹿主动让C", "hot_value": 607246, "duration": 12720, "top_rank_today": 4, "fetched_at": "2026-05-09T15:50:03"}
+{"source": "weibo", "rank": 8, "title": "8名中国人赴泰私拍短剧被逮捕", "hot_value": 506945, "duration": 11100, "top_rank_today": 2, "fetched_at": "2026-05-09T15:50:03"}
+{"source": "weibo", "rank": 9, "title": "无忧传媒发布王暖暖健康状况声明", "hot_value": 333981, "duration": 180, "top_rank_today": 9, "fetched_at": "2026-05-09T15:50:03"}
+{"source": "weibo", "rank": 10, "title": "DeepSeek正式跨入图文交互时代", "hot_value": 324482, "duration": 14280, "top_rank_today": 5, "fetched_at": "2026-05-09T15:50:03"}
+{"source": "douyin", "rank": 1, "title": "俄罗斯胜利日阅兵", "hot_value": 11696566, "duration": 19320, "top_rank_today": 1, "fetched_at": "2026-05-09T15:50:04"}
+{"source": "douyin", "rank": 2, "title": "大吉大利杯S6总决赛", "hot_value": 11639285, "duration": 8280, "top_rank_today": 2, "fetched_at": "2026-05-09T15:50:04"}
+{"source": "douyin", "rank": 3, "title": "盘点3个微表情见证活力中国", "hot_value": 11367303, "duration": 20220, "top_rank_today": 3, "fetched_at": "2026-05-09T15:50:04"}
+{"source": "douyin", "rank": 4, "title": "赖清德跪拜日本殖民者", "hot_value": 11043628, "duration": 13920, "top_rank_today": 4, "fetched_at": "2026-05-09T15:50:04"}
+{"source": "douyin", "rank": 5, "title": "什么是锁电", "hot_value": 10489224, "duration": 52800, "top_rank_today": 1, "fetched_at": "2026-05-09T15:50:04"}
+{"source": "douyin", "rank": 6, "title": "母亲节把心意穿在妈妈身上", "hot_value": 10312572, "duration": 29700, "top_rank_today": 1, "fetched_at": "2026-05-09T15:50:04"}
+{"source": "douyin", "rank": 7, "title": "到底谁还没有买tutu裙", "hot_value": 9206029, "duration": 57000, "top_rank_today": 7, "fetched_at": "2026-05-09T15:50:04"}
+{"source": "douyin", "rank": 8, "title": "国乒男团将对阵法国队", "hot_value": 9195203, "duration": 8340, "top_rank_today": 8, "fetched_at": "2026-05-09T15:50:04"}
+{"source": "douyin", "rank": 9, "title": "苏超南通vs南京", "hot_value": 9170489, "duration": 3900, "top_rank_today": 9, "fetched_at": "2026-05-09T15:50:04"}
+{"source": "douyin", "rank": 10, "title": "剖析汉坦病毒传播链", "hot_value": 9125850, "duration": 21240, "top_rank_today": 6, "fetched_at": "2026-05-09T15:50:04"}
+{"source": "toutiao", "rank": 1, "title": "直击俄罗斯胜利日红场阅兵", "hot_value": 38502914, "duration": 2280, "top_rank_today": 1, "fetched_at": "2026-05-09T15:50:05"}
+{"source": "toutiao", "rank": 2, "title": "央视曝光车企为降成本偷偷“锁电”", "hot_value": 34838877, "duration": 12480, "top_rank_today": 1, "fetched_at": "2026-05-09T15:50:05"}
+{"source": "toutiao", "rank": 3, "title": "数据看五一假期流动新画卷", "hot_value": 31523520, "duration": 9240, "top_rank_today": 3, "fetched_at": "2026-05-09T15:50:05"}
+{"source": "toutiao", "rank": 4, "title": "恒大原总裁夏海钧豪宅起拍价4943万", "hot_value": 25809275, "duration": 2760, "top_rank_today": 2, "fetched_at": "2026-05-09T15:50:05"}
+{"source": "toutiao", "rank": 5, "title": "马龙许昕看王楚钦决胜盘神情令人动容", "hot_value": 23353198, "duration": 1440, "top_rank_today": 4, "fetched_at": "2026-05-09T15:50:05"}
+{"source": "toutiao", "rank": 6, "title": "国防部：日方应拿出正视历史的态度", "hot_value": 21130847, "duration": 420, "top_rank_today": 5, "fetched_at": "2026-05-09T15:50:05"}
+{"source": "toutiao", "rank": 7, "title": "刘涛现身妈祖诞辰守夜庆生活动", "hot_value": 15654116, "duration": 13860, "top_rank_today": 4, "fetched_at": "2026-05-09T15:50:05"}
+{"source": "toutiao", "rank": 8, "title": "朝鲜军人参加俄罗斯红场阅兵", "hot_value": 19119981, "duration": 780, "top_rank_today": 8, "fetched_at": "2026-05-09T15:50:05"}
+{"source": "toutiao", "rank": 9, "title": "勒布伦：王楚钦是最难挑战的对手", "hot_value": 17300474, "duration": 3420, "top_rank_today": 4, "fetched_at": "2026-05-09T15:50:05"}
+{"source": "toutiao", "rank": 10, "title": "白宫世界杯负责人称买不起票就看转播", "hot_value": 12816506, "duration": 3600, "top_rank_today": 6, "fetched_at": "2026-05-09T15:50:05"}
+{"source": "baidu", "rank": 1, "title": "8名中国人在泰国拍短剧被捕", "hot_value": 7809719, "duration": 9480, "top_rank_today": 1, "fetched_at": "2026-05-09T15:50:07"}
+{"source": "baidu", "rank": 2, "title": "普京会见三国总统", "hot_value": 7712082, "duration": 12120, "top_rank_today": 2, "fetched_at": "2026-05-09T15:50:07"}
+{"source": "baidu", "rank": 3, "title": "如何从“一时火”走向“一直火”", "hot_value": 7616630, "duration": 20340, "top_rank_today": 3, "fetched_at": "2026-05-09T15:50:07"}
+{"source": "baidu", "rank": 4, "title": "车主提宝马不久引擎盖里发现一窝猫", "hot_value": 7520901, "duration": 13740, "top_rank_today": 4, "fetched_at": "2026-05-09T15:50:07"}
+{"source": "baidu", "rank": 5, "title": "江西省省长：政府不要带血的GDP", "hot_value": 7426493, "duration": 6900, "top_rank_today": 5, "fetched_at": "2026-05-09T15:50:07"}
+{"source": "baidu", "rank": 6, "title": "俄罗斯胜利日红场阅兵", "hot_value": 7330475, "duration": 4260, "top_rank_today": 6, "fetched_at": "2026-05-09T15:50:07"}
+{"source": "baidu", "rank": 7, "title": "国防部：中方建造潜艇已交付巴基斯坦", "hot_value": 7236880, "duration": 1440, "top_rank_today": 7, "fetched_at": "2026-05-09T15:50:07"}
+{"source": "baidu", "rank": 8, "title": "央视曝光车企为降成本偷偷“锁电”", "hot_value": 7141937, "duration": 10260, "top_rank_today": 6, "fetched_at": "2026-05-09T15:50:07"}
+{"source": "baidu", "rank": 9, "title": "多名老人因免费领鸡蛋被骗走50万", "hot_value": 7043851, "duration": 12240, "top_rank_today": 4, "fetched_at": "2026-05-09T15:50:07"}
+{"source": "baidu", "rank": 10, "title": "洛阳千年菩提树开花了", "hot_value": 6949740, "duration": 21480, "top_rank_today": 2, "fetched_at": "2026-05-09T15:50:07"}
 ```
