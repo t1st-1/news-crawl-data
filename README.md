@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-06-28 15:50:08
+更新时间：2026-06-29 15:50:09
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "抖音通报网红诋毁袁隆平", "hot_value": 1099416, "duration": 5160, "top_rank_today": 1, "fetched_at": "2026-06-28T15:50:02"}
-{"source": "weibo", "rank": 2, "title": "浪姐结束各回各咖", "hot_value": 813104, "duration": 10080, "top_rank_today": 2, "fetched_at": "2026-06-28T15:50:02"}
-{"source": "weibo", "rank": 3, "title": "全球最大人造太阳超导磁体在中国", "hot_value": 654515, "duration": 12900, "top_rank_today": 3, "fetched_at": "2026-06-28T15:50:02"}
-{"source": "weibo", "rank": 4, "title": "黄灿灿回到所有人都在的这一天", "hot_value": 475729, "duration": 5160, "top_rank_today": 4, "fetched_at": "2026-06-28T15:50:02"}
-{"source": "weibo", "rank": 5, "title": "玩家回应恋与深空回应", "hot_value": 371460, "duration": 13980, "top_rank_today": 4, "fetched_at": "2026-06-28T15:50:02"}
-{"source": "weibo", "rank": 6, "title": "诋毁袁隆平成果网红称大不了就进去", "hot_value": 369229, "duration": 11520, "top_rank_today": 1, "fetched_at": "2026-06-28T15:50:02"}
-{"source": "weibo", "rank": 7, "title": "祖海认领杨紫", "hot_value": 364640, "duration": 6480, "top_rank_today": 4, "fetched_at": "2026-06-28T15:50:02"}
-{"source": "weibo", "rank": 8, "title": "世界杯32强全名单", "hot_value": 350460, "duration": 12720, "top_rank_today": 1, "fetched_at": "2026-06-28T15:50:02"}
-{"source": "weibo", "rank": 9, "title": "当小猫闻了一下柴犬的脚", "hot_value": 339709, "duration": 7380, "top_rank_today": 5, "fetched_at": "2026-06-28T15:50:02"}
-{"source": "weibo", "rank": 10, "title": "韩国队回国没有接机", "hot_value": 247618, "duration": 2340, "top_rank_today": 10, "fetched_at": "2026-06-28T15:50:02"}
-{"source": "douyin", "rank": 1, "title": "已经开始期待大兴安岭的秋天了", "hot_value": 12139000, "duration": 21240, "top_rank_today": 1, "fetched_at": "2026-06-28T15:50:06"}
-{"source": "douyin", "rank": 2, "title": "记者：热火计划追求詹姆斯", "hot_value": 12091997, "duration": 15720, "top_rank_today": 2, "fetched_at": "2026-06-28T15:50:06"}
-{"source": "douyin", "rank": 3, "title": "教育部发布填报志愿诈骗预警", "hot_value": 11725677, "duration": 13320, "top_rank_today": 3, "fetched_at": "2026-06-28T15:50:06"}
-{"source": "douyin", "rank": 4, "title": "啥是大运", "hot_value": 11522969, "duration": 8700, "top_rank_today": 4, "fetched_at": "2026-06-28T15:50:06"}
-{"source": "douyin", "rank": 5, "title": "不论成绩如何都是父母的骄傲", "hot_value": 10899971, "duration": 16320, "top_rank_today": 5, "fetched_at": "2026-06-28T15:50:06"}
-{"source": "douyin", "rank": 6, "title": "香港fun玩一夏", "hot_value": 10155183, "duration": 28500, "top_rank_today": 6, "fetched_at": "2026-06-28T15:50:06"}
-{"source": "douyin", "rank": 7, "title": "韩国队世界杯出局", "hot_value": 9410396, "duration": 21240, "top_rank_today": 1, "fetched_at": "2026-06-28T15:50:06"}
-{"source": "douyin", "rank": 8, "title": "伊朗无缘世界杯32强", "hot_value": 9197860, "duration": 12900, "top_rank_today": 4, "fetched_at": "2026-06-28T15:50:06"}
-{"source": "douyin", "rank": 9, "title": "我喜欢的漫画被AI改编了", "hot_value": 9188023, "duration": 57000, "top_rank_today": 9, "fetched_at": "2026-06-28T15:50:06"}
-{"source": "douyin", "rank": 10, "title": "约旦1:3阿根廷", "hot_value": 9140780, "duration": 13500, "top_rank_today": 10, "fetched_at": "2026-06-28T15:50:06"}
-{"source": "toutiao", "rank": 1, "title": "伊朗队最后时刻出局", "hot_value": 14958686, "duration": 13080, "top_rank_today": 1, "fetched_at": "2026-06-28T15:50:07"}
-{"source": "toutiao", "rank": 2, "title": "欧洲国家为何在空调这件事上集体掉队", "hot_value": 8209501, "duration": 2460, "top_rank_today": 2, "fetched_at": "2026-06-28T15:50:07"}
-{"source": "toutiao", "rank": 3, "title": "未来5年充电供热供暖将有大变化", "hot_value": 12247137, "duration": 600, "top_rank_today": 3, "fetched_at": "2026-06-28T15:50:07"}
-{"source": "toutiao", "rank": 4, "title": "韩国男足回国将首次无接机和欢迎", "hot_value": 13535179, "duration": 4260, "top_rank_today": 4, "fetched_at": "2026-06-28T15:50:07"}
-{"source": "toutiao", "rank": 5, "title": "领导层才能吹空调？欧委会员工被激怒", "hot_value": 7428264, "duration": 1680, "top_rank_today": 2, "fetched_at": "2026-06-28T15:50:07"}
-{"source": "toutiao", "rank": 6, "title": "男子骗走女子500余万获刑14年半", "hot_value": 5502993, "duration": 2820, "top_rank_today": 5, "fetched_at": "2026-06-28T15:50:07"}
-{"source": "toutiao", "rank": 7, "title": "韩媒气到给韩国队主帅打码", "hot_value": 11081667, "duration": 2040, "top_rank_today": 7, "fetched_at": "2026-06-28T15:50:07"}
-{"source": "toutiao", "rank": 8, "title": "夏天哪些瓜类蔬菜发苦不能吃", "hot_value": 3688766, "duration": 480, "top_rank_today": 8, "fetched_at": "2026-06-28T15:50:07"}
-{"source": "toutiao", "rank": 9, "title": "中国空军战略投送能力有多强", "hot_value": 2237350, "duration": 10680, "top_rank_today": 2, "fetched_at": "2026-06-28T15:50:07"}
-{"source": "toutiao", "rank": 10, "title": "韩媒一片哀嚎：没有奇迹", "hot_value": 10027107, "duration": 20940, "top_rank_today": 1, "fetched_at": "2026-06-28T15:50:07"}
-{"source": "baidu", "rank": 1, "title": "本届世界杯唯一0进球球队诞生", "hot_value": 7808808, "duration": 1980, "top_rank_today": 1, "fetched_at": "2026-06-28T15:50:08"}
-{"source": "baidu", "rank": 2, "title": "韩国足协取消为韩国队接机", "hot_value": 7714335, "duration": 6600, "top_rank_today": 2, "fetched_at": "2026-06-28T15:50:08"}
-{"source": "baidu", "rank": 3, "title": "专家详解“人造太阳”核心技术", "hot_value": 7615883, "duration": 240, "top_rank_today": 3, "fetched_at": "2026-06-28T15:50:08"}
-{"source": "baidu", "rank": 4, "title": "毕业7年后他决定再唱《起风了》", "hot_value": 7523948, "duration": 18360, "top_rank_today": 4, "fetched_at": "2026-06-28T15:50:08"}
-{"source": "baidu", "rank": 5, "title": "小马被游客无人机惊扰 狂奔炸肺死亡", "hot_value": 7425576, "duration": 12840, "top_rank_today": 5, "fetched_at": "2026-06-28T15:50:08"}
-{"source": "baidu", "rank": 6, "title": "世界杯32强对阵表来了", "hot_value": 7334156, "duration": 10320, "top_rank_today": 6, "fetched_at": "2026-06-28T15:50:08"}
-{"source": "baidu", "rank": 7, "title": "多辆“百吨王”在京新高速强行冲卡", "hot_value": 7238328, "duration": 6180, "top_rank_today": 7, "fetched_at": "2026-06-28T15:50:08"}
-{"source": "baidu", "rank": 8, "title": "韩媒气到给主帅打码", "hot_value": 7135691, "duration": 14460, "top_rank_today": 8, "fetched_at": "2026-06-28T15:50:08"}
-{"source": "baidu", "rank": 9, "title": "伊朗队最后时刻出局", "hot_value": 7044504, "duration": 12420, "top_rank_today": 1, "fetched_at": "2026-06-28T15:50:08"}
-{"source": "baidu", "rank": 10, "title": "乌拉圭队取消包机 球员将自行返程", "hot_value": 6949342, "duration": 23760, "top_rank_today": 1, "fetched_at": "2026-06-28T15:50:08"}
+{"source": "weibo", "rank": 1, "title": "法国紧急下单3万台空调", "hot_value": 1092217, "duration": 19260, "top_rank_today": 1, "fetched_at": "2026-06-29T15:50:02"}
+{"source": "weibo", "rank": 2, "title": "韩国国脚每人获35.5万奖金", "hot_value": 765380, "duration": 8880, "top_rank_today": 2, "fetched_at": "2026-06-29T15:50:02"}
+{"source": "weibo", "rank": 3, "title": "1个视频看懂2026志愿填报新专业", "hot_value": 725517, "duration": 3900, "top_rank_today": 3, "fetched_at": "2026-06-29T15:50:02"}
+{"source": "weibo", "rank": 4, "title": "剧宣天才虞书欣发力了", "hot_value": 708452, "duration": 5580, "top_rank_today": 4, "fetched_at": "2026-06-29T15:50:02"}
+{"source": "weibo", "rank": 5, "title": "母亲获赔80万弟弟拿74万姐姐3万", "hot_value": 700954, "duration": 10440, "top_rank_today": 4, "fetched_at": "2026-06-29T15:50:02"}
+{"source": "weibo", "rank": 6, "title": "恋与深空 731", "hot_value": 18599278, "duration": 3660, "top_rank_today": 1, "fetched_at": "2026-06-29T15:50:02"}
+{"source": "weibo", "rank": 7, "title": "戒掉咖啡后我的身体变化", "hot_value": 688042, "duration": 1920, "top_rank_today": 7, "fetched_at": "2026-06-29T15:50:02"}
+{"source": "weibo", "rank": 8, "title": "中国妇女评网游娱乐化女性安全", "hot_value": 669584, "duration": 960, "top_rank_today": 7, "fetched_at": "2026-06-29T15:50:02"}
+{"source": "weibo", "rank": 9, "title": "TFING全员黑西装", "hot_value": 654818, "duration": 1260, "top_rank_today": 8, "fetched_at": "2026-06-29T15:50:02"}
+{"source": "weibo", "rank": 10, "title": "广州一高校通报网传禁止小米汽车入校", "hot_value": 649502, "duration": 8580, "top_rank_today": 9, "fetched_at": "2026-06-29T15:50:02"}
+{"source": "douyin", "rank": 1, "title": "中国小将严子怡再现一投夺冠", "hot_value": 12095028, "duration": 14160, "top_rank_today": 1, "fetched_at": "2026-06-29T15:50:03"}
+{"source": "douyin", "rank": 2, "title": "用一篇长文记录毕业季", "hot_value": 11742311, "duration": 18120, "top_rank_today": 1, "fetched_at": "2026-06-29T15:50:03"}
+{"source": "douyin", "rank": 3, "title": "高考志愿填报专业怎么选", "hot_value": 11739617, "duration": 12180, "top_rank_today": 3, "fetched_at": "2026-06-29T15:50:03"}
+{"source": "douyin", "rank": 4, "title": "欢迎参与时间胶囊计划", "hot_value": 11343949, "duration": 9120, "top_rank_today": 4, "fetched_at": "2026-06-29T15:50:03"}
+{"source": "douyin", "rank": 5, "title": "俄乌冲突累计伤亡人数近180万", "hot_value": 10678296, "duration": 7260, "top_rank_today": 5, "fetched_at": "2026-06-29T15:50:03"}
+{"source": "douyin", "rank": 6, "title": "网警提醒4类“高考查分陷阱”", "hot_value": 10547409, "duration": 2280, "top_rank_today": 6, "fetched_at": "2026-06-29T15:50:03"}
+{"source": "douyin", "rank": 7, "title": "中方将20家日本实体列入管控名单", "hot_value": 9296339, "duration": 15720, "top_rank_today": 5, "fetched_at": "2026-06-29T15:50:03"}
+{"source": "douyin", "rank": 8, "title": "看到我走出小镇你是否为我高兴", "hot_value": 9258550, "duration": 5460, "top_rank_today": 7, "fetched_at": "2026-06-29T15:50:03"}
+{"source": "douyin", "rank": 9, "title": "航海王结局基本确定", "hot_value": 9132937, "duration": 16080, "top_rank_today": 8, "fetched_at": "2026-06-29T15:50:03"}
+{"source": "douyin", "rank": 10, "title": "佛得角对阵阿根廷能一“黑”到底吗", "hot_value": 9094076, "duration": 1920, "top_rank_today": 10, "fetched_at": "2026-06-29T15:50:03"}
+{"source": "toutiao", "rank": 1, "title": "法国紧急下单3万台空调", "hot_value": 17672464, "duration": 7140, "top_rank_today": 1, "fetched_at": "2026-06-29T15:50:04"}
+{"source": "toutiao", "rank": 2, "title": "一家三口吃溪石斑鱼中毒", "hot_value": 13092083, "duration": 1920, "top_rank_today": 2, "fetched_at": "2026-06-29T15:50:04"}
+{"source": "toutiao", "rank": 3, "title": "我国文化产业营收规模突破20万亿元", "hot_value": 19531093, "duration": 3900, "top_rank_today": 3, "fetched_at": "2026-06-29T15:50:04"}
+{"source": "toutiao", "rank": 4, "title": "美的“卡bug”空调在欧洲卖爆", "hot_value": 15990706, "duration": 1980, "top_rank_today": 1, "fetched_at": "2026-06-29T15:50:04"}
+{"source": "toutiao", "rank": 5, "title": "法总统候选人：拒绝与中国激烈对抗", "hot_value": 11846207, "duration": 14280, "top_rank_today": 1, "fetched_at": "2026-06-29T15:50:04"}
+{"source": "toutiao", "rank": 6, "title": "网警提醒4类“高考查分陷阱”", "hot_value": 14468989, "duration": 3420, "top_rank_today": 6, "fetched_at": "2026-06-29T15:50:04"}
+{"source": "toutiao", "rank": 7, "title": "福建仙游一峡谷发生意外5人身亡", "hot_value": 10718891, "duration": 2340, "top_rank_today": 4, "fetched_at": "2026-06-29T15:50:04"}
+{"source": "toutiao", "rank": 8, "title": "电影《抓特务》总票房破亿", "hot_value": 9698853, "duration": 1380, "top_rank_today": 7, "fetched_at": "2026-06-29T15:50:04"}
+{"source": "toutiao", "rank": 9, "title": "四川宜宾地震瞬间鱼群乱跳", "hot_value": 7940750, "duration": 30000, "top_rank_today": 1, "fetched_at": "2026-06-29T15:50:04"}
+{"source": "toutiao", "rank": 10, "title": "普京：俄罗斯面临命运攸关时刻", "hot_value": 7185087, "duration": 19800, "top_rank_today": 2, "fetched_at": "2026-06-29T15:50:04"}
+{"source": "baidu", "rank": 1, "title": "法总统候选人：拒绝与中国激烈对抗", "hot_value": 7808968, "duration": 11520, "top_rank_today": 1, "fetched_at": "2026-06-29T15:50:09"}
+{"source": "baidu", "rank": 2, "title": "“养路费”谁来交 油电车主大吵", "hot_value": 7713714, "duration": 5220, "top_rank_today": 2, "fetched_at": "2026-06-29T15:50:09"}
+{"source": "baidu", "rank": 3, "title": "中国多领域发布亮眼“成绩单”", "hot_value": 7618092, "duration": 3060, "top_rank_today": 3, "fetched_at": "2026-06-29T15:50:09"}
+{"source": "baidu", "rank": 4, "title": "巴西球员：日本队有点傲慢了", "hot_value": 7523166, "duration": 4260, "top_rank_today": 4, "fetched_at": "2026-06-29T15:50:09"}
+{"source": "baidu", "rank": 5, "title": "欧洲极端高温 美的“卡bug”空调卖爆", "hot_value": 7425758, "duration": 18540, "top_rank_today": 5, "fetched_at": "2026-06-29T15:50:09"}
+{"source": "baidu", "rank": 6, "title": "网警提醒4类“高考查分陷阱”", "hot_value": 7332105, "duration": 3180, "top_rank_today": 6, "fetched_at": "2026-06-29T15:50:09"}
+{"source": "baidu", "rank": 7, "title": "三甲医生提醒青蛙腹是最糟糕体型", "hot_value": 7238064, "duration": 7620, "top_rank_today": 6, "fetched_at": "2026-06-29T15:50:09"}
+{"source": "baidu", "rank": 8, "title": "葫芦岛居民楼爆炸致3人失联8人轻微伤", "hot_value": 7141735, "duration": 10020, "top_rank_today": 7, "fetched_at": "2026-06-29T15:50:09"}
+{"source": "baidu", "rank": 9, "title": "法国紧急下单3万台空调", "hot_value": 7044018, "duration": 17220, "top_rank_today": 1, "fetched_at": "2026-06-29T15:50:09"}
+{"source": "baidu", "rank": 10, "title": "母亲去世80万赔偿款弟弟拿走74万", "hot_value": 6943980, "duration": 5820, "top_rank_today": 5, "fetched_at": "2026-06-29T15:50:09"}
 ```
