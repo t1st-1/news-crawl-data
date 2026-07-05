@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-07-04 15:50:06
+更新时间：2026-07-05 15:50:07
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "佛得角队收获1100万美元奖金", "hot_value": 2060610, "duration": 11220, "top_rank_today": 1, "fetched_at": "2026-07-04T15:50:03"}
-{"source": "weibo", "rank": 2, "title": "王楚钦孙颖莎获混双亚军", "hot_value": 1310823, "duration": 8280, "top_rank_today": 1, "fetched_at": "2026-07-04T15:50:03"}
-{"source": "weibo", "rank": 3, "title": "本周这些数据最值得关注", "hot_value": 1059616, "duration": 2820, "top_rank_today": 3, "fetched_at": "2026-07-04T15:50:03"}
-{"source": "weibo", "rank": 4, "title": "到底是谁取消有线耳机的", "hot_value": 1012439, "duration": 4920, "top_rank_today": 4, "fetched_at": "2026-07-04T15:50:03"}
-{"source": "weibo", "rank": 5, "title": "佛得角更衣室哭了", "hot_value": 906582, "duration": 10020, "top_rank_today": 4, "fetched_at": "2026-07-04T15:50:03"}
-{"source": "weibo", "rank": 6, "title": "陈靖可横店送虞书欣上班", "hot_value": 641125, "duration": 5400, "top_rank_today": 5, "fetched_at": "2026-07-04T15:50:03"}
-{"source": "weibo", "rank": 7, "title": "最新世界杯夺冠赔率", "hot_value": 598623, "duration": 3600, "top_rank_today": 6, "fetched_at": "2026-07-04T15:50:03"}
-{"source": "weibo", "rank": 8, "title": "王楚钦孙颖莎vs林仲勋申裕斌", "hot_value": 473247, "duration": 12120, "top_rank_today": 1, "fetched_at": "2026-07-04T15:50:03"}
-{"source": "weibo", "rank": 9, "title": "王俊凯演唱会8000张票", "hot_value": 439488, "duration": 2580, "top_rank_today": 9, "fetched_at": "2026-07-04T15:50:03"}
-{"source": "weibo", "rank": 10, "title": "711起诉耐克抄袭", "hot_value": 393305, "duration": 14280, "top_rank_today": 4, "fetched_at": "2026-07-04T15:50:03"}
-{"source": "douyin", "rank": 1, "title": "台风美莎克将再次登陆广西沿海", "hot_value": 12127086, "duration": 14820, "top_rank_today": 1, "fetched_at": "2026-07-04T15:50:04"}
-{"source": "douyin", "rank": 2, "title": "云南撒撇把美食吃出新高度", "hot_value": 11729968, "duration": 16500, "top_rank_today": 1, "fetched_at": "2026-07-04T15:50:04"}
-{"source": "douyin", "rank": 3, "title": "暑运热尽显流动中国活力", "hot_value": 11484075, "duration": 3300, "top_rank_today": 3, "fetched_at": "2026-07-04T15:50:04"}
-{"source": "douyin", "rank": 4, "title": "谈恋爱之前的穿搭", "hot_value": 11202028, "duration": 28500, "top_rank_today": 2, "fetched_at": "2026-07-04T15:50:04"}
-{"source": "douyin", "rank": 5, "title": "梅雨季穿搭", "hot_value": 10446794, "duration": 28500, "top_rank_today": 2, "fetched_at": "2026-07-04T15:50:04"}
-{"source": "douyin", "rank": 6, "title": "中国空调凭啥在欧洲这么夯", "hot_value": 10217459, "duration": 16320, "top_rank_today": 5, "fetched_at": "2026-07-04T15:50:04"}
-{"source": "douyin", "rank": 7, "title": "在大黑山岛感受慢下来的时光", "hot_value": 9067444, "duration": 17100, "top_rank_today": 5, "fetched_at": "2026-07-04T15:50:04"}
-{"source": "douyin", "rank": 8, "title": "孙颖莎王楚钦2:3申裕斌林钟勋", "hot_value": 8931303, "duration": 8280, "top_rank_today": 7, "fetched_at": "2026-07-04T15:50:04"}
-{"source": "douyin", "rank": 9, "title": "各地压箱底桃子大公开", "hot_value": 8794938, "duration": 57000, "top_rank_today": 2, "fetched_at": "2026-07-04T15:50:04"}
-{"source": "douyin", "rank": 10, "title": "中国男篮世预赛不敌日本引争议", "hot_value": 8078879, "duration": 9960, "top_rank_today": 9, "fetched_at": "2026-07-04T15:50:04"}
-{"source": "toutiao", "rank": 1, "title": "佛得角收获1100万美元赛事奖金", "hot_value": 51803924, "duration": 5460, "top_rank_today": 1, "fetched_at": "2026-07-04T15:50:05"}
-{"source": "toutiao", "rank": 2, "title": "女生高考582分查分后给警察发短信", "hot_value": 38377291, "duration": 4980, "top_rank_today": 2, "fetched_at": "2026-07-04T15:50:05"}
-{"source": "toutiao", "rank": 3, "title": "数字化便民举措再升级", "hot_value": 42413466, "duration": 3480, "top_rank_today": 3, "fetched_at": "2026-07-04T15:50:05"}
-{"source": "toutiao", "rank": 4, "title": "佛得角众将躺倒在地 进球功臣痛哭", "hot_value": 46874129, "duration": 17580, "top_rank_today": 1, "fetched_at": "2026-07-04T15:50:05"}
-{"source": "toutiao", "rank": 5, "title": "普京突然穿上军装释放什么信号", "hot_value": 34725209, "duration": 11640, "top_rank_today": 2, "fetched_at": "2026-07-04T15:50:05"}
-{"source": "toutiao", "rank": 6, "title": "林仲勋回应混双夺冠", "hot_value": 25725067, "duration": 2040, "top_rank_today": 6, "fetched_at": "2026-07-04T15:50:05"}
-{"source": "toutiao", "rank": 7, "title": "阿根廷vs佛得角比赛收视率破3.1%", "hot_value": 31420668, "duration": 9600, "top_rank_today": 6, "fetched_at": "2026-07-04T15:50:05"}
-{"source": "toutiao", "rank": 8, "title": "德方就不实报道对中方提“外交抗议”", "hot_value": 17244028, "duration": 9600, "top_rank_today": 6, "fetched_at": "2026-07-04T15:50:05"}
-{"source": "toutiao", "rank": 9, "title": "孙颖莎王楚钦无缘混双冠军", "hot_value": 21061904, "duration": 9420, "top_rank_today": 4, "fetched_at": "2026-07-04T15:50:05"}
-{"source": "toutiao", "rank": 10, "title": "佛得角小球迷哭成泪人门将摸头安慰", "hot_value": 23277003, "duration": 4320, "top_rank_today": 6, "fetched_at": "2026-07-04T15:50:05"}
-{"source": "baidu", "rank": 1, "title": "本届世界杯最大赢家已经诞生", "hot_value": 7808907, "duration": 11700, "top_rank_today": 1, "fetched_at": "2026-07-04T15:50:06"}
-{"source": "baidu", "rank": 2, "title": "王楚钦孙颖莎混双决赛不敌韩国组合", "hot_value": 7713577, "duration": 9000, "top_rank_today": 2, "fetched_at": "2026-07-04T15:50:06"}
-{"source": "baidu", "rank": 3, "title": "未来5年 城市、乡村、河湖要更美丽", "hot_value": 7617232, "duration": 2700, "top_rank_today": 3, "fetched_at": "2026-07-04T15:50:06"}
-{"source": "baidu", "rank": 4, "title": "佛得角收获1100万美元奖金", "hot_value": 7521234, "duration": 11100, "top_rank_today": 4, "fetched_at": "2026-07-04T15:50:06"}
-{"source": "baidu", "rank": 5, "title": "女生高考582分 查分后给警察发短信", "hot_value": 7423922, "duration": 10860, "top_rank_today": 5, "fetched_at": "2026-07-04T15:50:06"}
-{"source": "baidu", "rank": 6, "title": "佛得角门将梗图走红", "hot_value": 7334246, "duration": 14700, "top_rank_today": 5, "fetched_at": "2026-07-04T15:50:06"}
-{"source": "baidu", "rank": 7, "title": "阿根廷队发文致敬佛得角", "hot_value": 7232060, "duration": 7200, "top_rank_today": 7, "fetched_at": "2026-07-04T15:50:06"}
-{"source": "baidu", "rank": 8, "title": "世界杯16强全部决出", "hot_value": 7136459, "duration": 15000, "top_rank_today": 6, "fetched_at": "2026-07-04T15:50:06"}
-{"source": "baidu", "rank": 9, "title": "张雪透露目前负债接近1亿", "hot_value": 7047232, "duration": 5280, "top_rank_today": 9, "fetched_at": "2026-07-04T15:50:06"}
-{"source": "baidu", "rank": 10, "title": "阿根廷3比2艰难战胜佛得角", "hot_value": 6946799, "duration": 25140, "top_rank_today": 1, "fetched_at": "2026-07-04T15:50:06"}
+{"source": "weibo", "rank": 1, "title": "西藏文旅将兑换承诺奖励李要得50万", "hot_value": 1402288, "duration": 5820, "top_rank_today": 1, "fetched_at": "2026-07-05T15:50:03"}
+{"source": "weibo", "rank": 2, "title": "有线耳机", "hot_value": 1105825, "duration": 4680, "top_rank_today": 2, "fetched_at": "2026-07-05T15:50:03"}
+{"source": "weibo", "rank": 3, "title": "他们于无声处创造历史", "hot_value": 1025420, "duration": 840, "top_rank_today": 3, "fetched_at": "2026-07-05T15:50:03"}
+{"source": "weibo", "rank": 4, "title": "TSW战胜TES", "hot_value": 1021888, "duration": 3360, "top_rank_today": 4, "fetched_at": "2026-07-05T15:50:03"}
+{"source": "weibo", "rank": 5, "title": "佛得角旅游", "hot_value": 1014057, "duration": 1200, "top_rank_today": 5, "fetched_at": "2026-07-05T15:50:03"}
+{"source": "weibo", "rank": 6, "title": "TES全败", "hot_value": 960982, "duration": 2760, "top_rank_today": 5, "fetched_at": "2026-07-05T15:50:03"}
+{"source": "weibo", "rank": 7, "title": "梅里雪山惊现佛得角门将", "hot_value": 843147, "duration": 3360, "top_rank_today": 6, "fetched_at": "2026-07-05T15:50:03"}
+{"source": "weibo", "rank": 8, "title": "嫌顾客点15元麻辣烫老板追出门辱骂", "hot_value": 717028, "duration": 3780, "top_rank_today": 5, "fetched_at": "2026-07-05T15:50:03"}
+{"source": "weibo", "rank": 9, "title": "密逃8官宣阵容", "hot_value": 462671, "duration": 10680, "top_rank_today": 1, "fetched_at": "2026-07-05T15:50:03"}
+{"source": "weibo", "rank": 10, "title": "野狗骨头 滤镜", "hot_value": 436393, "duration": 7860, "top_rank_today": 4, "fetched_at": "2026-07-05T15:50:03"}
+{"source": "douyin", "rank": 1, "title": "TSW 3:1战胜TES", "hot_value": 12044269, "duration": 2280, "top_rank_today": 1, "fetched_at": "2026-07-05T15:50:05"}
+{"source": "douyin", "rank": 2, "title": "我也来拍西藏宣传视频了", "hot_value": 11901945, "duration": 18480, "top_rank_today": 1, "fetched_at": "2026-07-05T15:50:05"}
+{"source": "douyin", "rank": 3, "title": "中国人造太阳有重大进展", "hot_value": 11760476, "duration": 1740, "top_rank_today": 3, "fetched_at": "2026-07-05T15:50:05"}
+{"source": "douyin", "rank": 4, "title": "西藏文旅奖励李要得50万奖金", "hot_value": 11483156, "duration": 9240, "top_rank_today": 4, "fetched_at": "2026-07-05T15:50:05"}
+{"source": "douyin", "rank": 5, "title": "来西安怎么能不吃油泼面呢", "hot_value": 10631976, "duration": 27900, "top_rank_today": 1, "fetched_at": "2026-07-05T15:50:05"}
+{"source": "douyin", "rank": 6, "title": "孙颖莎4:0战胜陈幸同晋级四强", "hot_value": 10537750, "duration": 18480, "top_rank_today": 4, "fetched_at": "2026-07-05T15:50:05"}
+{"source": "douyin", "rank": 7, "title": "在重庆坐个地铁也太难了", "hot_value": 9382407, "duration": 17880, "top_rank_today": 5, "fetched_at": "2026-07-05T15:50:05"}
+{"source": "douyin", "rank": 8, "title": "光夜五周年音乐盛典", "hot_value": 9375768, "duration": 5700, "top_rank_today": 7, "fetched_at": "2026-07-05T15:50:05"}
+{"source": "douyin", "rank": 9, "title": "全抖音网友都在问难题", "hot_value": 9362264, "duration": 8280, "top_rank_today": 6, "fetched_at": "2026-07-05T15:50:05"}
+{"source": "douyin", "rank": 10, "title": "伊春避暑夯爆了", "hot_value": 9180938, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-07-05T15:50:05"}
+{"source": "toutiao", "rank": 1, "title": "国家一级文物上现广告字样", "hot_value": 20524582, "duration": 6180, "top_rank_today": 1, "fetched_at": "2026-07-05T15:50:06"}
+{"source": "toutiao", "rank": 2, "title": "国乒包揽WTT美国大满贯男女双冠军", "hot_value": 15204984, "duration": 4560, "top_rank_today": 2, "fetched_at": "2026-07-05T15:50:06"}
+{"source": "toutiao", "rank": 3, "title": "我国工业母机呈智能化发展新趋势", "hot_value": 16804106, "duration": 1440, "top_rank_today": 3, "fetched_at": "2026-07-05T15:50:06"}
+{"source": "toutiao", "rank": 4, "title": "媒体：姆巴佩用风度抵制住踢脏球诱惑", "hot_value": 13758039, "duration": 5400, "top_rank_today": 4, "fetched_at": "2026-07-05T15:50:06"}
+{"source": "toutiao", "rank": 5, "title": "日本为找稀土开始拆空调了", "hot_value": 12448788, "duration": 18180, "top_rank_today": 1, "fetched_at": "2026-07-05T15:50:06"}
+{"source": "toutiao", "rank": 6, "title": "打车去拉萨当事出租车已被托运回重庆", "hot_value": 10192206, "duration": 8700, "top_rank_today": 2, "fetched_at": "2026-07-05T15:50:06"}
+{"source": "toutiao", "rank": 7, "title": "南昌“佛得角”烟酒店意外走红", "hot_value": 18571410, "duration": 3420, "top_rank_today": 2, "fetched_at": "2026-07-05T15:50:06"}
+{"source": "toutiao", "rank": 8, "title": "媒体评老人看一颗牙被拔十二颗牙", "hot_value": 8344672, "duration": 10380, "top_rank_today": 4, "fetched_at": "2026-07-05T15:50:06"}
+{"source": "toutiao", "rank": 9, "title": "山东人为何喜欢满地找“知了猴”", "hot_value": 6832040, "duration": 6000, "top_rank_today": 7, "fetched_at": "2026-07-05T15:50:06"}
+{"source": "toutiao", "rank": 10, "title": "姆巴佩这一点超越了齐达内", "hot_value": 9222289, "duration": 7320, "top_rank_today": 5, "fetched_at": "2026-07-05T15:50:06"}
+{"source": "baidu", "rank": 1, "title": "人民日报：告别查家底 找回教育初心", "hot_value": 7808309, "duration": 13080, "top_rank_today": 1, "fetched_at": "2026-07-05T15:50:07"}
+{"source": "baidu", "rank": 2, "title": "马宁的含金量还在上升", "hot_value": 7714029, "duration": 11280, "top_rank_today": 2, "fetched_at": "2026-07-05T15:50:07"}
+{"source": "baidu", "rank": 3, "title": "“太空慧眼”出舱", "hot_value": 7618559, "duration": 1320, "top_rank_today": 3, "fetched_at": "2026-07-05T15:50:07"}
+{"source": "baidu", "rank": 4, "title": "泰安市民多次见动物挂“刀片网”死亡", "hot_value": 7521746, "duration": 10680, "top_rank_today": 4, "fetched_at": "2026-07-05T15:50:07"}
+{"source": "baidu", "rank": 5, "title": "网红打车到拉萨视频爆火 被奖励50万", "hot_value": 7428950, "duration": 6360, "top_rank_today": 5, "fetched_at": "2026-07-05T15:50:07"}
+{"source": "baidu", "rank": 6, "title": "女子蹭弟媳车 没开空调把娃热炸毛", "hot_value": 7331332, "duration": 14880, "top_rank_today": 6, "fetched_at": "2026-07-05T15:50:07"}
+{"source": "baidu", "rank": 7, "title": "国乒包揽WTT美国大满贯男女双冠军", "hot_value": 7235511, "duration": 840, "top_rank_today": 7, "fetched_at": "2026-07-05T15:50:07"}
+{"source": "baidu", "rank": 8, "title": "十几元一件的网红裤已让很多人社死", "hot_value": 7138848, "duration": 19320, "top_rank_today": 4, "fetched_at": "2026-07-05T15:50:07"}
+{"source": "baidu", "rank": 9, "title": "景区免费吃西瓜 小男孩3秒吃完", "hot_value": 7040806, "duration": 13080, "top_rank_today": 9, "fetched_at": "2026-07-05T15:50:07"}
+{"source": "baidu", "rank": 10, "title": "老人月入2万与儿媳争财产败诉", "hot_value": 6948863, "duration": 29460, "top_rank_today": 6, "fetched_at": "2026-07-05T15:50:07"}
 ```
