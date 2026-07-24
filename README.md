@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-07-23 15:50:05
+更新时间：2026-07-24 15:50:07
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "滔搏暴力打折甩卖耐克库存", "hot_value": 1482684, "duration": 14580, "top_rank_today": 1, "fetched_at": "2026-07-23T15:50:02"}
-{"source": "weibo", "rank": 2, "title": "荣耀更换logo", "hot_value": 1255625, "duration": 2700, "top_rank_today": 2, "fetched_at": "2026-07-23T15:50:02"}
-{"source": "weibo", "rank": 3, "title": "开局之年看中国", "hot_value": 915931, "duration": 3060, "top_rank_today": 3, "fetched_at": "2026-07-23T15:50:02"}
-{"source": "weibo", "rank": 4, "title": "男子对女同事开黄腔被打遭开除称不公", "hot_value": 841236, "duration": 6960, "top_rank_today": 4, "fetched_at": "2026-07-23T15:50:02"}
-{"source": "weibo", "rank": 5, "title": "建议婚前谈话全国普及", "hot_value": 752897, "duration": 5880, "top_rank_today": 5, "fetched_at": "2026-07-23T15:50:02"}
-{"source": "weibo", "rank": 6, "title": "陈妍希姐姐追星张凌赫", "hot_value": 721663, "duration": 5760, "top_rank_today": 5, "fetched_at": "2026-07-23T15:50:02"}
-{"source": "weibo", "rank": 7, "title": "大爷摸知了猴3小时赚近400元", "hot_value": 671044, "duration": 12060, "top_rank_today": 7, "fetched_at": "2026-07-23T15:50:02"}
-{"source": "weibo", "rank": 8, "title": "男子AI伪造烂水果仅退款连累全县", "hot_value": 592283, "duration": 9600, "top_rank_today": 2, "fetched_at": "2026-07-23T15:50:02"}
-{"source": "weibo", "rank": 9, "title": "王楚钦回应1比2徐海东", "hot_value": 539007, "duration": 3900, "top_rank_today": 9, "fetched_at": "2026-07-23T15:50:02"}
-{"source": "weibo", "rank": 10, "title": "爱情公寓的结局在这一刻释怀了", "hot_value": 481949, "duration": 13680, "top_rank_today": 2, "fetched_at": "2026-07-23T15:50:02"}
-{"source": "douyin", "rank": 1, "title": "台湾海峡部分海域进行实弹射击", "hot_value": 11808805, "duration": 9480, "top_rank_today": 1, "fetched_at": "2026-07-23T15:50:03"}
-{"source": "douyin", "rank": 2, "title": "今年菲尔兹奖候选人都在研究啥", "hot_value": 11649602, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-07-23T15:50:03"}
-{"source": "douyin", "rank": 3, "title": "未来5年我们的出行将有新变化", "hot_value": 11546876, "duration": 3240, "top_rank_today": 3, "fetched_at": "2026-07-23T15:50:03"}
-{"source": "douyin", "rank": 4, "title": "美防长听证会被连怼“失败”", "hot_value": 11519511, "duration": 8280, "top_rank_today": 4, "fetched_at": "2026-07-23T15:50:03"}
-{"source": "douyin", "rank": 5, "title": "乒超联赛推出双向限制新规引争议", "hot_value": 10845419, "duration": 46380, "top_rank_today": 5, "fetched_at": "2026-07-23T15:50:03"}
-{"source": "douyin", "rank": 6, "title": "净网：网警发布20起涉汛涉灾谣言案例", "hot_value": 10398714, "duration": 20400, "top_rank_today": 6, "fetched_at": "2026-07-23T15:50:03"}
-{"source": "douyin", "rank": 7, "title": "演员寇占文被法院悬赏", "hot_value": 9234360, "duration": 2280, "top_rank_today": 4, "fetched_at": "2026-07-23T15:50:03"}
-{"source": "douyin", "rank": 8, "title": "今日大暑", "hot_value": 9185105, "duration": 22500, "top_rank_today": 4, "fetched_at": "2026-07-23T15:50:03"}
-{"source": "douyin", "rank": 9, "title": "王毅会见菲律宾外长拉扎罗", "hot_value": 9177018, "duration": 29880, "top_rank_today": 6, "fetched_at": "2026-07-23T15:50:03"}
-{"source": "douyin", "rank": 10, "title": "多地出现破纪录高温天气", "hot_value": 9138104, "duration": 22020, "top_rank_today": 9, "fetched_at": "2026-07-23T15:50:03"}
-{"source": "toutiao", "rank": 1, "title": "外交部：中国外长没有与日方会见安排", "hot_value": 20721033, "duration": 480, "top_rank_today": 1, "fetched_at": "2026-07-23T15:50:04"}
-{"source": "toutiao", "rank": 2, "title": "没有空调的夏天古人靠什么续命", "hot_value": 13889723, "duration": 5940, "top_rank_today": 1, "fetched_at": "2026-07-23T15:50:04"}
-{"source": "toutiao", "rank": 3, "title": "透视上半年财政改革发展成效", "hot_value": 16964947, "duration": 2400, "top_rank_today": 3, "fetched_at": "2026-07-23T15:50:04"}
-{"source": "toutiao", "rank": 4, "title": "谁“杀死”了耐克的品牌光环", "hot_value": 15350518, "duration": 3360, "top_rank_today": 4, "fetched_at": "2026-07-23T15:50:04"}
-{"source": "toutiao", "rank": 5, "title": "王楚钦1-2徐海东", "hot_value": 11371944, "duration": 1800, "top_rank_today": 5, "fetched_at": "2026-07-23T15:50:04"}
-{"source": "toutiao", "rank": 6, "title": "净网：网警发布20起涉汛涉灾谣言案例", "hot_value": 12567941, "duration": 21660, "top_rank_today": 6, "fetched_at": "2026-07-23T15:50:04"}
-{"source": "toutiao", "rank": 7, "title": "演员寇占文被法院悬赏", "hot_value": 18749166, "duration": 4800, "top_rank_today": 7, "fetched_at": "2026-07-23T15:50:04"}
-{"source": "toutiao", "rank": 8, "title": "滔搏打折甩卖耐克库存", "hot_value": 10289760, "duration": 2880, "top_rank_today": 8, "fetched_at": "2026-07-23T15:50:04"}
-{"source": "toutiao", "rank": 9, "title": "74年前坠海美国客机终于被找到", "hot_value": 9310560, "duration": 4680, "top_rank_today": 4, "fetched_at": "2026-07-23T15:50:04"}
-{"source": "toutiao", "rank": 10, "title": "中国队夺得国际数学奥林匹克团体第一", "hot_value": 8424543, "duration": 7260, "top_rank_today": 1, "fetched_at": "2026-07-23T15:50:04"}
-{"source": "baidu", "rank": 1, "title": "清华毕业生备考3年被北大医学部录取", "hot_value": 7808661, "duration": 6720, "top_rank_today": 1, "fetched_at": "2026-07-23T15:50:05"}
-{"source": "baidu", "rank": 2, "title": "耐克收回线上代理权 滔搏开始打折", "hot_value": 7713625, "duration": 22860, "top_rank_today": 2, "fetched_at": "2026-07-23T15:50:05"}
-{"source": "baidu", "rank": 3, "title": "大暑时节 这份中暑防治指南请查收", "hot_value": 7616632, "duration": 3000, "top_rank_today": 3, "fetched_at": "2026-07-23T15:50:05"}
-{"source": "baidu", "rank": 4, "title": "荣耀更换logo", "hot_value": 7521514, "duration": 1260, "top_rank_today": 4, "fetched_at": "2026-07-23T15:50:05"}
-{"source": "baidu", "rank": 5, "title": "湖南通报“68元请香结账变952元”", "hot_value": 7428434, "duration": 18360, "top_rank_today": 5, "fetched_at": "2026-07-23T15:50:05"}
-{"source": "baidu", "rank": 6, "title": "净网：网警发20起涉汛涉灾谣言案例", "hot_value": 7331959, "duration": 21360, "top_rank_today": 6, "fetched_at": "2026-07-23T15:50:05"}
-{"source": "baidu", "rank": 7, "title": "贝克汉姆秃顶了", "hot_value": 7239031, "duration": 14400, "top_rank_today": 5, "fetched_at": "2026-07-23T15:50:05"}
-{"source": "baidu", "rank": 8, "title": "菲公务船侵闯黄岩岛海域 中方驱离", "hot_value": 7144030, "duration": 13080, "top_rank_today": 1, "fetched_at": "2026-07-23T15:50:05"}
-{"source": "baidu", "rank": 9, "title": "被孩子喊阿姨 场馆女子：喊姐姐才能进", "hot_value": 7039916, "duration": 9360, "top_rank_today": 9, "fetched_at": "2026-07-23T15:50:05"}
-{"source": "baidu", "rank": 10, "title": "王楚钦不敌徐海东 乒超首秀遭逆转", "hot_value": 6953000, "duration": 12120, "top_rank_today": 7, "fetched_at": "2026-07-23T15:50:05"}
+{"source": "weibo", "rank": 1, "title": "王虹教授在清华大学开讲挂谷猜想", "hot_value": 2036466, "duration": 5220, "top_rank_today": 1, "fetched_at": "2026-07-24T15:50:03"}
+{"source": "weibo", "rank": 2, "title": "产妇羊水栓塞抢救11小时换3次血", "hot_value": 1175523, "duration": 3360, "top_rank_today": 2, "fetched_at": "2026-07-24T15:50:03"}
+{"source": "weibo", "rank": 3, "title": "高温天气如何防护", "hot_value": 1013133, "duration": 16500, "top_rank_today": 3, "fetched_at": "2026-07-24T15:50:03"}
+{"source": "weibo", "rank": 4, "title": "双休和五点下班是什么感觉", "hot_value": 988376, "duration": 2040, "top_rank_today": 4, "fetched_at": "2026-07-24T15:50:03"}
+{"source": "weibo", "rank": 5, "title": "白鹿戴假发没遮全", "hot_value": 983656, "duration": 10980, "top_rank_today": 4, "fetched_at": "2026-07-24T15:50:03"}
+{"source": "weibo", "rank": 6, "title": "瘦了二十斤后手的变化", "hot_value": 865645, "duration": 5460, "top_rank_today": 6, "fetched_at": "2026-07-24T15:50:03"}
+{"source": "weibo", "rank": 7, "title": "对月薪三万有了直观的感受", "hot_value": 831767, "duration": 18120, "top_rank_today": 4, "fetched_at": "2026-07-24T15:50:03"}
+{"source": "weibo", "rank": 8, "title": "王者荣耀", "hot_value": 492434, "duration": 3360, "top_rank_today": 6, "fetched_at": "2026-07-24T15:50:03"}
+{"source": "weibo", "rank": 9, "title": "腾讯317万年终奖员工因泄密被辞退", "hot_value": 421341, "duration": 22140, "top_rank_today": 1, "fetched_at": "2026-07-24T15:50:03"}
+{"source": "weibo", "rank": 10, "title": "十个勤天的来时路", "hot_value": 411438, "duration": 4620, "top_rank_today": 8, "fetched_at": "2026-07-24T15:50:03"}
+{"source": "douyin", "rank": 1, "title": "台风“红霞”或于明晚登陆我国", "hot_value": 11625836, "duration": 18240, "top_rank_today": 1, "fetched_at": "2026-07-24T15:50:04"}
+{"source": "douyin", "rank": 2, "title": "贵州人私藏的豆豉火锅有多香", "hot_value": 11113345, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-07-24T15:50:04"}
+{"source": "douyin", "rank": 3, "title": "我国上半年商务发展稳中有进", "hot_value": 11100889, "duration": 16920, "top_rank_today": 3, "fetched_at": "2026-07-24T15:50:04"}
+{"source": "douyin", "rank": 4, "title": "A股", "hot_value": 11086464, "duration": 9300, "top_rank_today": 1, "fetched_at": "2026-07-24T15:50:04"}
+{"source": "douyin", "rank": 5, "title": "保罗乔治抵达中国", "hot_value": 10469666, "duration": 11880, "top_rank_today": 4, "fetched_at": "2026-07-24T15:50:04"}
+{"source": "douyin", "rank": 6, "title": "国务院成立六蓝水库溃坝调查组", "hot_value": 10360527, "duration": 5880, "top_rank_today": 5, "fetched_at": "2026-07-24T15:50:04"}
+{"source": "douyin", "rank": 7, "title": "这题交给年轻人", "hot_value": 9252163, "duration": 2520, "top_rank_today": 6, "fetched_at": "2026-07-24T15:50:04"}
+{"source": "douyin", "rank": 8, "title": "跟知识博主看懂挂谷猜想", "hot_value": 9188536, "duration": 9480, "top_rank_today": 4, "fetched_at": "2026-07-24T15:50:04"}
+{"source": "douyin", "rank": 9, "title": "豆包帮我拍广告大片", "hot_value": 9153772, "duration": 5520, "top_rank_today": 5, "fetched_at": "2026-07-24T15:50:04"}
+{"source": "douyin", "rank": 10, "title": "大运河的时尚基因藏不住了", "hot_value": 9084998, "duration": 3600, "top_rank_today": 10, "fetched_at": "2026-07-24T15:50:04"}
+{"source": "toutiao", "rank": 1, "title": "媒体评王虹获奖：别再说寒门难出贵子", "hot_value": 32796330, "duration": 2400, "top_rank_today": 1, "fetched_at": "2026-07-24T15:50:05"}
+{"source": "toutiao", "rank": 2, "title": "中国AI大反超 美国还能挡多久", "hot_value": 29675346, "duration": 5460, "top_rank_today": 2, "fetched_at": "2026-07-24T15:50:05"}
+{"source": "toutiao", "rank": 3, "title": "透视上半年消费外贸外资走势", "hot_value": 26851364, "duration": 16800, "top_rank_today": 3, "fetched_at": "2026-07-24T15:50:05"}
+{"source": "toutiao", "rank": 4, "title": "35岁数学家王虹回应获菲尔兹奖", "hot_value": 24296119, "duration": 2460, "top_rank_today": 4, "fetched_at": "2026-07-24T15:50:05"}
+{"source": "toutiao", "rank": 5, "title": "双胞胎姐姐被抱走失联40年终团圆", "hot_value": 16286175, "duration": 3300, "top_rank_today": 2, "fetched_at": "2026-07-24T15:50:05"}
+{"source": "toutiao", "rank": 6, "title": "《功夫女足》：熟悉的周星驰回来了", "hot_value": 19891979, "duration": 5820, "top_rank_today": 6, "fetched_at": "2026-07-24T15:50:05"}
+{"source": "toutiao", "rank": 7, "title": "韦东奕曾连续多天听王虹讲座", "hot_value": 13333992, "duration": 20580, "top_rank_today": 2, "fetched_at": "2026-07-24T15:50:05"}
+{"source": "toutiao", "rank": 8, "title": "SpaceX开始拒接部分商业“猎鹰”订单", "hot_value": 10916950, "duration": 6120, "top_rank_today": 4, "fetched_at": "2026-07-24T15:50:05"}
+{"source": "toutiao", "rank": 9, "title": "南京南站23天捡到16个娃", "hot_value": 14736341, "duration": 3060, "top_rank_today": 9, "fetched_at": "2026-07-24T15:50:05"}
+{"source": "toutiao", "rank": 10, "title": "台风“红霞”将影响广东珠海", "hot_value": 9878064, "duration": 2160, "top_rank_today": 10, "fetched_at": "2026-07-24T15:50:05"}
+{"source": "baidu", "rank": 1, "title": "王虹获奖 别再说寒门难出贵子", "hot_value": 7809567, "duration": 14880, "top_rank_today": 1, "fetched_at": "2026-07-24T15:50:07"}
+{"source": "baidu", "rank": 2, "title": "老师：邓煜不写作业却稳坐年级第一", "hot_value": 7713576, "duration": 8100, "top_rank_today": 2, "fetched_at": "2026-07-24T15:50:07"}
+{"source": "baidu", "rank": 3, "title": "中国汽车加速全球化布局", "hot_value": 7617311, "duration": 16260, "top_rank_today": 3, "fetched_at": "2026-07-24T15:50:07"}
+{"source": "baidu", "rank": 4, "title": "TVB正式更名", "hot_value": 7523880, "duration": 1920, "top_rank_today": 4, "fetched_at": "2026-07-24T15:50:07"}
+{"source": "baidu", "rank": 5, "title": "南京南站23天已捡到16个娃", "hot_value": 7427000, "duration": 1020, "top_rank_today": 5, "fetched_at": "2026-07-24T15:50:07"}
+{"source": "baidu", "rank": 6, "title": "腾讯晒317万年终奖员工因泄密被辞退", "hot_value": 7333998, "duration": 20760, "top_rank_today": 2, "fetched_at": "2026-07-24T15:50:07"}
+{"source": "baidu", "rank": 7, "title": "情侣还愿时遇神奇小鸟停男生肩上", "hot_value": 7233528, "duration": 10320, "top_rank_today": 7, "fetched_at": "2026-07-24T15:50:07"}
+{"source": "baidu", "rank": 8, "title": "义乌一把电扇“硬控”半个地球", "hot_value": 7140495, "duration": 13320, "top_rank_today": 5, "fetched_at": "2026-07-24T15:50:07"}
+{"source": "baidu", "rank": 9, "title": "王虹：很幸运在合适时间遇见合适的人", "hot_value": 7045295, "duration": 26760, "top_rank_today": 1, "fetched_at": "2026-07-24T15:50:07"}
+{"source": "baidu", "rank": 10, "title": "A股收盘：创业板指、深成指均跌超2%", "hot_value": 6953215, "duration": 2520, "top_rank_today": 7, "fetched_at": "2026-07-24T15:50:07"}
 ```
