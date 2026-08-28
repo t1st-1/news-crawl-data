@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-08-27 15:50:05
+更新时间：2026-08-28 15:50:05
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "尼泊尔一侧失联中国公民近百人", "hot_value": 1291772, "duration": 540, "top_rank_today": 1, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "weibo", "rank": 2, "title": "店内离世老人儿子称深感抱歉", "hot_value": 888969, "duration": 16980, "top_rank_today": 1, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "weibo", "rank": 3, "title": "工信部紧急组织西藏吉隆应急通信保障", "hot_value": 712245, "duration": 2280, "top_rank_today": 3, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "weibo", "rank": 4, "title": "伴侣一直挑小事其实是嫌弃你", "hot_value": 591456, "duration": 10260, "top_rank_today": 4, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "weibo", "rank": 5, "title": "韩方拟公开杀害中国女生嫌疑人身份", "hot_value": 582810, "duration": 3780, "top_rank_today": 1, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "weibo", "rank": 6, "title": "西藏泥石流遇难3人失联558人", "hot_value": 521397, "duration": 19260, "top_rank_today": 1, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "weibo", "rank": 7, "title": "何炅自曝断交的人不超过4个", "hot_value": 516300, "duration": 21300, "top_rank_today": 7, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "weibo", "rank": 8, "title": "中元节晚上不能出门是误会", "hot_value": 512430, "duration": 12480, "top_rank_today": 7, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "weibo", "rank": 9, "title": "早春晴朗Luke原型找到了", "hot_value": 508619, "duration": 4560, "top_rank_today": 9, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "weibo", "rank": 10, "title": "刘翔安置事件超7万人投买断离手", "hot_value": 497467, "duration": 2340, "top_rank_today": 2, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "douyin", "rank": 1, "title": "西藏泥石流558人失联3人遇难", "hot_value": 12100106, "duration": 18900, "top_rank_today": 1, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "douyin", "rank": 2, "title": "山东公布夏季高考调整优化方案", "hot_value": 11853236, "duration": 9120, "top_rank_today": 2, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "douyin", "rank": 3, "title": "多方救援力量集结中", "hot_value": 11430811, "duration": 1920, "top_rank_today": 3, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "douyin", "rank": 4, "title": "“扶老人被索赔1.9万”店主收到退款", "hot_value": 11324023, "duration": 17700, "top_rank_today": 4, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "douyin", "rank": 5, "title": "尼泊尔一侧失联中国公民近百人", "hot_value": 10547365, "duration": 1020, "top_rank_today": 5, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "douyin", "rank": 6, "title": "黄金价格持续上涨", "hot_value": 10268466, "duration": 56640, "top_rank_today": 6, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "douyin", "rank": 7, "title": "专家解读浙江或将迎台风三连击", "hot_value": 9043917, "duration": 9420, "top_rank_today": 7, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "douyin", "rank": 8, "title": "挑战无烤箱蒸制花式面包", "hot_value": 8814981, "duration": 57000, "top_rank_today": 7, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "douyin", "rank": 9, "title": "台风沙德尔实时路径", "hot_value": 8387669, "duration": 57000, "top_rank_today": 2, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "douyin", "rank": 10, "title": "今日中元节", "hot_value": 7984106, "duration": 6480, "top_rank_today": 10, "fetched_at": "2026-08-27T15:50:03"}
-{"source": "toutiao", "rank": 1, "title": "中方：尼泊尔一侧失联中国公民近百人", "hot_value": 95650637, "duration": 180, "top_rank_today": 1, "fetched_at": "2026-08-27T15:50:04"}
-{"source": "toutiao", "rank": 2, "title": "中元节必知这“4要3不”", "hot_value": 86548275, "duration": 5580, "top_rank_today": 2, "fetched_at": "2026-08-27T15:50:04"}
-{"source": "toutiao", "rank": 3, "title": "中国对外开放加速迭代升级", "hot_value": 78312118, "duration": 2280, "top_rank_today": 3, "fetched_at": "2026-08-27T15:50:04"}
-{"source": "toutiao", "rank": 4, "title": "西藏泥石流3人遇难558人失联", "hot_value": 70859734, "duration": 19200, "top_rank_today": 1, "fetched_at": "2026-08-27T15:50:04"}
-{"source": "toutiao", "rank": 5, "title": "赛考斯抵达河南", "hot_value": 64116539, "duration": 6420, "top_rank_today": 5, "fetched_at": "2026-08-27T15:50:04"}
-{"source": "toutiao", "rank": 6, "title": "店内离世老人儿子道歉", "hot_value": 58015044, "duration": 2460, "top_rank_today": 6, "fetched_at": "2026-08-27T15:50:04"}
-{"source": "toutiao", "rank": 7, "title": "美国中情局局长访俄目的披露", "hot_value": 52494182, "duration": 1380, "top_rank_today": 7, "fetched_at": "2026-08-27T15:50:04"}
-{"source": "toutiao", "rank": 8, "title": "杭州“兔子警官”回应有MCN机构找她", "hot_value": 47498700, "duration": 8880, "top_rank_today": 2, "fetched_at": "2026-08-27T15:50:04"}
-{"source": "toutiao", "rank": 9, "title": "西藏泥石流灾害发布会全体默哀", "hot_value": 42978601, "duration": 7320, "top_rank_today": 5, "fetched_at": "2026-08-27T15:50:04"}
-{"source": "toutiao", "rank": 10, "title": "外孙意外摔倒 女子抓咬幼儿园2人被拘", "hot_value": 28809418, "duration": 2760, "top_rank_today": 9, "fetched_at": "2026-08-27T15:50:04"}
-{"source": "baidu", "rank": 1, "title": "中方：尼泊尔一侧失联中国公民近百人", "hot_value": 7809314, "duration": 960, "top_rank_today": 1, "fetched_at": "2026-08-27T15:50:05"}
-{"source": "baidu", "rank": 2, "title": "西藏泥石流已致3人遇难558人失联", "hot_value": 7713355, "duration": 16080, "top_rank_today": 1, "fetched_at": "2026-08-27T15:50:05"}
-{"source": "baidu", "rank": 3, "title": "运-20驰援西藏吉隆", "hot_value": 7615871, "duration": 1920, "top_rank_today": 3, "fetched_at": "2026-08-27T15:50:05"}
-{"source": "baidu", "rank": 4, "title": "集中销毁烟花 邻市570多户房屋受损", "hot_value": 7520775, "duration": 7080, "top_rank_today": 4, "fetched_at": "2026-08-27T15:50:05"}
-{"source": "baidu", "rank": 5, "title": "离世老人儿子道歉 认可店主无需赔偿", "hot_value": 7424298, "duration": 14460, "top_rank_today": 4, "fetched_at": "2026-08-27T15:50:05"}
-{"source": "baidu", "rank": 6, "title": "男子未领证办婚礼41天后离世留400万", "hot_value": 7328242, "duration": 9780, "top_rank_today": 6, "fetched_at": "2026-08-27T15:50:05"}
-{"source": "baidu", "rank": 7, "title": "儿子越南坠海 父母认其女友为干女儿", "hot_value": 7233006, "duration": 10920, "top_rank_today": 7, "fetched_at": "2026-08-27T15:50:05"}
-{"source": "baidu", "rank": 8, "title": "中元节晚上不能出门是误会", "hot_value": 7142759, "duration": 9780, "top_rank_today": 5, "fetched_at": "2026-08-27T15:50:05"}
-{"source": "baidu", "rank": 9, "title": "惠英红年轻时和郭晓婷相似度90%", "hot_value": 7041716, "duration": 17760, "top_rank_today": 8, "fetched_at": "2026-08-27T15:50:05"}
-{"source": "baidu", "rank": 10, "title": "去年全球煮方便面耗时71万年", "hot_value": 6952465, "duration": 19380, "top_rank_today": 8, "fetched_at": "2026-08-27T15:50:05"}
+{"source": "weibo", "rank": 1, "title": "吉隆口岸救援任务暂缓", "hot_value": 1133277, "duration": 13800, "top_rank_today": 1, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "weibo", "rank": 2, "title": "教体局称耻辱合影属实但也不理解", "hot_value": 838792, "duration": 2400, "top_rank_today": 2, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "weibo", "rank": 3, "title": "武警官兵正全力抢通道路", "hot_value": 768452, "duration": 1320, "top_rank_today": 3, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "weibo", "rank": 4, "title": "低分班级教师上台与耻辱二字合影", "hot_value": 744709, "duration": 9720, "top_rank_today": 4, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "weibo", "rank": 5, "title": "一个人的性格底色比什么都重要", "hot_value": 705121, "duration": 3360, "top_rank_today": 5, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "weibo", "rank": 6, "title": "让老师跟耻辱合影才是真耻辱", "hot_value": 702080, "duration": 3780, "top_rank_today": 2, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "weibo", "rank": 7, "title": "披哥一公个人喜爱度排名", "hot_value": 640350, "duration": 4200, "top_rank_today": 2, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "weibo", "rank": 8, "title": "BLG投诉管泽元事件", "hot_value": 502660, "duration": 4320, "top_rank_today": 4, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "weibo", "rank": 9, "title": "早春晴朗", "hot_value": 500851, "duration": 11400, "top_rank_today": 5, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "weibo", "rank": 10, "title": "怪不得头发越洗越枯", "hot_value": 499660, "duration": 3660, "top_rank_today": 10, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "douyin", "rank": 1, "title": "四川隆昌发生5.1级地震", "hot_value": 11217632, "duration": 7980, "top_rank_today": 1, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "douyin", "rank": 2, "title": "“沙德尔”在浙江玉环登陆", "hot_value": 11113058, "duration": 27240, "top_rank_today": 1, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "douyin", "rank": 3, "title": "我国经济发展新动能持续壮大", "hot_value": 11103028, "duration": 1500, "top_rank_today": 3, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "douyin", "rank": 4, "title": "秋季外套大测评", "hot_value": 10907697, "duration": 27720, "top_rank_today": 1, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "douyin", "rank": 5, "title": "记者奔赴西藏吉隆泥石流灾害现场", "hot_value": 10241295, "duration": 2580, "top_rank_today": 5, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "douyin", "rank": 6, "title": "西藏泥石流救援现场", "hot_value": 10111150, "duration": 41880, "top_rank_today": 1, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "douyin", "rank": 7, "title": "跨越次元来见你的意难平", "hot_value": 8890165, "duration": 19080, "top_rank_today": 6, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "douyin", "rank": 8, "title": "GTA6加长版实机预告公布", "hot_value": 8789419, "duration": 23700, "top_rank_today": 1, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "douyin", "rank": 9, "title": "为何浙江玉环成为台风频繁登陆地", "hot_value": 8487051, "duration": 5460, "top_rank_today": 9, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "douyin", "rank": 10, "title": "催我返校的消息排到了法国", "hot_value": 8450284, "duration": 7680, "top_rank_today": 10, "fetched_at": "2026-08-28T15:50:03"}
+{"source": "toutiao", "rank": 1, "title": "向西藏泥石流遇难人员默哀", "hot_value": 71153890, "duration": 6300, "top_rank_today": 1, "fetched_at": "2026-08-28T15:50:04"}
+{"source": "toutiao", "rank": 2, "title": "陈武同志遗体在京火化", "hot_value": 64382702, "duration": 360, "top_rank_today": 2, "fetched_at": "2026-08-28T15:50:04"}
+{"source": "toutiao", "rank": 3, "title": "我国机械工业出口成外贸“压舱石”", "hot_value": 58255878, "duration": 16500, "top_rank_today": 3, "fetched_at": "2026-08-28T15:50:04"}
+{"source": "toutiao", "rank": 4, "title": "四川内江5.1级地震", "hot_value": 52712098, "duration": 7800, "top_rank_today": 1, "fetched_at": "2026-08-28T15:50:04"}
+{"source": "toutiao", "rank": 5, "title": "金价暴涨大批人变现跑路", "hot_value": 43157016, "duration": 900, "top_rank_today": 5, "fetched_at": "2026-08-28T15:50:04"}
+{"source": "toutiao", "rank": 6, "title": "哨兵报警原来是宝宝撞上汽车", "hot_value": 39050083, "duration": 960, "top_rank_today": 6, "fetched_at": "2026-08-28T15:50:04"}
+{"source": "toutiao", "rank": 7, "title": "女子河堤摆摊按摩19.9元15分钟", "hot_value": 31971503, "duration": 6360, "top_rank_today": 4, "fetched_at": "2026-08-28T15:50:04"}
+{"source": "toutiao", "rank": 8, "title": "江西省省长叶建春被查", "hot_value": 28929013, "duration": 57000, "top_rank_today": 5, "fetched_at": "2026-08-28T15:50:04"}
+{"source": "toutiao", "rank": 9, "title": "多部门回应低分班教师耻辱合影", "hot_value": 21431140, "duration": 2640, "top_rank_today": 5, "fetched_at": "2026-08-28T15:50:04"}
+{"source": "toutiao", "rank": 10, "title": "女子用水枪冲水致骑车男子摔倒骨折", "hot_value": 19391697, "duration": 3480, "top_rank_today": 5, "fetched_at": "2026-08-28T15:50:04"}
+{"source": "baidu", "rank": 1, "title": "习近平等向西藏泥石流遇难人员默哀", "hot_value": 7809687, "duration": 6480, "top_rank_today": 1, "fetched_at": "2026-08-28T15:50:05"}
+{"source": "baidu", "rank": 2, "title": "救援队抵达西藏吉隆受灾核心区", "hot_value": 7713950, "duration": 6180, "top_rank_today": 2, "fetched_at": "2026-08-28T15:50:05"}
+{"source": "baidu", "rank": 3, "title": "中国数据产业规模超6万亿元", "hot_value": 7616150, "duration": 1080, "top_rank_today": 3, "fetched_at": "2026-08-28T15:50:05"}
+{"source": "baidu", "rank": 4, "title": "四川内江地震", "hot_value": 7521575, "duration": 9000, "top_rank_today": 1, "fetched_at": "2026-08-28T15:50:05"}
+{"source": "baidu", "rank": 5, "title": "10万买奥迪A6 20万买玛莎拉蒂", "hot_value": 7428274, "duration": 7020, "top_rank_today": 5, "fetched_at": "2026-08-28T15:50:05"}
+{"source": "baidu", "rank": 6, "title": "油价今晚上调 加满一箱多花14.5元", "hot_value": 7331202, "duration": 2460, "top_rank_today": 6, "fetched_at": "2026-08-28T15:50:05"}
+{"source": "baidu", "rank": 7, "title": "西藏吉隆救援任务被迫暂缓", "hot_value": 7232006, "duration": 240, "top_rank_today": 7, "fetched_at": "2026-08-28T15:50:05"}
+{"source": "baidu", "rank": 8, "title": "谁干掉了旅行社", "hot_value": 7142389, "duration": 15060, "top_rank_today": 2, "fetched_at": "2026-08-28T15:50:05"}
+{"source": "baidu", "rank": 9, "title": "“口袋相机”为什么突然火了", "hot_value": 7048044, "duration": 6660, "top_rank_today": 9, "fetched_at": "2026-08-28T15:50:05"}
+{"source": "baidu", "rank": 10, "title": "挪威国王去世", "hot_value": 6949630, "duration": 3960, "top_rank_today": 10, "fetched_at": "2026-08-28T15:50:05"}
 ```
