@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-09-09 15:50:05
+更新时间：2026-09-10 15:50:05
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "梅姨在广州摆摊卖切块芒果", "hot_value": 1593805, "duration": 11460, "top_rank_today": 1, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "weibo", "rank": 2, "title": "早春晴朗大结局", "hot_value": 896379, "duration": 13860, "top_rank_today": 1, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "weibo", "rank": 3, "title": "服贸会今日开幕", "hot_value": 703526, "duration": 14880, "top_rank_today": 3, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "weibo", "rank": 4, "title": "司美格鲁肽背后的女人", "hot_value": 700059, "duration": 6540, "top_rank_today": 4, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "weibo", "rank": 5, "title": "西安行李箱藏尸悬案细节曝光", "hot_value": 659810, "duration": 2160, "top_rank_today": 5, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "weibo", "rank": 6, "title": "女孩去邻居家吃饭惨遭夫妻分尸", "hot_value": 372523, "duration": 21300, "top_rank_today": 4, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "weibo", "rank": 7, "title": "自费买可乐的外卖骑手被奖励一年骑手餐", "hot_value": 344048, "duration": 2580, "top_rank_today": 2, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "weibo", "rank": 8, "title": "一只羊脱衣全过程", "hot_value": 338231, "duration": 14520, "top_rank_today": 5, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "weibo", "rank": 9, "title": "Duo 手机iPad二合一", "hot_value": 314153, "duration": 2220, "top_rank_today": 9, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "weibo", "rank": 10, "title": "余宇涵身体不适演唱会延期", "hot_value": 305363, "duration": 6900, "top_rank_today": 7, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "douyin", "rank": 1, "title": "燕麦系秋天的神", "hot_value": 12097228, "duration": 11400, "top_rank_today": 1, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "douyin", "rank": 2, "title": "写给老师的教师节贺卡", "hot_value": 11884743, "duration": 57000, "top_rank_today": 2, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "douyin", "rank": 3, "title": "青春华章", "hot_value": 11163818, "duration": 18180, "top_rank_today": 3, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "douyin", "rank": 4, "title": "小米回应澎程试驾事故", "hot_value": 11100687, "duration": 19500, "top_rank_today": 4, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "douyin", "rank": 5, "title": "龙版传媒停牌核查", "hot_value": 10540590, "duration": 18120, "top_rank_today": 5, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "douyin", "rank": 6, "title": "华屋村的十七棵松与长征精神", "hot_value": 10485426, "duration": 12720, "top_rank_today": 6, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "douyin", "rank": 7, "title": "毛泽东逝世50周年", "hot_value": 9119817, "duration": 17880, "top_rank_today": 7, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "douyin", "rank": 8, "title": "今日人设是可可美人", "hot_value": 9115432, "duration": 5280, "top_rank_today": 8, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "douyin", "rank": 9, "title": "郑钦文今晚对阵莱巴金娜", "hot_value": 8853993, "duration": 14700, "top_rank_today": 9, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "douyin", "rank": 10, "title": "觉醒吧我的厨艺天赋", "hot_value": 8646324, "duration": 57000, "top_rank_today": 8, "fetched_at": "2026-09-09T15:50:03"}
-{"source": "toutiao", "rank": 1, "title": "曝iPhone Air 2将作为iPhone 18推出", "hot_value": 28199866, "duration": 1200, "top_rank_today": 1, "fetched_at": "2026-09-09T15:50:04"}
-{"source": "toutiao", "rank": 2, "title": "新华社讣告：董建华逝世", "hot_value": 23088097, "duration": 16860, "top_rank_today": 2, "fetched_at": "2026-09-09T15:50:04"}
-{"source": "toutiao", "rank": 3, "title": "多地开启“丰收模式”", "hot_value": 25516294, "duration": 17580, "top_rank_today": 3, "fetched_at": "2026-09-09T15:50:04"}
-{"source": "toutiao", "rank": 4, "title": "高考数学132分开学考只有12分", "hot_value": 20890974, "duration": 21480, "top_rank_today": 1, "fetched_at": "2026-09-09T15:50:04"}
-{"source": "toutiao", "rank": 5, "title": "中央社会工作部：解决物业服务问题", "hot_value": 17104083, "duration": 3780, "top_rank_today": 1, "fetched_at": "2026-09-09T15:50:04"}
-{"source": "toutiao", "rank": 6, "title": "爸爸下班路上偶遇儿子放学回家", "hot_value": 31165672, "duration": 2400, "top_rank_today": 6, "fetched_at": "2026-09-09T15:50:04"}
-{"source": "toutiao", "rank": 7, "title": "美网女单仅剩世界前5和郑钦文", "hot_value": 15476414, "duration": 1620, "top_rank_today": 4, "fetched_at": "2026-09-09T15:50:04"}
-{"source": "toutiao", "rank": 8, "title": "印度女运动员因外貌遭网暴", "hot_value": 14003639, "duration": 17880, "top_rank_today": 2, "fetched_at": "2026-09-09T15:50:04"}
-{"source": "toutiao", "rank": 9, "title": "光伏合同公司注销 出保维修咋办", "hot_value": 10374151, "duration": 3180, "top_rank_today": 7, "fetched_at": "2026-09-09T15:50:04"}
-{"source": "toutiao", "rank": 10, "title": "女子爬出副驾站上车顶往路中间跳", "hot_value": 9386920, "duration": 2760, "top_rank_today": 6, "fetched_at": "2026-09-09T15:50:04"}
-{"source": "baidu", "rank": 1, "title": "燃油车真卖不动了吗", "hot_value": 7808945, "duration": 15360, "top_rank_today": 1, "fetched_at": "2026-09-09T15:50:05"}
-{"source": "baidu", "rank": 2, "title": "梅姨被抓前在广州摆摊卖切块芒果", "hot_value": 7713236, "duration": 2880, "top_rank_today": 2, "fetched_at": "2026-09-09T15:50:05"}
-{"source": "baidu", "rank": 3, "title": "2026服贸会今日开幕", "hot_value": 7617196, "duration": 17520, "top_rank_today": 3, "fetched_at": "2026-09-09T15:50:05"}
-{"source": "baidu", "rank": 4, "title": "巴基斯坦警方喜提50辆中国新能源汽车", "hot_value": 7521869, "duration": 2580, "top_rank_today": 4, "fetched_at": "2026-09-09T15:50:05"}
-{"source": "baidu", "rank": 5, "title": "iPhone Duo 售价", "hot_value": 7427662, "duration": 1260, "top_rank_today": 5, "fetched_at": "2026-09-09T15:50:05"}
-{"source": "baidu", "rank": 6, "title": "董建华遗像发布", "hot_value": 7328859, "duration": 13320, "top_rank_today": 6, "fetched_at": "2026-09-09T15:50:05"}
-{"source": "baidu", "rank": 7, "title": "中央社会工作部：解决物业服务问题", "hot_value": 7235803, "duration": 780, "top_rank_today": 7, "fetched_at": "2026-09-09T15:50:05"}
-{"source": "baidu", "rank": 8, "title": "郑钦文 美网中国选手独苗", "hot_value": 7136724, "duration": 8160, "top_rank_today": 8, "fetched_at": "2026-09-09T15:50:05"}
-{"source": "baidu", "rank": 9, "title": "印度女子力量举运动员因外貌走红", "hot_value": 7044844, "duration": 15360, "top_rank_today": 7, "fetched_at": "2026-09-09T15:50:05"}
-{"source": "baidu", "rank": 10, "title": "司美格鲁肽背后的女人", "hot_value": 6944685, "duration": 2400, "top_rank_today": 10, "fetched_at": "2026-09-09T15:50:05"}
+{"source": "weibo", "rank": 1, "title": "丈夫肥胖久坐致妻子4次怀孕全流产", "hot_value": 1209337, "duration": 2580, "top_rank_today": 1, "fetched_at": "2026-09-10T15:50:02"}
+{"source": "weibo", "rank": 2, "title": "梅姨首任丈夫称她生两个儿子后离开", "hot_value": 1128835, "duration": 11580, "top_rank_today": 1, "fetched_at": "2026-09-10T15:50:02"}
+{"source": "weibo", "rank": 3, "title": "中国继续保持双向投资大国地位", "hot_value": 1103591, "duration": 1440, "top_rank_today": 3, "fetched_at": "2026-09-10T15:50:02"}
+{"source": "weibo", "rank": 4, "title": "刘翔工资卡11年0支出", "hot_value": 9161532, "duration": 10320, "top_rank_today": 4, "fetched_at": "2026-09-10T15:50:02"}
+{"source": "weibo", "rank": 5, "title": "日本梅毒男性20到60岁女性20左右", "hot_value": 418027, "duration": 15360, "top_rank_today": 2, "fetched_at": "2026-09-10T15:50:02"}
+{"source": "weibo", "rank": 6, "title": "多邻国开撕iPhone Duo", "hot_value": 408672, "duration": 2940, "top_rank_today": 1, "fetched_at": "2026-09-10T15:50:02"}
+{"source": "weibo", "rank": 7, "title": "邓为都快急死了张晚意还在松弛", "hot_value": 350278, "duration": 4800, "top_rank_today": 5, "fetched_at": "2026-09-10T15:50:02"}
+{"source": "weibo", "rank": 8, "title": "梅姨出摊卖芒果影像", "hot_value": 320735, "duration": 12720, "top_rank_today": 6, "fetched_at": "2026-09-10T15:50:02"}
+{"source": "weibo", "rank": 9, "title": "恋综女嘉宾自曝离过婚", "hot_value": 231082, "duration": 4920, "top_rank_today": 9, "fetched_at": "2026-09-10T15:50:02"}
+{"source": "weibo", "rank": 10, "title": "Only Apple Can Duo", "hot_value": 202898, "duration": 120, "top_rank_today": 10, "fetched_at": "2026-09-10T15:50:02"}
+{"source": "douyin", "rank": 1, "title": "今天是教师节", "hot_value": 11876569, "duration": 25320, "top_rank_today": 1, "fetched_at": "2026-09-10T15:50:03"}
+{"source": "douyin", "rank": 2, "title": "这是我送给爱师的花花呀", "hot_value": 11568991, "duration": 1920, "top_rank_today": 2, "fetched_at": "2026-09-10T15:50:03"}
+{"source": "douyin", "rank": 3, "title": "两分钟逛明白2026年服贸会", "hot_value": 11327824, "duration": 1380, "top_rank_today": 3, "fetched_at": "2026-09-10T15:50:03"}
+{"source": "douyin", "rank": 4, "title": "IAEA通过伊核决议 中国投反对票", "hot_value": 11261363, "duration": 19920, "top_rank_today": 4, "fetched_at": "2026-09-10T15:50:03"}
+{"source": "douyin", "rank": 5, "title": "油价或迎二连涨", "hot_value": 10530225, "duration": 900, "top_rank_today": 5, "fetched_at": "2026-09-10T15:50:03"}
+{"source": "douyin", "rank": 6, "title": "宁德时代宜宾基地辟谣", "hot_value": 7731957, "duration": 7560, "top_rank_today": 6, "fetched_at": "2026-09-10T15:50:03"}
+{"source": "douyin", "rank": 7, "title": "2026苹果秋季新品发布会", "hot_value": 7731262, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-09-10T15:50:03"}
+{"source": "douyin", "rank": 8, "title": "今日人设是可可美人", "hot_value": 7730819, "duration": 57000, "top_rank_today": 8, "fetched_at": "2026-09-10T15:50:03"}
+{"source": "douyin", "rank": 9, "title": "干这行的多重身份", "hot_value": 7729231, "duration": 11280, "top_rank_today": 9, "fetched_at": "2026-09-10T15:50:03"}
+{"source": "douyin", "rank": 10, "title": "从谭勉视角打开早春晴朗", "hot_value": 7724252, "duration": 19260, "top_rank_today": 9, "fetched_at": "2026-09-10T15:50:03"}
+{"source": "toutiao", "rank": 1, "title": "上海市体育局：尊重刘翔选择自主择业", "hot_value": 19298442, "duration": 7080, "top_rank_today": 1, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "toutiao", "rank": 2, "title": "8箱白酒放14年部分变空瓶", "hot_value": 17461953, "duration": 1080, "top_rank_today": 2, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "toutiao", "rank": 3, "title": "中国继续保持双向投资大国地位", "hot_value": 15800228, "duration": 1140, "top_rank_today": 3, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "toutiao", "rank": 4, "title": "外交部回应印度拟对小米启动调查", "hot_value": 12936132, "duration": 300, "top_rank_today": 4, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "toutiao", "rank": 5, "title": "结婚40年丈夫把第三者藏家里储藏室", "hot_value": 11705097, "duration": 2280, "top_rank_today": 5, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "toutiao", "rank": 6, "title": "李月汝：中国女篮晋级我无比高兴", "hot_value": 9583323, "duration": 4080, "top_rank_today": 5, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "toutiao", "rank": 7, "title": "亚运会今天开赛", "hot_value": 10591209, "duration": 7860, "top_rank_today": 7, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "toutiao", "rank": 8, "title": "梅姨首任丈夫：她生两个儿子后离开", "hot_value": 8671349, "duration": 9000, "top_rank_today": 2, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "toutiao", "rank": 9, "title": "人类第一次老人比小孩还多", "hot_value": 7846161, "duration": 18720, "top_rank_today": 4, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "toutiao", "rank": 10, "title": "花呗推出iPhone 18 Pro系列24期免息", "hot_value": 6423893, "duration": 3720, "top_rank_today": 7, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "baidu", "rank": 1, "title": "中小学生流行“吃作业” 多地提醒", "hot_value": 7808117, "duration": 19560, "top_rank_today": 1, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "baidu", "rank": 2, "title": "史上最长16天中秋国庆假期运输来了", "hot_value": 7712762, "duration": 11280, "top_rank_today": 2, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "baidu", "rank": 3, "title": "他们 就是良师的模样", "hot_value": 7618038, "duration": 960, "top_rank_today": 3, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "baidu", "rank": 4, "title": "上海市体育局：充分尊重刘翔自主择业", "hot_value": 7521084, "duration": 5280, "top_rank_today": 4, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "baidu", "rank": 5, "title": "硬蹭《狂飙》卖酒 被判赔偿500万", "hot_value": 7424366, "duration": 14580, "top_rank_today": 2, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "baidu", "rank": 6, "title": "日本 梅毒", "hot_value": 7333206, "duration": 16860, "top_rank_today": 4, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "baidu", "rank": 7, "title": "中学换饮水机滤芯 全校每班平摊98元", "hot_value": 7235287, "duration": 21660, "top_rank_today": 5, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "baidu", "rank": 8, "title": "iPhone Duo遭爆炒 溢价超4000元", "hot_value": 7140740, "duration": 16860, "top_rank_today": 8, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "baidu", "rank": 9, "title": "中美正就300亿美元对等降税安排磋商", "hot_value": 7043976, "duration": 1920, "top_rank_today": 9, "fetched_at": "2026-09-10T15:50:04"}
+{"source": "baidu", "rank": 10, "title": "教师节为什么定在9月10日", "hot_value": 6949945, "duration": 12120, "top_rank_today": 7, "fetched_at": "2026-09-10T15:50:04"}
 ```
