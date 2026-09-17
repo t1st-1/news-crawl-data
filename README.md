@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-09-16 15:50:05
+更新时间：2026-09-17 15:50:06
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "一家三口打赏650万赖到女儿身上", "hot_value": 1231774, "duration": 9960, "top_rank_today": 1, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "weibo", "rank": 2, "title": "退休副省长家丢了243万元茅台名酒", "hot_value": 887173, "duration": 13740, "top_rank_today": 2, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "weibo", "rank": 3, "title": "公积金扩围撬动万亿消费新活力", "hot_value": 698905, "duration": 1380, "top_rank_today": 3, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "weibo", "rank": 4, "title": "南方医科大学学生发声", "hot_value": 679241, "duration": 6480, "top_rank_today": 1, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "weibo", "rank": 5, "title": "井柏然孙千 二搭", "hot_value": 677970, "duration": 8760, "top_rank_today": 4, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "weibo", "rank": 6, "title": "优酷", "hot_value": 643228, "duration": 1980, "top_rank_today": 6, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "weibo", "rank": 7, "title": "陈建州心梗前误判", "hot_value": 472823, "duration": 9720, "top_rank_today": 6, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "weibo", "rank": 8, "title": "栾念官宣", "hot_value": 466521, "duration": 9780, "top_rank_today": 6, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "weibo", "rank": 9, "title": "韩国尸皮针价格", "hot_value": 367853, "duration": 21240, "top_rank_today": 4, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "weibo", "rank": 10, "title": "早春晴朗2原班人马", "hot_value": 359644, "duration": 11280, "top_rank_today": 2, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "douyin", "rank": 1, "title": "赵家驹巨人之旅破纪录夺冠", "hot_value": 11638507, "duration": 20280, "top_rank_today": 1, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "douyin", "rank": 2, "title": "中国男篮vs沙特", "hot_value": 11539962, "duration": 6300, "top_rank_today": 1, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "douyin", "rank": 3, "title": "3分钟读懂平陆运河如何通江达海", "hot_value": 11348562, "duration": 1560, "top_rank_today": 3, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "douyin", "rank": 4, "title": "赵家驹夺冠后第一条抖音", "hot_value": 11307805, "duration": 12900, "top_rank_today": 2, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "douyin", "rank": 5, "title": "平陆运河建成通航", "hot_value": 10448002, "duration": 18120, "top_rank_today": 4, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "douyin", "rank": 6, "title": "一口气带你了解平陆运河", "hot_value": 10276163, "duration": 3480, "top_rank_today": 4, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "douyin", "rank": 7, "title": "需要浇水才能长出的拼豆绿植", "hot_value": 9080741, "duration": 57000, "top_rank_today": 2, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "douyin", "rank": 8, "title": "中秋DIY花灯我先做了", "hot_value": 9047883, "duration": 13920, "top_rank_today": 5, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "douyin", "rank": 9, "title": "假期出游装箱倒计时", "hot_value": 8959560, "duration": 55860, "top_rank_today": 6, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "douyin", "rank": 10, "title": "蜜薯正式进入四拼口味时代", "hot_value": 8948015, "duration": 57000, "top_rank_today": 6, "fetched_at": "2026-09-16T15:50:03"}
-{"source": "toutiao", "rank": 1, "title": "多国奥委会批评日本", "hot_value": 10333683, "duration": 7800, "top_rank_today": 1, "fetched_at": "2026-09-16T15:50:04"}
-{"source": "toutiao", "rank": 2, "title": "韩国法院判朝鲜赔偿446亿韩元", "hot_value": 7655380, "duration": 5880, "top_rank_today": 2, "fetched_at": "2026-09-16T15:50:04"}
-{"source": "toutiao", "rank": 3, "title": "解码世纪工程的硬核实力", "hot_value": 11420486, "duration": 1260, "top_rank_today": 3, "fetched_at": "2026-09-16T15:50:04"}
-{"source": "toutiao", "rank": 4, "title": "警方调查“南方医科大学跳楼事件”", "hot_value": 12621589, "duration": 10920, "top_rank_today": 4, "fetched_at": "2026-09-16T15:50:04"}
-{"source": "toutiao", "rank": 5, "title": "弟弟离世数周社恐哥哥无法自理死亡", "hot_value": 6926875, "duration": 14280, "top_rank_today": 4, "fetched_at": "2026-09-16T15:50:04"}
-{"source": "toutiao", "rank": 6, "title": "赵家驹：从外卖小哥到世界冠军", "hot_value": 8460504, "duration": 1020, "top_rank_today": 6, "fetched_at": "2026-09-16T15:50:04"}
-{"source": "toutiao", "rank": 7, "title": "妈妈忘接孩子 男孩淡定躺台阶吃东西", "hot_value": 9350303, "duration": 3600, "top_rank_today": 6, "fetched_at": "2026-09-16T15:50:04"}
-{"source": "toutiao", "rank": 8, "title": "怎么看钱存30年忘取银行让走司法程序", "hot_value": 6267695, "duration": 2400, "top_rank_today": 8, "fetched_at": "2026-09-16T15:50:04"}
-{"source": "toutiao", "rank": 9, "title": "适当饿一点好处竟然这么多", "hot_value": 5671245, "duration": 3300, "top_rank_today": 7, "fetched_at": "2026-09-16T15:50:04"}
-{"source": "toutiao", "rank": 10, "title": "崔天凯：一劳永逸解决台湾问题", "hot_value": 4643223, "duration": 30420, "top_rank_today": 1, "fetched_at": "2026-09-16T15:50:04"}
-{"source": "baidu", "rank": 1, "title": "赵家驹 从外卖小哥到世界冠军", "hot_value": 7809459, "duration": 4920, "top_rank_today": 1, "fetched_at": "2026-09-16T15:50:05"}
-{"source": "baidu", "rank": 2, "title": "啄木鸟维修换1个开关收费2800", "hot_value": 7713792, "duration": 6240, "top_rank_today": 2, "fetched_at": "2026-09-16T15:50:05"}
-{"source": "baidu", "rank": 3, "title": "平陆运河集齐多个“最硬核”标签", "hot_value": 7615758, "duration": 1140, "top_rank_today": 3, "fetched_at": "2026-09-16T15:50:05"}
-{"source": "baidu", "rank": 4, "title": "警方介入南方医科大学坠亡事件", "hot_value": 7520988, "duration": 7080, "top_rank_today": 4, "fetched_at": "2026-09-16T15:50:05"}
-{"source": "baidu", "rank": 5, "title": "周星驰御用配角成功应聘景区NPC", "hot_value": 7426505, "duration": 19020, "top_rank_today": 5, "fetched_at": "2026-09-16T15:50:05"}
-{"source": "baidu", "rank": 6, "title": "32岁教师因病去世 朋友圈留绝笔信", "hot_value": 7329595, "duration": 8280, "top_rank_today": 6, "fetched_at": "2026-09-16T15:50:05"}
-{"source": "baidu", "rank": 7, "title": "小沈阳一开口直接封神", "hot_value": 7238680, "duration": 2040, "top_rank_today": 7, "fetched_at": "2026-09-16T15:50:05"}
-{"source": "baidu", "rank": 8, "title": "张一鸣成亚洲首富", "hot_value": 7143868, "duration": 2280, "top_rank_today": 6, "fetched_at": "2026-09-16T15:50:05"}
-{"source": "baidu", "rank": 9, "title": "昔日“彩电大王”要退市了", "hot_value": 7039983, "duration": 16560, "top_rank_today": 2, "fetched_at": "2026-09-16T15:50:05"}
-{"source": "baidu", "rank": 10, "title": "A股收盘：科创50指数震荡反弹涨超4%", "hot_value": 6945689, "duration": 2340, "top_rank_today": 10, "fetched_at": "2026-09-16T15:50:05"}
+{"source": "weibo", "rank": 1, "title": "如果你出生于1992年至2003年之间", "hot_value": 1933460, "duration": 3540, "top_rank_today": 1, "fetched_at": "2026-09-17T15:50:03"}
+{"source": "weibo", "rank": 2, "title": "亚运会 离谱", "hot_value": 978002, "duration": 2760, "top_rank_today": 2, "fetched_at": "2026-09-17T15:50:03"}
+{"source": "weibo", "rank": 3, "title": "从运河里看懂中华民族的硬核浪漫", "hot_value": 869419, "duration": 420, "top_rank_today": 3, "fetched_at": "2026-09-17T15:50:03"}
+{"source": "weibo", "rank": 4, "title": "2岁幼童从18楼坠亡事发时窗户没关", "hot_value": 775677, "duration": 12480, "top_rank_today": 1, "fetched_at": "2026-09-17T15:50:03"}
+{"source": "weibo", "rank": 5, "title": "儿子突然的离世父亲的天塌了", "hot_value": 755044, "duration": 17160, "top_rank_today": 1, "fetched_at": "2026-09-17T15:50:03"}
+{"source": "weibo", "rank": 6, "title": "举手式睡姿是身体在求救", "hot_value": 737049, "duration": 28980, "top_rank_today": 1, "fetched_at": "2026-09-17T15:50:03"}
+{"source": "weibo", "rank": 7, "title": "国乒3小时vs日乒30分钟往返通勤", "hot_value": 662624, "duration": 6180, "top_rank_today": 4, "fetched_at": "2026-09-17T15:50:03"}
+{"source": "weibo", "rank": 8, "title": "坠亡幼童父亲举报妻子侵犯肖像权", "hot_value": 546661, "duration": 8940, "top_rank_today": 6, "fetched_at": "2026-09-17T15:50:03"}
+{"source": "weibo", "rank": 9, "title": "月薪1万已超过80%的人", "hot_value": 401188, "duration": 10140, "top_rank_today": 8, "fetched_at": "2026-09-17T15:50:03"}
+{"source": "weibo", "rank": 10, "title": "小朋友什么行为显得没家教", "hot_value": 342136, "duration": 15660, "top_rank_today": 4, "fetched_at": "2026-09-17T15:50:03"}
+{"source": "douyin", "rank": 1, "title": "美联储宣布加息25个基点", "hot_value": 11396408, "duration": 30960, "top_rank_today": 1, "fetched_at": "2026-09-17T15:50:04"}
+{"source": "douyin", "rank": 2, "title": "原相机的风吹到了创大", "hot_value": 11086138, "duration": 57000, "top_rank_today": 2, "fetched_at": "2026-09-17T15:50:04"}
+{"source": "douyin", "rank": 3, "title": "平陆运河究竟有多“夯”", "hot_value": 10792369, "duration": 20640, "top_rank_today": 3, "fetched_at": "2026-09-17T15:50:04"}
+{"source": "douyin", "rank": 4, "title": "各地已进入秋季最佳赏味期", "hot_value": 10783945, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-09-17T15:50:04"}
+{"source": "douyin", "rank": 5, "title": "中国男篮半决赛将对阵日本男篮", "hot_value": 9902234, "duration": 31500, "top_rank_today": 2, "fetched_at": "2026-09-17T15:50:04"}
+{"source": "douyin", "rank": 6, "title": "敬一丹告别仪式举行", "hot_value": 9812376, "duration": 18480, "top_rank_today": 6, "fetched_at": "2026-09-17T15:50:04"}
+{"source": "douyin", "rank": 7, "title": "荷花月饼才是中秋美学天花板", "hot_value": 8764696, "duration": 4920, "top_rank_today": 7, "fetched_at": "2026-09-17T15:50:04"}
+{"source": "douyin", "rank": 8, "title": "现场见证亚运男足首秀逆转", "hot_value": 8701020, "duration": 45120, "top_rank_today": 7, "fetched_at": "2026-09-17T15:50:04"}
+{"source": "douyin", "rank": 9, "title": "无畏契约26冠军套实机演示曝光", "hot_value": 8359393, "duration": 10080, "top_rank_today": 9, "fetched_at": "2026-09-17T15:50:04"}
+{"source": "douyin", "rank": 10, "title": "新手化妆步骤极简版来了", "hot_value": 7795095, "duration": 57000, "top_rank_today": 7, "fetched_at": "2026-09-17T15:50:04"}
+{"source": "toutiao", "rank": 1, "title": "机顶盒将成为历史", "hot_value": 21102624, "duration": 15900, "top_rank_today": 1, "fetched_at": "2026-09-17T15:50:05"}
+{"source": "toutiao", "rank": 2, "title": "高市内阁全体阁僚提交辞呈", "hot_value": 19094444, "duration": 17400, "top_rank_today": 2, "fetched_at": "2026-09-17T15:50:05"}
+{"source": "toutiao", "rank": 3, "title": "我国绿色贸易进出口规模居全球首位", "hot_value": 17277368, "duration": 540, "top_rank_today": 3, "fetched_at": "2026-09-17T15:50:05"}
+{"source": "toutiao", "rank": 4, "title": "平陆运河为何等了半个多世纪", "hot_value": 15633209, "duration": 4920, "top_rank_today": 4, "fetched_at": "2026-09-17T15:50:05"}
+{"source": "toutiao", "rank": 5, "title": "中国运动员在日本机场干等6小时", "hot_value": 12799389, "duration": 19260, "top_rank_today": 4, "fetched_at": "2026-09-17T15:50:05"}
+{"source": "toutiao", "rank": 6, "title": "女子拍下米虫从米粒中破壳钻出过程", "hot_value": 14145512, "duration": 3900, "top_rank_today": 6, "fetched_at": "2026-09-17T15:50:05"}
+{"source": "toutiao", "rank": 7, "title": "英国一小村庄宣布脱英建国", "hot_value": 11581366, "duration": 3060, "top_rank_today": 7, "fetched_at": "2026-09-17T15:50:05"}
+{"source": "toutiao", "rank": 8, "title": "亚运会中国女足爆冷战平乌兹别克斯坦", "hot_value": 10479253, "duration": 1620, "top_rank_today": 8, "fetched_at": "2026-09-17T15:50:05"}
+{"source": "toutiao", "rank": 9, "title": "武汉为何被称为“中国芝加哥”", "hot_value": 9482020, "duration": 1800, "top_rank_today": 8, "fetched_at": "2026-09-17T15:50:05"}
+{"source": "toutiao", "rank": 10, "title": "女子体内取出197枚子宫肌瘤", "hot_value": 8579687, "duration": 6180, "top_rank_today": 5, "fetched_at": "2026-09-17T15:50:05"}
+{"source": "baidu", "rank": 1, "title": "广西真正靠海了", "hot_value": 7809651, "duration": 4200, "top_rank_today": 1, "fetched_at": "2026-09-17T15:50:06"}
+{"source": "baidu", "rank": 2, "title": "猪景房8888元一晚 送6888元两头乌", "hot_value": 7713799, "duration": 6120, "top_rank_today": 2, "fetched_at": "2026-09-17T15:50:06"}
+{"source": "baidu", "rank": 3, "title": "2000多年了 我们为什么执着于挖运河", "hot_value": 7616807, "duration": 26700, "top_rank_today": 3, "fetched_at": "2026-09-17T15:50:06"}
+{"source": "baidu", "rank": 4, "title": "为啥年轻人流行目的地婚礼", "hot_value": 7520507, "duration": 7560, "top_rank_today": 4, "fetched_at": "2026-09-17T15:50:06"}
+{"source": "baidu", "rank": 5, "title": "从外卖员到世界冠军 他经历了什么", "hot_value": 7424296, "duration": 12720, "top_rank_today": 5, "fetched_at": "2026-09-17T15:50:06"}
+{"source": "baidu", "rank": 6, "title": "举手式睡姿是身体在求救", "hot_value": 7333398, "duration": 3060, "top_rank_today": 6, "fetched_at": "2026-09-17T15:50:06"}
+{"source": "baidu", "rank": 7, "title": "霉霉丈夫遭遇庞氏骗局", "hot_value": 7234959, "duration": 6240, "top_rank_today": 7, "fetched_at": "2026-09-17T15:50:06"}
+{"source": "baidu", "rank": 8, "title": "中国新中式女装在新加坡卖爆了", "hot_value": 7143918, "duration": 8100, "top_rank_today": 6, "fetched_at": "2026-09-17T15:50:06"}
+{"source": "baidu", "rank": 9, "title": "胖东来员工中秋福利：每人7箱", "hot_value": 7047205, "duration": 13080, "top_rank_today": 4, "fetched_at": "2026-09-17T15:50:06"}
+{"source": "baidu", "rank": 10, "title": "《长生契》定档", "hot_value": 6953173, "duration": 8220, "top_rank_today": 10, "fetched_at": "2026-09-17T15:50:06"}
 ```
