@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-10-04 15:50:05
+更新时间：2026-10-05 15:50:06
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "余承东 余总转发文案", "hot_value": 1107508, "duration": 7560, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:02"}
-{"source": "weibo", "rank": 2, "title": "日本人参观南京大屠杀纪念馆后震惊", "hot_value": 801770, "duration": 3720, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:02"}
-{"source": "weibo", "rank": 3, "title": "假期出游赴山河之约", "hot_value": 659832, "duration": 2820, "top_rank_today": 3, "fetched_at": "2026-10-04T15:50:02"}
-{"source": "weibo", "rank": 4, "title": "淡淡首谈离婚", "hot_value": 607927, "duration": 3360, "top_rank_today": 4, "fetched_at": "2026-10-04T15:50:02"}
-{"source": "weibo", "rank": 5, "title": "一国两制台湾方案在岛内引热议", "hot_value": 474169, "duration": 9480, "top_rank_today": 2, "fetched_at": "2026-10-04T15:50:02"}
-{"source": "weibo", "rank": 6, "title": "吴敬平去德国看樊振东了", "hot_value": 313619, "duration": 1620, "top_rank_today": 6, "fetched_at": "2026-10-04T15:50:02"}
-{"source": "weibo", "rank": 7, "title": "高市早苗回应驻日美军抢劫杀人", "hot_value": 257927, "duration": 3480, "top_rank_today": 6, "fetched_at": "2026-10-04T15:50:02"}
-{"source": "weibo", "rank": 8, "title": "韩国网友不满亚运夺金免兵役", "hot_value": 255470, "duration": 21420, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:02"}
-{"source": "weibo", "rank": 9, "title": "平台回应慧慧饱饱被禁止关注", "hot_value": 244166, "duration": 7200, "top_rank_today": 6, "fetched_at": "2026-10-04T15:50:02"}
-{"source": "weibo", "rank": 10, "title": "三弟媳陷害兰香", "hot_value": 230496, "duration": 1800, "top_rank_today": 10, "fetched_at": "2026-10-04T15:50:02"}
-{"source": "douyin", "rank": 1, "title": "市井人家的炊烟笑语总是令人心安", "hot_value": 11433151, "duration": 4260, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:03"}
-{"source": "douyin", "rank": 2, "title": "足球小将在日本夺冠", "hot_value": 11234629, "duration": 1380, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:03"}
-{"source": "douyin", "rank": 3, "title": "多重优惠叠加激活假日购物车", "hot_value": 11211942, "duration": 3780, "top_rank_today": 3, "fetched_at": "2026-10-04T15:50:03"}
-{"source": "douyin", "rank": 4, "title": "阿根廷7:0布基纳法索", "hot_value": 11035950, "duration": 14520, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:03"}
-{"source": "douyin", "rank": 5, "title": "国庆自驾搭子集体陷入沉默", "hot_value": 10452194, "duration": 20880, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:03"}
-{"source": "douyin", "rank": 6, "title": "长长长假美食判官", "hot_value": 10324876, "duration": 9300, "top_rank_today": 5, "fetched_at": "2026-10-04T15:50:03"}
-{"source": "douyin", "rank": 7, "title": "韩国实现亚运男足四连冠", "hot_value": 9179053, "duration": 15120, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:03"}
-{"source": "douyin", "rank": 8, "title": "这顿饭已严肃品鉴不烧心", "hot_value": 9169567, "duration": 11520, "top_rank_today": 2, "fetched_at": "2026-10-04T15:50:03"}
-{"source": "douyin", "rank": 9, "title": "国庆来鹳雀楼签名打卡", "hot_value": 9148933, "duration": 56760, "top_rank_today": 2, "fetched_at": "2026-10-04T15:50:03"}
-{"source": "douyin", "rank": 10, "title": "王聪虽败犹荣", "hot_value": 9143871, "duration": 9960, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:03"}
-{"source": "toutiao", "rank": 1, "title": "中国游客听到China一呼百应", "hot_value": 17683583, "duration": 2280, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:04"}
-{"source": "toutiao", "rank": 2, "title": "男足亚运摘铜登上《新闻联播》", "hot_value": 16000768, "duration": 25800, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:04"}
-{"source": "toutiao", "rank": 3, "title": "多地深度游、主题玩法花式“上新”", "hot_value": 14478093, "duration": 3540, "top_rank_today": 3, "fetched_at": "2026-10-04T15:50:04"}
-{"source": "toutiao", "rank": 4, "title": "沙特联军回应胡塞称袭击利雅得", "hot_value": 10725635, "duration": 5340, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:04"}
-{"source": "toutiao", "rank": 5, "title": "于子迪成为亚运史上最年轻MVP", "hot_value": 13100320, "duration": 15840, "top_rank_today": 2, "fetched_at": "2026-10-04T15:50:04"}
-{"source": "toutiao", "rank": 6, "title": "多人练“闪身步”进医院", "hot_value": 8781407, "duration": 5880, "top_rank_today": 6, "fetched_at": "2026-10-04T15:50:04"}
-{"source": "toutiao", "rank": 7, "title": "巴勒斯坦球员向国足致歉", "hot_value": 7945746, "duration": 56340, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:04"}
-{"source": "toutiao", "rank": 8, "title": "王励勤出席WTT中国大满贯并致辞", "hot_value": 5886353, "duration": 3120, "top_rank_today": 8, "fetched_at": "2026-10-04T15:50:04"}
-{"source": "toutiao", "rank": 9, "title": "全世界都在找中国游客拍照", "hot_value": 5326193, "duration": 11460, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:04"}
-{"source": "toutiao", "rank": 10, "title": "中美俄领导人2022年后将首次同框", "hot_value": 4819338, "duration": 28980, "top_rank_today": 4, "fetched_at": "2026-10-04T15:50:04"}
-{"source": "baidu", "rank": 1, "title": "张展硕7金无缘亚运会MVP", "hot_value": 7809087, "duration": 6420, "top_rank_today": 1, "fetched_at": "2026-10-04T15:50:05"}
-{"source": "baidu", "rank": 2, "title": "国安部提醒小心基因被窃", "hot_value": 7712670, "duration": 3360, "top_rank_today": 2, "fetched_at": "2026-10-04T15:50:05"}
-{"source": "baidu", "rank": 3, "title": "中国健儿追梦之路永不停歇", "hot_value": 7618168, "duration": 3240, "top_rank_today": 3, "fetched_at": "2026-10-04T15:50:05"}
-{"source": "baidu", "rank": 4, "title": "这趟绿皮车1年亏400多万元为何还开", "hot_value": 7523627, "duration": 7920, "top_rank_today": 4, "fetched_at": "2026-10-04T15:50:05"}
-{"source": "baidu", "rank": 5, "title": "余承东 余总转发文案", "hot_value": 7426560, "duration": 6240, "top_rank_today": 5, "fetched_at": "2026-10-04T15:50:05"}
-{"source": "baidu", "rank": 6, "title": "游客打卡政府食堂吃了500斤饭400斤鹅", "hot_value": 7329262, "duration": 6420, "top_rank_today": 2, "fetched_at": "2026-10-04T15:50:05"}
-{"source": "baidu", "rank": 7, "title": "美AI扬言要自我毁灭", "hot_value": 7237306, "duration": 6420, "top_rank_today": 7, "fetched_at": "2026-10-04T15:50:05"}
-{"source": "baidu", "rank": 8, "title": "徐良演唱会救活了即将倒闭的面包厂", "hot_value": 7142961, "duration": 25560, "top_rank_today": 4, "fetched_at": "2026-10-04T15:50:05"}
-{"source": "baidu", "rank": 9, "title": "日本向美方提出抗议", "hot_value": 7044450, "duration": 8820, "top_rank_today": 4, "fetched_at": "2026-10-04T15:50:05"}
-{"source": "baidu", "rank": 10, "title": "吴宜泽vs袁思俊", "hot_value": 6943353, "duration": 5820, "top_rank_today": 10, "fetched_at": "2026-10-04T15:50:05"}
+{"source": "weibo", "rank": 1, "title": "女子被缅北电诈血本无归投河自尽", "hot_value": 1122668, "duration": 6420, "top_rank_today": 1, "fetched_at": "2026-10-05T15:50:03"}
+{"source": "weibo", "rank": 2, "title": "孙颖莎重回世界第一", "hot_value": 828491, "duration": 4740, "top_rank_today": 1, "fetched_at": "2026-10-05T15:50:03"}
+{"source": "weibo", "rank": 3, "title": "十一假期返程安全提示", "hot_value": 657410, "duration": 1260, "top_rank_today": 3, "fetched_at": "2026-10-05T15:50:03"}
+{"source": "weibo", "rank": 4, "title": "刘美含买超点发现戏份都被剪", "hot_value": 592118, "duration": 10140, "top_rank_today": 4, "fetched_at": "2026-10-05T15:50:03"}
+{"source": "weibo", "rank": 5, "title": "松岛辉空回应世界排名第一", "hot_value": 505644, "duration": 1380, "top_rank_today": 5, "fetched_at": "2026-10-05T15:50:03"}
+{"source": "weibo", "rank": 6, "title": "央视调查重庆落地签背后隐患", "hot_value": 458128, "duration": 5880, "top_rank_today": 5, "fetched_at": "2026-10-05T15:50:03"}
+{"source": "weibo", "rank": 7, "title": "缅北电诈头目的钱多到发霉", "hot_value": 398959, "duration": 17040, "top_rank_today": 1, "fetched_at": "2026-10-05T15:50:03"}
+{"source": "weibo", "rank": 8, "title": "飞天奖", "hot_value": 394150, "duration": 3240, "top_rank_today": 6, "fetched_at": "2026-10-05T15:50:03"}
+{"source": "weibo", "rank": 9, "title": "10万人涌进5万人口县城", "hot_value": 381157, "duration": 11280, "top_rank_today": 2, "fetched_at": "2026-10-05T15:50:03"}
+{"source": "weibo", "rank": 10, "title": "郑钦文vs布兹科娃", "hot_value": 372397, "duration": 2400, "top_rank_today": 6, "fetched_at": "2026-10-05T15:50:03"}
+{"source": "douyin", "rank": 1, "title": "你说得对人是应该多出去走走", "hot_value": 12036362, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-10-05T15:50:04"}
+{"source": "douyin", "rank": 2, "title": "欧国联葡萄牙2:1挪威", "hot_value": 11334274, "duration": 17280, "top_rank_today": 1, "fetched_at": "2026-10-05T15:50:04"}
+{"source": "douyin", "rank": 3, "title": "六张网编织超级新基建", "hot_value": 11291021, "duration": 2220, "top_rank_today": 3, "fetched_at": "2026-10-05T15:50:04"}
+{"source": "douyin", "rank": 4, "title": "白应苍临刑前画面曝光", "hot_value": 11090161, "duration": 10500, "top_rank_today": 4, "fetched_at": "2026-10-05T15:50:04"}
+{"source": "douyin", "rank": 5, "title": "央视起底缅北电诈覆灭始末", "hot_value": 10433164, "duration": 17100, "top_rank_today": 4, "fetched_at": "2026-10-05T15:50:04"}
+{"source": "douyin", "rank": 6, "title": "100种职业100种安全", "hot_value": 10392804, "duration": 16620, "top_rank_today": 6, "fetched_at": "2026-10-05T15:50:04"}
+{"source": "douyin", "rank": 7, "title": "国庆狠狠感受贵州美食有多野", "hot_value": 10352444, "duration": 5280, "top_rank_today": 5, "fetched_at": "2026-10-05T15:50:04"}
+{"source": "douyin", "rank": 8, "title": "国庆漂亮旗袍妆", "hot_value": 9185121, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-10-05T15:50:04"}
+{"source": "douyin", "rank": 9, "title": "国庆假期过得飞快", "hot_value": 9118280, "duration": 57000, "top_rank_today": 6, "fetched_at": "2026-10-05T15:50:04"}
+{"source": "douyin", "rank": 10, "title": "全世界的东北人都得回家扒苞米", "hot_value": 9073763, "duration": 33300, "top_rank_today": 4, "fetched_at": "2026-10-05T15:50:04"}
+{"source": "toutiao", "rank": 1, "title": "日本罕见1天3次向美国强烈抗议", "hot_value": 14018021, "duration": 30480, "top_rank_today": 1, "fetched_at": "2026-10-05T15:50:05"}
+{"source": "toutiao", "rank": 2, "title": "缅北电诈回流人员自述被割肾经历", "hot_value": 11476985, "duration": 15360, "top_rank_today": 1, "fetched_at": "2026-10-05T15:50:05"}
+{"source": "toutiao", "rank": 3, "title": "今年以来我国投资结构优化持续推进", "hot_value": 15492309, "duration": 2100, "top_rank_today": 3, "fetched_at": "2026-10-05T15:50:05"}
+{"source": "toutiao", "rank": 4, "title": "张本智和称对手发球时故意拖延时间", "hot_value": 8502359, "duration": 4080, "top_rank_today": 2, "fetched_at": "2026-10-05T15:50:05"}
+{"source": "toutiao", "rank": 5, "title": "被执行死刑的巫鸿明、白应苍出镜", "hot_value": 7693253, "duration": 7740, "top_rank_today": 4, "fetched_at": "2026-10-05T15:50:05"}
+{"source": "toutiao", "rank": 6, "title": "“China Haul”悄然兴起", "hot_value": 2560861, "duration": 360, "top_rank_today": 6, "fetched_at": "2026-10-05T15:50:05"}
+{"source": "toutiao", "rank": 7, "title": "日本代表团团长承认金牌数被中国碾压", "hot_value": 6298703, "duration": 16560, "top_rank_today": 1, "fetched_at": "2026-10-05T15:50:05"}
+{"source": "toutiao", "rank": 8, "title": "郑钦文抢七先下一城", "hot_value": 9396560, "duration": 900, "top_rank_today": 8, "fetched_at": "2026-10-05T15:50:05"}
+{"source": "toutiao", "rank": 9, "title": "中方曾三次约见缅北四大家族代表", "hot_value": 5156941, "duration": 5220, "top_rank_today": 2, "fetched_at": "2026-10-05T15:50:05"}
+{"source": "toutiao", "rank": 10, "title": "吴艳妮说亚运会不想输所以拼下来了", "hot_value": 5699302, "duration": 5220, "top_rank_today": 5, "fetched_at": "2026-10-05T15:50:05"}
+{"source": "baidu", "rank": 1, "title": "电诈头目钱太多 被偷一千万没发现", "hot_value": 7808123, "duration": 3180, "top_rank_today": 1, "fetched_at": "2026-10-05T15:50:06"}
+{"source": "baidu", "rank": 2, "title": "别人都活力四射 只有我在倒立玩手机", "hot_value": 7714426, "duration": 7920, "top_rank_today": 2, "fetched_at": "2026-10-05T15:50:06"}
+{"source": "baidu", "rank": 3, "title": "大国重器BEST、FAST公布最新消息", "hot_value": 7616660, "duration": 1560, "top_rank_today": 3, "fetched_at": "2026-10-05T15:50:06"}
+{"source": "baidu", "rank": 4, "title": "俄罗斯人抢购中国电动车", "hot_value": 7519729, "duration": 10920, "top_rank_today": 4, "fetched_at": "2026-10-05T15:50:06"}
+{"source": "baidu", "rank": 5, "title": "中国足球小将日本两天双冠", "hot_value": 7427817, "duration": 5520, "top_rank_today": 5, "fetched_at": "2026-10-05T15:50:06"}
+{"source": "baidu", "rank": 6, "title": "白应苍被执行死刑前受访画面曝光", "hot_value": 7332471, "duration": 10860, "top_rank_today": 1, "fetched_at": "2026-10-05T15:50:06"}
+{"source": "baidu", "rank": 7, "title": "蔡康永个人社交账号多个作品下架", "hot_value": 7237625, "duration": 11880, "top_rank_today": 7, "fetched_at": "2026-10-05T15:50:06"}
+{"source": "baidu", "rank": 8, "title": "三个月宝宝打完针自己拿棉签按针眼", "hot_value": 7140119, "duration": 3720, "top_rank_today": 8, "fetched_at": "2026-10-05T15:50:06"}
+{"source": "baidu", "rank": 9, "title": "越来越多90后患冠心病", "hot_value": 7046972, "duration": 13080, "top_rank_today": 9, "fetched_at": "2026-10-05T15:50:06"}
+{"source": "baidu", "rank": 10, "title": "松岛辉空回应世界排名第一", "hot_value": 6946280, "duration": 1080, "top_rank_today": 10, "fetched_at": "2026-10-05T15:50:06"}
 ```
