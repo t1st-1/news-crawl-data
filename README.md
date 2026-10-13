@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-10-12 15:50:05
+更新时间：2026-10-13 15:50:05
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "霸王茶姬接不住爆单犯了低级失误", "hot_value": 3936186, "duration": 2160, "top_rank_today": 1, "fetched_at": "2026-10-12T15:50:02"}
-{"source": "weibo", "rank": 2, "title": "爱用洗衣凝珠的人天塌了", "hot_value": 1416755, "duration": 4380, "top_rank_today": 2, "fetched_at": "2026-10-12T15:50:02"}
-{"source": "weibo", "rank": 3, "title": "红星照耀中国", "hot_value": 1370633, "duration": 2100, "top_rank_today": 3, "fetched_at": "2026-10-12T15:50:02"}
-{"source": "weibo", "rank": 4, "title": "霸王茶姬店员劝退消费者", "hot_value": 1350892, "duration": 13860, "top_rank_today": 1, "fetched_at": "2026-10-12T15:50:02"}
-{"source": "weibo", "rank": 5, "title": "郑钦文王曼昱冠军奖金对比", "hot_value": 1030273, "duration": 4200, "top_rank_today": 5, "fetched_at": "2026-10-12T15:50:02"}
-{"source": "weibo", "rank": 6, "title": "霸王茶姬买一送一到底是谁在喝啊", "hot_value": 668738, "duration": 3420, "top_rank_today": 4, "fetched_at": "2026-10-12T15:50:02"}
-{"source": "weibo", "rank": 7, "title": "牛顿顿顿吃肉下联怎么对", "hot_value": 651393, "duration": 9060, "top_rank_today": 2, "fetched_at": "2026-10-12T15:50:02"}
-{"source": "weibo", "rank": 8, "title": "郑钦文退武网官微遭吐槽草台班子", "hot_value": 633224, "duration": 3120, "top_rank_today": 8, "fetched_at": "2026-10-12T15:50:02"}
-{"source": "weibo", "rank": 9, "title": "赛力斯涨停", "hot_value": 610254, "duration": 1500, "top_rank_today": 8, "fetched_at": "2026-10-12T15:50:02"}
-{"source": "weibo", "rank": 10, "title": "谭松韵下部剧是春禾之上", "hot_value": 587420, "duration": 720, "top_rank_today": 9, "fetched_at": "2026-10-12T15:50:02"}
-{"source": "douyin", "rank": 1, "title": "武网官方回应郑钦文退赛", "hot_value": 12019998, "duration": 9480, "top_rank_today": 1, "fetched_at": "2026-10-12T15:50:03"}
-{"source": "douyin", "rank": 2, "title": "几度秋意浓最是桂花香", "hot_value": 11937080, "duration": 12300, "top_rank_today": 2, "fetched_at": "2026-10-12T15:50:03"}
-{"source": "douyin", "rank": 3, "title": "AI万里绘征途", "hot_value": 11926537, "duration": 2280, "top_rank_today": 3, "fetched_at": "2026-10-12T15:50:03"}
-{"source": "douyin", "rank": 4, "title": "冰雪大世界官宣联名迪士尼", "hot_value": 11103180, "duration": 2280, "top_rank_today": 4, "fetched_at": "2026-10-12T15:50:03"}
-{"source": "douyin", "rank": 5, "title": "我的假日慢充宝藏城市", "hot_value": 10546767, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-10-12T15:50:03"}
-{"source": "douyin", "rank": 6, "title": "我镜头下的金秋", "hot_value": 10356529, "duration": 18060, "top_rank_today": 5, "fetched_at": "2026-10-12T15:50:03"}
-{"source": "douyin", "rank": 7, "title": "安东尼奥接过新一期国奥教鞭", "hot_value": 9163863, "duration": 6480, "top_rank_today": 7, "fetched_at": "2026-10-12T15:50:03"}
-{"source": "douyin", "rank": 8, "title": "我确定我来到了冰岛", "hot_value": 9157582, "duration": 15420, "top_rank_today": 7, "fetched_at": "2026-10-12T15:50:03"}
-{"source": "douyin", "rank": 9, "title": "露营是最小成本的出逃", "hot_value": 9093074, "duration": 40020, "top_rank_today": 9, "fetched_at": "2026-10-12T15:50:03"}
-{"source": "douyin", "rank": 10, "title": "郑钦文让更多孩子爱上网球", "hot_value": 8412011, "duration": 10020, "top_rank_today": 2, "fetched_at": "2026-10-12T15:50:03"}
-{"source": "toutiao", "rank": 1, "title": "霸王茶姬店员劝退消费者", "hot_value": 64393479, "duration": 5100, "top_rank_today": 1, "fetched_at": "2026-10-12T15:50:04"}
-{"source": "toutiao", "rank": 2, "title": "俄方回应特朗普要求换掉乌总统", "hot_value": 47703862, "duration": 3000, "top_rank_today": 2, "fetched_at": "2026-10-12T15:50:04"}
-{"source": "toutiao", "rank": 3, "title": "未来5年卫生健康领域将迎这些发展", "hot_value": 52720921, "duration": 2580, "top_rank_today": 3, "fetched_at": "2026-10-12T15:50:04"}
-{"source": "toutiao", "rank": 4, "title": "记者暗访有偿陪伴服务", "hot_value": 58265629, "duration": 4200, "top_rank_today": 4, "fetched_at": "2026-10-12T15:50:04"}
-{"source": "toutiao", "rank": 5, "title": "央视曝投资1.2亿项目仅建5个棚", "hot_value": 43164239, "duration": 19320, "top_rank_today": 1, "fetched_at": "2026-10-12T15:50:04"}
-{"source": "toutiao", "rank": 6, "title": "郑钦文3年商业收入追平李娜整个生涯", "hot_value": 39056619, "duration": 18480, "top_rank_today": 2, "fetched_at": "2026-10-12T15:50:04"}
-{"source": "toutiao", "rank": 7, "title": "男生梦到妈妈去世 醒来后情绪崩溃", "hot_value": 35339890, "duration": 1500, "top_rank_today": 7, "fetched_at": "2026-10-12T15:50:04"}
-{"source": "toutiao", "rank": 8, "title": "美国女死刑犯注射后未死亡已出院返监", "hot_value": 31976855, "duration": 2220, "top_rank_today": 6, "fetched_at": "2026-10-12T15:50:04"}
-{"source": "toutiao", "rank": 9, "title": "电车恶臭拆开底板掉出死狗", "hot_value": 28933855, "duration": 120, "top_rank_today": 9, "fetched_at": "2026-10-12T15:50:04"}
-{"source": "toutiao", "rank": 10, "title": "长鑫科技会步宇树科技后尘吗", "hot_value": 26180434, "duration": 2520, "top_rank_today": 1, "fetched_at": "2026-10-12T15:50:04"}
-{"source": "baidu", "rank": 1, "title": "年轻人为何不再为朋友圈“打工”", "hot_value": 7808815, "duration": 11160, "top_rank_today": 1, "fetched_at": "2026-10-12T15:50:05"}
-{"source": "baidu", "rank": 2, "title": "电脑卖不动了", "hot_value": 7713627, "duration": 6000, "top_rank_today": 2, "fetched_at": "2026-10-12T15:50:05"}
-{"source": "baidu", "rank": 3, "title": "“进厂游”为何火了起来", "hot_value": 7616622, "duration": 1860, "top_rank_today": 3, "fetched_at": "2026-10-12T15:50:05"}
-{"source": "baidu", "rank": 4, "title": "郑钦文退出武网", "hot_value": 7521369, "duration": 15600, "top_rank_today": 1, "fetched_at": "2026-10-12T15:50:05"}
-{"source": "baidu", "rank": 5, "title": "全民“大烧心时代”来了", "hot_value": 7427044, "duration": 6180, "top_rank_today": 5, "fetched_at": "2026-10-12T15:50:05"}
-{"source": "baidu", "rank": 6, "title": "《我不是药神》原型陆勇即将停药", "hot_value": 7332373, "duration": 13020, "top_rank_today": 5, "fetched_at": "2026-10-12T15:50:05"}
-{"source": "baidu", "rank": 7, "title": "霸王茶姬店员劝退消费者", "hot_value": 7236626, "duration": 1080, "top_rank_today": 7, "fetched_at": "2026-10-12T15:50:05"}
-{"source": "baidu", "rank": 8, "title": "日本为何爆发倒闭潮", "hot_value": 7140943, "duration": 13620, "top_rank_today": 6, "fetched_at": "2026-10-12T15:50:05"}
-{"source": "baidu", "rank": 9, "title": "中方回应反制巴拉圭伯利兹相关人员", "hot_value": 7041927, "duration": 300, "top_rank_today": 9, "fetched_at": "2026-10-12T15:50:05"}
-{"source": "baidu", "rank": 10, "title": "李连杰谈小女儿患抑郁症", "hot_value": 6951123, "duration": 13020, "top_rank_today": 8, "fetched_at": "2026-10-12T15:50:05"}
+{"source": "weibo", "rank": 1, "title": "机器狗第一次进哀牢山就拍到冥界之花", "hot_value": 1320401, "duration": 2520, "top_rank_today": 1, "fetched_at": "2026-10-13T15:50:03"}
+{"source": "weibo", "rank": 2, "title": "霸王茶姬赠送奶茶成本加盟商承担", "hot_value": 871124, "duration": 10080, "top_rank_today": 1, "fetched_at": "2026-10-13T15:50:03"}
+{"source": "weibo", "rank": 3, "title": "你我的长征", "hot_value": 700631, "duration": 1380, "top_rank_today": 3, "fetched_at": "2026-10-13T15:50:03"}
+{"source": "weibo", "rank": 4, "title": "疑似肖战经纪人朋友圈", "hot_value": 608056, "duration": 2400, "top_rank_today": 4, "fetched_at": "2026-10-13T15:50:03"}
+{"source": "weibo", "rank": 5, "title": "吃播女网红去世前多次展示手背上的针眼", "hot_value": 558780, "duration": 1200, "top_rank_today": 5, "fetched_at": "2026-10-13T15:50:03"}
+{"source": "weibo", "rank": 6, "title": "周也大学四年到底学的什么", "hot_value": 473312, "duration": 10680, "top_rank_today": 6, "fetched_at": "2026-10-13T15:50:03"}
+{"source": "weibo", "rank": 7, "title": "缅北四大家族三个已被中国宣判", "hot_value": 347283, "duration": 1380, "top_rank_today": 2, "fetched_at": "2026-10-13T15:50:03"}
+{"source": "weibo", "rank": 8, "title": "AI视频已经以假乱真了", "hot_value": 345384, "duration": 14160, "top_rank_today": 2, "fetched_at": "2026-10-13T15:50:03"}
+{"source": "weibo", "rank": 9, "title": "国考", "hot_value": 344653, "duration": 19500, "top_rank_today": 1, "fetched_at": "2026-10-13T15:50:03"}
+{"source": "weibo", "rank": 10, "title": "体重仅70斤吃播女网红或因缺钾猝死", "hot_value": 342224, "duration": 14760, "top_rank_today": 2, "fetched_at": "2026-10-13T15:50:03"}
+{"source": "douyin", "rank": 1, "title": "A股午后强势拉升翻红", "hot_value": 11370436, "duration": 4320, "top_rank_today": 1, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "douyin", "rank": 2, "title": "所有人展示十月美甲", "hot_value": 11325701, "duration": 16920, "top_rank_today": 2, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "douyin", "rank": 3, "title": "红星照耀中国", "hot_value": 11263587, "duration": 1080, "top_rank_today": 3, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "douyin", "rank": 4, "title": "缅北魏家犯罪集团案一审宣判", "hot_value": 11104867, "duration": 10800, "top_rank_today": 1, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "douyin", "rank": 5, "title": "杨瀚森13分4板4助攻", "hot_value": 10534024, "duration": 24300, "top_rank_today": 1, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "douyin", "rank": 6, "title": "完美穿搭不浪费", "hot_value": 10519805, "duration": 29100, "top_rank_today": 2, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "douyin", "rank": 7, "title": "用1200个魔方祝贺郑钦文夺冠", "hot_value": 9286784, "duration": 8520, "top_rank_today": 2, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "douyin", "rank": 8, "title": "年轻人办婚礼有自己的想法", "hot_value": 9249311, "duration": 26880, "top_rank_today": 1, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "douyin", "rank": 9, "title": "发明柚子烤肉的人吃商极高", "hot_value": 9247284, "duration": 57000, "top_rank_today": 8, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "douyin", "rank": 10, "title": "大道永远的长征", "hot_value": 9230667, "duration": 420, "top_rank_today": 10, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "toutiao", "rank": 1, "title": "3人死刑！缅北魏家犯罪集团案宣判", "hot_value": 20575596, "duration": 10260, "top_rank_today": 1, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "toutiao", "rank": 2, "title": "79岁老干妈陶华碧用AI一年赚了54亿", "hot_value": 18617569, "duration": 10920, "top_rank_today": 2, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "toutiao", "rank": 3, "title": "你我的长征", "hot_value": 16845873, "duration": 1500, "top_rank_today": 3, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "toutiao", "rank": 4, "title": "缅北四大家族覆灭时间线", "hot_value": 13792234, "duration": 2760, "top_rank_today": 4, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "toutiao", "rank": 5, "title": "央视曝光大棚闲置后当地连夜开会", "hot_value": 10217538, "duration": 6360, "top_rank_today": 1, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "toutiao", "rank": 6, "title": "俄外长称泽连斯基不配有喘息之机", "hot_value": 6197250, "duration": 2760, "top_rank_today": 4, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "toutiao", "rank": 7, "title": "魏家犯罪骨干称杀人没什么感受", "hot_value": 11292126, "duration": 6240, "top_rank_today": 1, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "toutiao", "rank": 8, "title": "中方回应特朗普称不相信中俄在帮伊朗", "hot_value": 5607504, "duration": 780, "top_rank_today": 5, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "toutiao", "rank": 9, "title": "24岁女吃播猝死 或因缺钾", "hot_value": 9245211, "duration": 1920, "top_rank_today": 9, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "toutiao", "rank": 10, "title": "缅北魏家犯罪集团覆灭始末", "hot_value": 8365413, "duration": 7440, "top_rank_today": 1, "fetched_at": "2026-10-13T15:50:04"}
+{"source": "baidu", "rank": 1, "title": "孩子越来越笨 AI正在惩罚下一代", "hot_value": 7808441, "duration": 4440, "top_rank_today": 1, "fetched_at": "2026-10-13T15:50:05"}
+{"source": "baidu", "rank": 2, "title": "“各位都什么原因没买一艘呢”", "hot_value": 7712310, "duration": 7920, "top_rank_today": 2, "fetched_at": "2026-10-13T15:50:05"}
+{"source": "baidu", "rank": 3, "title": "去中国工厂“打卡”", "hot_value": 7617677, "duration": 660, "top_rank_today": 3, "fetched_at": "2026-10-13T15:50:05"}
+{"source": "baidu", "rank": 4, "title": "日本翻盖手机终于过气了", "hot_value": 7522377, "duration": 10740, "top_rank_today": 4, "fetched_at": "2026-10-13T15:50:05"}
+{"source": "baidu", "rank": 5, "title": "女孩刚出生妈妈去世 舅妈抚养22年", "hot_value": 7423801, "duration": 15120, "top_rank_today": 5, "fetched_at": "2026-10-13T15:50:05"}
+{"source": "baidu", "rank": 6, "title": "上海一女子买房8年才知被登记赠与", "hot_value": 7327585, "duration": 12720, "top_rank_today": 6, "fetched_at": "2026-10-13T15:50:05"}
+{"source": "baidu", "rank": 7, "title": "夫妻点一杯58元咖啡只能一人落座", "hot_value": 7238370, "duration": 11520, "top_rank_today": 7, "fetched_at": "2026-10-13T15:50:05"}
+{"source": "baidu", "rank": 8, "title": "歌手阿宝回应面部疑似烧伤", "hot_value": 7141621, "duration": 5040, "top_rank_today": 8, "fetched_at": "2026-10-13T15:50:05"}
+{"source": "baidu", "rank": 9, "title": "比冬天先来的是姑姑的爱", "hot_value": 7045771, "duration": 11040, "top_rank_today": 9, "fetched_at": "2026-10-13T15:50:05"}
+{"source": "baidu", "rank": 10, "title": "海底捞向董事长张勇提供1亿元借款", "hot_value": 6951244, "duration": 11520, "top_rank_today": 7, "fetched_at": "2026-10-13T15:50:05"}
 ```
