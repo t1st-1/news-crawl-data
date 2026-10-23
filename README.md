@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-10-22 15:50:06
+更新时间：2026-10-23 15:50:06
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "手握10篇SCI医学生盲猜病情引争议", "hot_value": 1110425, "duration": 7140, "top_rank_today": 1, "fetched_at": "2026-10-22T15:50:03"}
-{"source": "weibo", "rank": 2, "title": "松岛辉空0比3朴奎炫", "hot_value": 822480, "duration": 1140, "top_rank_today": 2, "fetched_at": "2026-10-22T15:50:03"}
-{"source": "weibo", "rank": 3, "title": "在新长征路上阔步前行", "hot_value": 641730, "duration": 900, "top_rank_today": 3, "fetched_at": "2026-10-22T15:50:03"}
-{"source": "weibo", "rank": 4, "title": "张萌后悔找马天宇上节目", "hot_value": 632821, "duration": 4740, "top_rank_today": 4, "fetched_at": "2026-10-22T15:50:03"}
-{"source": "weibo", "rank": 5, "title": "国乒男团0比1中国台北", "hot_value": 566353, "duration": 4800, "top_rank_today": 2, "fetched_at": "2026-10-22T15:50:03"}
-{"source": "weibo", "rank": 6, "title": "肖战你也知道自己演唱会票难抢啊", "hot_value": 561631, "duration": 2760, "top_rank_today": 6, "fetched_at": "2026-10-22T15:50:03"}
-{"source": "weibo", "rank": 7, "title": "麻六记位列阿宽食品第一大欠款方", "hot_value": 468732, "duration": 2700, "top_rank_today": 7, "fetched_at": "2026-10-22T15:50:03"}
-{"source": "weibo", "rank": 8, "title": "杨瀚森第五位NBA得分破百纯血中国人", "hot_value": 445211, "duration": 1140, "top_rank_today": 7, "fetched_at": "2026-10-22T15:50:03"}
-{"source": "weibo", "rank": 9, "title": "压力给到刘冲", "hot_value": 445119, "duration": 9060, "top_rank_today": 2, "fetched_at": "2026-10-22T15:50:03"}
-{"source": "weibo", "rank": 10, "title": "亚锦赛韩国3比1日本", "hot_value": 444941, "duration": 960, "top_rank_today": 7, "fetched_at": "2026-10-22T15:50:03"}
-{"source": "douyin", "rank": 1, "title": "黄海南部进行实弹射击意味着什么", "hot_value": 12053645, "duration": 17820, "top_rank_today": 1, "fetched_at": "2026-10-22T15:50:04"}
-{"source": "douyin", "rank": 2, "title": "欧冠曼联1:4不敌科莫", "hot_value": 11365899, "duration": 28080, "top_rank_today": 2, "fetched_at": "2026-10-22T15:50:04"}
-{"source": "douyin", "rank": 3, "title": "长征 永远在路上", "hot_value": 11290159, "duration": 20160, "top_rank_today": 3, "fetched_at": "2026-10-22T15:50:04"}
-{"source": "douyin", "rank": 4, "title": "全国已开始进入赏秋模式", "hot_value": 11256421, "duration": 57000, "top_rank_today": 2, "fetched_at": "2026-10-22T15:50:04"}
-{"source": "douyin", "rank": 5, "title": "红军长征胜利90周年纪念日", "hot_value": 10675970, "duration": 28080, "top_rank_today": 2, "fetched_at": "2026-10-22T15:50:04"}
-{"source": "douyin", "rank": 6, "title": "欧冠皇马4:1莱比锡", "hot_value": 10540930, "duration": 30900, "top_rank_today": 2, "fetched_at": "2026-10-22T15:50:04"}
-{"source": "douyin", "rank": 7, "title": "湖人22分大胜勇士", "hot_value": 9376071, "duration": 8880, "top_rank_today": 1, "fetched_at": "2026-10-22T15:50:04"}
-{"source": "douyin", "rank": 8, "title": "A股", "hot_value": 9309894, "duration": 1620, "top_rank_today": 8, "fetched_at": "2026-10-22T15:50:04"}
-{"source": "douyin", "rank": 9, "title": "一口气解读日美利剑27联合军演", "hot_value": 9247238, "duration": 42420, "top_rank_today": 2, "fetched_at": "2026-10-22T15:50:04"}
-{"source": "douyin", "rank": 10, "title": "赛博朋克边缘行者2剧情评析", "hot_value": 9235458, "duration": 57000, "top_rank_today": 9, "fetched_at": "2026-10-22T15:50:04"}
-{"source": "toutiao", "rank": 1, "title": "怎么看解放军4艘大型登陆舰实弹演练", "hot_value": 10373752, "duration": 5220, "top_rank_today": 1, "fetched_at": "2026-10-22T15:50:05"}
-{"source": "toutiao", "rank": 2, "title": "收评：全市场近5000只个股下挫", "hot_value": 9386559, "duration": 1080, "top_rank_today": 2, "fetched_at": "2026-10-22T15:50:05"}
-{"source": "toutiao", "rank": 3, "title": "无名忠骨 山河永记", "hot_value": 8493310, "duration": 21000, "top_rank_today": 3, "fetched_at": "2026-10-22T15:50:05"}
-{"source": "toutiao", "rank": 4, "title": "张本智和被打出0-11惨败", "hot_value": 7685064, "duration": 960, "top_rank_today": 4, "fetched_at": "2026-10-22T15:50:05"}
-{"source": "toutiao", "rank": 5, "title": "杭州大二学生开一人公司营收破60万", "hot_value": 6953734, "duration": 13500, "top_rank_today": 1, "fetched_at": "2026-10-22T15:50:05"}
-{"source": "toutiao", "rank": 6, "title": "泽连斯基对领土态度为什么突然松动", "hot_value": 6291998, "duration": 1440, "top_rank_today": 5, "fetched_at": "2026-10-22T15:50:05"}
-{"source": "toutiao", "rank": 7, "title": "雷军被记者问SU9何时上市", "hot_value": 4661227, "duration": 1980, "top_rank_today": 5, "fetched_at": "2026-10-22T15:50:05"}
-{"source": "toutiao", "rank": 8, "title": "孟羽童晒与董明珠合照", "hot_value": 3453122, "duration": 10500, "top_rank_today": 2, "fetched_at": "2026-10-22T15:50:05"}
-{"source": "toutiao", "rank": 9, "title": "乌称俄军对基辅发动大规模联合打击", "hot_value": 3124514, "duration": 660, "top_rank_today": 9, "fetched_at": "2026-10-22T15:50:05"}
-{"source": "toutiao", "rank": 10, "title": "机器人复刻武术动作是否侵权", "hot_value": 2827177, "duration": 180, "top_rank_today": 10, "fetched_at": "2026-10-22T15:50:05"}
-{"source": "baidu", "rank": 1, "title": "新华社在美国找到红军长征时珍贵照片", "hot_value": 7808817, "duration": 20700, "top_rank_today": 1, "fetched_at": "2026-10-22T15:50:06"}
-{"source": "baidu", "rank": 2, "title": "“一斤开心果赶上买两只鸡了”", "hot_value": 7713093, "duration": 4980, "top_rank_today": 2, "fetched_at": "2026-10-22T15:50:06"}
-{"source": "baidu", "rank": 3, "title": "长征 永远在路上", "hot_value": 7619146, "duration": 900, "top_rank_today": 3, "fetched_at": "2026-10-22T15:50:06"}
-{"source": "baidu", "rank": 4, "title": "演员白鹿名下公司均已注销", "hot_value": 7522979, "duration": 6120, "top_rank_today": 4, "fetched_at": "2026-10-22T15:50:06"}
-{"source": "baidu", "rank": 5, "title": "50元一斤的卤味鸭脖 年轻人不愿啃了", "hot_value": 7428985, "duration": 4860, "top_rank_today": 5, "fetched_at": "2026-10-22T15:50:06"}
-{"source": "baidu", "rank": 6, "title": "国乒男团0比1中国台北", "hot_value": 7327871, "duration": 2100, "top_rank_today": 6, "fetched_at": "2026-10-22T15:50:06"}
-{"source": "baidu", "rank": 7, "title": "“哥姐”称呼老师 是亲近还是冒犯", "hot_value": 7234458, "duration": 5340, "top_rank_today": 7, "fetched_at": "2026-10-22T15:50:06"}
-{"source": "baidu", "rank": 8, "title": "《嫁金钗》把观众当傻子", "hot_value": 7137242, "duration": 12780, "top_rank_today": 6, "fetched_at": "2026-10-22T15:50:06"}
-{"source": "baidu", "rank": 9, "title": "创业板指低开低走跌超4%", "hot_value": 7046545, "duration": 2700, "top_rank_today": 9, "fetched_at": "2026-10-22T15:50:06"}
-{"source": "baidu", "rank": 10, "title": "马天宇：没有密友 只能找AI聊天", "hot_value": 6945727, "duration": 600, "top_rank_today": 10, "fetched_at": "2026-10-22T15:50:06"}
+{"source": "weibo", "rank": 1, "title": "嫁金钗", "hot_value": 1086424, "duration": 11820, "top_rank_today": 1, "fetched_at": "2026-10-23T15:50:04"}
+{"source": "weibo", "rank": 2, "title": "西藏巴青地震16死76伤", "hot_value": 783543, "duration": 1860, "top_rank_today": 1, "fetched_at": "2026-10-23T15:50:04"}
+{"source": "weibo", "rank": 3, "title": "从长征数字里感悟信仰力量", "hot_value": 623997, "duration": 180, "top_rank_today": 3, "fetched_at": "2026-10-23T15:50:04"}
+{"source": "weibo", "rank": 4, "title": "A股牛回来了么", "hot_value": 565898, "duration": 4860, "top_rank_today": 1, "fetched_at": "2026-10-23T15:50:04"}
+{"source": "weibo", "rank": 5, "title": "A股大反攻", "hot_value": 465435, "duration": 4560, "top_rank_today": 5, "fetched_at": "2026-10-23T15:50:04"}
+{"source": "weibo", "rank": 6, "title": "曝迪丽热巴开毯", "hot_value": 424736, "duration": 10980, "top_rank_today": 4, "fetched_at": "2026-10-23T15:50:04"}
+{"source": "weibo", "rank": 7, "title": "何刚升任华为董事", "hot_value": 352582, "duration": 1800, "top_rank_today": 7, "fetched_at": "2026-10-23T15:50:04"}
+{"source": "weibo", "rank": 8, "title": "魏姮娥咬断脐带生君黛", "hot_value": 290002, "duration": 4860, "top_rank_today": 8, "fetched_at": "2026-10-23T15:50:04"}
+{"source": "weibo", "rank": 9, "title": "金价跌破870元", "hot_value": 289671, "duration": 9300, "top_rank_today": 7, "fetched_at": "2026-10-23T15:50:04"}
+{"source": "weibo", "rank": 10, "title": "王以太五公个喜", "hot_value": 288482, "duration": 540, "top_rank_today": 10, "fetched_at": "2026-10-23T15:50:04"}
+{"source": "douyin", "rank": 1, "title": "西藏7.0级地震已致16死76伤", "hot_value": 12109936, "duration": 2520, "top_rank_today": 1, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "douyin", "rank": 2, "title": "李昌钰在扬州安葬", "hot_value": 11912953, "duration": 4800, "top_rank_today": 2, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "douyin", "rank": 3, "title": "救援官兵连夜赶赴那曲地震灾区", "hot_value": 11862584, "duration": 17640, "top_rank_today": 3, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "douyin", "rank": 4, "title": "台风蔷琵逼近华东沿海", "hot_value": 10935776, "duration": 3480, "top_rank_today": 2, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "douyin", "rank": 5, "title": "秦岭半山红叶半山雪", "hot_value": 10352788, "duration": 2520, "top_rank_today": 4, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "douyin", "rank": 6, "title": "抖音博主教你vibe知识大赏", "hot_value": 10331603, "duration": 28680, "top_rank_today": 2, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "douyin", "rank": 7, "title": "台风蔷琵实时路径", "hot_value": 9080510, "duration": 57000, "top_rank_today": 5, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "douyin", "rank": 8, "title": "今日霜降", "hot_value": 9059267, "duration": 22020, "top_rank_today": 4, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "douyin", "rank": 9, "title": "如何看待高性价比人生指南火了", "hot_value": 9047305, "duration": 28080, "top_rank_today": 4, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "douyin", "rank": 10, "title": "秋日收藏小赛", "hot_value": 8978021, "duration": 1080, "top_rank_today": 10, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "toutiao", "rank": 1, "title": "西藏地震地面裂缝比手宽", "hot_value": 29933201, "duration": 12960, "top_rank_today": 1, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "toutiao", "rank": 2, "title": "普京：俄罗斯人和乌克兰人属同一民族", "hot_value": 20064824, "duration": 9180, "top_rank_today": 2, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "toutiao", "rank": 3, "title": "中共中央政治局召开会议", "hot_value": 24507232, "duration": 660, "top_rank_today": 3, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "toutiao", "rank": 4, "title": "航拍西藏强震受灾核心区域", "hot_value": 22175060, "duration": 7320, "top_rank_today": 4, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "toutiao", "rank": 5, "title": "娃哈哈集团董事长被曝辞职", "hot_value": 16427689, "duration": 18780, "top_rank_today": 2, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "toutiao", "rank": 6, "title": "神探李昌钰灵骨安葬 夫人扶灵痛哭", "hot_value": 14864387, "duration": 1500, "top_rank_today": 2, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "toutiao", "rank": 7, "title": "西藏地震已致16死76伤", "hot_value": 18155404, "duration": 1140, "top_rank_today": 7, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "toutiao", "rank": 8, "title": "阔折叠手机会成为行业新风口吗", "hot_value": 6678999, "duration": 9120, "top_rank_today": 6, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "toutiao", "rank": 9, "title": "创业板指探底回升涨超4%", "hot_value": 6043409, "duration": 1200, "top_rank_today": 8, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "toutiao", "rank": 10, "title": "西藏震中地面开裂路基明显沉降", "hot_value": 12169931, "duration": 18960, "top_rank_today": 5, "fetched_at": "2026-10-23T15:50:05"}
+{"source": "baidu", "rank": 1, "title": "娃哈哈集团董事长被曝辞职", "hot_value": 7808244, "duration": 15000, "top_rank_today": 1, "fetched_at": "2026-10-23T15:50:06"}
+{"source": "baidu", "rank": 2, "title": "西藏地震现场地面的裂缝比手宽", "hot_value": 7714280, "duration": 12480, "top_rank_today": 2, "fetched_at": "2026-10-23T15:50:06"}
+{"source": "baidu", "rank": 3, "title": "全球超八成新船订单涌向中国", "hot_value": 7616622, "duration": 7740, "top_rank_today": 3, "fetched_at": "2026-10-23T15:50:06"}
+{"source": "baidu", "rank": 4, "title": "西藏地震已造成16人遇难76人受伤", "hot_value": 7522026, "duration": 2220, "top_rank_today": 4, "fetched_at": "2026-10-23T15:50:06"}
+{"source": "baidu", "rank": 5, "title": "A股大反攻", "hot_value": 7424001, "duration": 7560, "top_rank_today": 5, "fetched_at": "2026-10-23T15:50:06"}
+{"source": "baidu", "rank": 6, "title": "一线年轻人开始半夜卖废品了", "hot_value": 7329286, "duration": 3720, "top_rank_today": 6, "fetched_at": "2026-10-23T15:50:06"}
+{"source": "baidu", "rank": 7, "title": "闪婚娶美国女博士的外卖小哥宣布离婚", "hot_value": 7234396, "duration": 5460, "top_rank_today": 7, "fetched_at": "2026-10-23T15:50:06"}
+{"source": "baidu", "rank": 8, "title": "《嫁金钗》王一楠老公居然是尔豪", "hot_value": 7136179, "duration": 11160, "top_rank_today": 8, "fetched_at": "2026-10-23T15:50:06"}
+{"source": "baidu", "rank": 9, "title": "金晨 北舞不是白读的", "hot_value": 7045089, "duration": 8100, "top_rank_today": 8, "fetched_at": "2026-10-23T15:50:06"}
+{"source": "baidu", "rank": 10, "title": "恶女天花板江玉燕翻红", "hot_value": 6949541, "duration": 9960, "top_rank_today": 10, "fetched_at": "2026-10-23T15:50:06"}
 ```
