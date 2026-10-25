@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-10-24 15:50:07
+更新时间：2026-10-25 15:50:08
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "匡威卖不动了吗", "hot_value": 1121321, "duration": 3240, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:04"}
-{"source": "weibo", "rank": 2, "title": "年轻人正在抛弃帆布鞋", "hot_value": 822147, "duration": 14100, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:04"}
-{"source": "weibo", "rank": 3, "title": "个人账户跨省共济全国落地", "hot_value": 656649, "duration": 1080, "top_rank_today": 3, "fetched_at": "2026-10-24T15:50:04"}
-{"source": "weibo", "rank": 4, "title": "秦始皇兵马俑上发现女性指纹", "hot_value": 646438, "duration": 1740, "top_rank_today": 2, "fetched_at": "2026-10-24T15:50:04"}
-{"source": "weibo", "rank": 5, "title": "嫁金钗没有人真正关心君黛", "hot_value": 426506, "duration": 5220, "top_rank_today": 4, "fetched_at": "2026-10-24T15:50:04"}
-{"source": "weibo", "rank": 6, "title": "BLG不夺冠雷鸟退全款", "hot_value": 408575, "duration": 5760, "top_rank_today": 6, "fetched_at": "2026-10-24T15:50:04"}
-{"source": "weibo", "rank": 7, "title": "父亲突发脑梗儿子用AI抢出救命时间", "hot_value": 391401, "duration": 19500, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:04"}
-{"source": "weibo", "rank": 8, "title": "文班回应绝平放篮遭阿门盖帽", "hot_value": 382271, "duration": 4440, "top_rank_today": 4, "fetched_at": "2026-10-24T15:50:04"}
-{"source": "weibo", "rank": 9, "title": "国务院要求优化家庭财税稳人口", "hot_value": 379942, "duration": 11460, "top_rank_today": 4, "fetched_at": "2026-10-24T15:50:04"}
-{"source": "weibo", "rank": 10, "title": "Ning爆料管泽元解说S16", "hot_value": 362566, "duration": 5160, "top_rank_today": 9, "fetched_at": "2026-10-24T15:50:04"}
-{"source": "douyin", "rank": 1, "title": "秦岭半山红叶半山雪", "hot_value": 12012683, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:05"}
-{"source": "douyin", "rank": 2, "title": "骑行四千五百公里赴赛里木湖", "hot_value": 11844034, "duration": 57000, "top_rank_today": 2, "fetched_at": "2026-10-24T15:50:05"}
-{"source": "douyin", "rank": 3, "title": "各方救援力量抵达西藏", "hot_value": 11375055, "duration": 1800, "top_rank_today": 3, "fetched_at": "2026-10-24T15:50:05"}
-{"source": "douyin", "rank": 4, "title": "蔷琵已减弱为台风级", "hot_value": 11300158, "duration": 16500, "top_rank_today": 4, "fetched_at": "2026-10-24T15:50:05"}
-{"source": "douyin", "rank": 5, "title": "秋日收藏小赛", "hot_value": 10579089, "duration": 57000, "top_rank_today": 5, "fetched_at": "2026-10-24T15:50:05"}
-{"source": "douyin", "rank": 6, "title": "毛茸茸治愈一切", "hot_value": 10565083, "duration": 57000, "top_rank_today": 6, "fetched_at": "2026-10-24T15:50:05"}
-{"source": "douyin", "rank": 7, "title": "懒人版番茄炖牛肉承包秋冬晚餐", "hot_value": 9447889, "duration": 4680, "top_rank_today": 7, "fetched_at": "2026-10-24T15:50:05"}
-{"source": "douyin", "rank": 8, "title": "火箭114:110力克马刺", "hot_value": 9435625, "duration": 11520, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:05"}
-{"source": "douyin", "rank": 9, "title": "KC战胜AL", "hot_value": 9315981, "duration": 25500, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:05"}
-{"source": "douyin", "rank": 10, "title": "湖人6人上双胜快船", "hot_value": 9285763, "duration": 9900, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:05"}
-{"source": "toutiao", "rank": 1, "title": "红军最小军团长唯一照片首次公开", "hot_value": 11875378, "duration": 3600, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:06"}
-{"source": "toutiao", "rank": 2, "title": "父亲突发脑梗儿子用豆包抢出救命时间", "hot_value": 10745286, "duration": 5100, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:06"}
-{"source": "toutiao", "rank": 3, "title": "星夜驰援 守护生命", "hot_value": 9722737, "duration": 1800, "top_rank_today": 3, "fetched_at": "2026-10-24T15:50:06"}
-{"source": "toutiao", "rank": 4, "title": "乌克兰态度为何空前软化", "hot_value": 7960304, "duration": 5820, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:06"}
-{"source": "toutiao", "rank": 5, "title": "直击台风“蔷琵”实时路径", "hot_value": 7202781, "duration": 7320, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:06"}
-{"source": "toutiao", "rank": 6, "title": "济南月牙泉“一帘秋瀑”持续在线", "hot_value": 6517345, "duration": 2640, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:06"}
-{"source": "toutiao", "rank": 7, "title": "泽连斯基含泪谈俄乌冲突：我夜不能寐", "hot_value": 5335951, "duration": 20880, "top_rank_today": 2, "fetched_at": "2026-10-24T15:50:06"}
-{"source": "toutiao", "rank": 8, "title": "李雪健已无法说话 仅靠表情完成演出", "hot_value": 4368707, "duration": 57000, "top_rank_today": 2, "fetched_at": "2026-10-24T15:50:06"}
-{"source": "toutiao", "rank": 9, "title": "二婚夫妻离世未留遗嘱 子女吵上法庭", "hot_value": 3576795, "duration": 2160, "top_rank_today": 2, "fetched_at": "2026-10-24T15:50:06"}
-{"source": "toutiao", "rank": 10, "title": "西藏巴青县地震前后遥感图发布", "hot_value": 2649755, "duration": 21540, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:06"}
-{"source": "baidu", "rank": 1, "title": "年轻人正在抛弃帆布鞋", "hot_value": 7808304, "duration": 11460, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:07"}
-{"source": "baidu", "rank": 2, "title": "光刻机被抢疯了", "hot_value": 7713735, "duration": 5400, "top_rank_today": 2, "fetched_at": "2026-10-24T15:50:07"}
-{"source": "baidu", "rank": 3, "title": "“蛟龙”出海记", "hot_value": 7618377, "duration": 1380, "top_rank_today": 3, "fetched_at": "2026-10-24T15:50:07"}
-{"source": "baidu", "rank": 4, "title": "老年人摔倒后身体断崖式衰退真相", "hot_value": 7523890, "duration": 7560, "top_rank_today": 2, "fetched_at": "2026-10-24T15:50:07"}
-{"source": "baidu", "rank": 5, "title": "数十万辆新能源“孤儿车”谁负责修", "hot_value": 7428383, "duration": 27060, "top_rank_today": 1, "fetched_at": "2026-10-24T15:50:07"}
-{"source": "baidu", "rank": 6, "title": "安克、耐克客服发送疑似色情引流信息", "hot_value": 7331481, "duration": 7020, "top_rank_today": 6, "fetched_at": "2026-10-24T15:50:07"}
-{"source": "baidu", "rank": 7, "title": "泽连斯基含泪谈俄乌冲突：我夜不能寐", "hot_value": 7237751, "duration": 7920, "top_rank_today": 5, "fetched_at": "2026-10-24T15:50:07"}
-{"source": "baidu", "rank": 8, "title": "赵丽颖方回应直播发型争议：在洗了", "hot_value": 7135765, "duration": 14160, "top_rank_today": 8, "fetched_at": "2026-10-24T15:50:07"}
-{"source": "baidu", "rank": 9, "title": "全国蛋价跌回“4元时代”", "hot_value": 7040312, "duration": 3360, "top_rank_today": 9, "fetched_at": "2026-10-24T15:50:07"}
-{"source": "baidu", "rank": 10, "title": "70岁董浩叔叔晒婚纱照", "hot_value": 6948017, "duration": 4200, "top_rank_today": 10, "fetched_at": "2026-10-24T15:50:07"}
+{"source": "weibo", "rank": 1, "title": "全国总人口面临跌破14亿", "hot_value": 2009552, "duration": 6060, "top_rank_today": 1, "fetched_at": "2026-10-25T15:50:04"}
+{"source": "weibo", "rank": 2, "title": "县委书记拒绝张雪为家乡打广告", "hot_value": 1287813, "duration": 12480, "top_rank_today": 1, "fetched_at": "2026-10-25T15:50:04"}
+{"source": "weibo", "rank": 3, "title": "致敬抗震救灾中的救援力量", "hot_value": 746249, "duration": 240, "top_rank_today": 3, "fetched_at": "2026-10-25T15:50:04"}
+{"source": "weibo", "rank": 4, "title": "多名女性被发色情软件都接触过同一人", "hot_value": 714364, "duration": 7020, "top_rank_today": 4, "fetched_at": "2026-10-25T15:50:04"}
+{"source": "weibo", "rank": 5, "title": "羊年央视春晚总导演于蕾", "hot_value": 670131, "duration": 1920, "top_rank_today": 5, "fetched_at": "2026-10-25T15:50:04"}
+{"source": "weibo", "rank": 6, "title": "江苏姑娘网购鹤岗房搬进去后傻眼", "hot_value": 647131, "duration": 17460, "top_rank_today": 1, "fetched_at": "2026-10-25T15:50:04"}
+{"source": "weibo", "rank": 7, "title": "深圳水贝被挤爆", "hot_value": 572808, "duration": 14580, "top_rank_today": 1, "fetched_at": "2026-10-25T15:50:04"}
+{"source": "weibo", "rank": 8, "title": "唐诡五六季一起拍80集", "hot_value": 395644, "duration": 8100, "top_rank_today": 6, "fetched_at": "2026-10-25T15:50:04"}
+{"source": "weibo", "rank": 9, "title": "高市早苗点名要看抹黑中国日剧", "hot_value": 365104, "duration": 5760, "top_rank_today": 7, "fetched_at": "2026-10-25T15:50:04"}
+{"source": "weibo", "rank": 10, "title": "黑吉辽出生率垫底", "hot_value": 253277, "duration": 3300, "top_rank_today": 9, "fetched_at": "2026-10-25T15:50:04"}
+{"source": "douyin", "rank": 1, "title": "台湾光复81周年", "hot_value": 11846426, "duration": 23520, "top_rank_today": 1, "fetched_at": "2026-10-25T15:50:05"}
+{"source": "douyin", "rank": 2, "title": "马刺122:106独行侠", "hot_value": 11760913, "duration": 7320, "top_rank_today": 2, "fetched_at": "2026-10-25T15:50:05"}
+{"source": "douyin", "rank": 3, "title": "直击西藏那曲地震救援一线", "hot_value": 11347244, "duration": 960, "top_rank_today": 3, "fetched_at": "2026-10-25T15:50:05"}
+{"source": "douyin", "rank": 4, "title": "亚锦赛半决赛蒯曼vs张本美和", "hot_value": 11259644, "duration": 2700, "top_rank_today": 4, "fetched_at": "2026-10-25T15:50:05"}
+{"source": "douyin", "rank": 5, "title": "A股指数调整10月26日落地", "hot_value": 10556137, "duration": 15420, "top_rank_today": 4, "fetched_at": "2026-10-25T15:50:05"}
+{"source": "douyin", "rank": 6, "title": "纪念抗美援朝出国作战76周年", "hot_value": 10486209, "duration": 15120, "top_rank_today": 4, "fetched_at": "2026-10-25T15:50:05"}
+{"source": "douyin", "rank": 7, "title": "苏超半决赛落幕", "hot_value": 9297623, "duration": 29100, "top_rank_today": 2, "fetched_at": "2026-10-25T15:50:05"}
+{"source": "douyin", "rank": 8, "title": "台风蔷琵正在我国近海活跃", "hot_value": 9267546, "duration": 56820, "top_rank_today": 2, "fetched_at": "2026-10-25T15:50:05"}
+{"source": "douyin", "rank": 9, "title": "张雪机车刷新水上漂吉尼斯纪录", "hot_value": 9107861, "duration": 14880, "top_rank_today": 7, "fetched_at": "2026-10-25T15:50:05"}
+{"source": "douyin", "rank": 10, "title": "火箭险胜老鹰豪取三连胜", "hot_value": 8808303, "duration": 12300, "top_rank_today": 1, "fetched_at": "2026-10-25T15:50:05"}
+{"source": "toutiao", "rank": 1, "title": "张雪机车刷新水上漂吉尼斯世界纪录", "hot_value": 18585921, "duration": 15180, "top_rank_today": 1, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "toutiao", "rank": 2, "title": "稻城亚丁一游客疑高反失控冲下山坡", "hot_value": 16817237, "duration": 4080, "top_rank_today": 2, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "toutiao", "rank": 3, "title": "御寒物资发放到村 震后安置有序推进", "hot_value": 15216865, "duration": 720, "top_rank_today": 3, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "toutiao", "rank": 4, "title": "张雪：打99分留1分不要太骄傲", "hot_value": 13768789, "duration": 12480, "top_rank_today": 4, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "toutiao", "rank": 5, "title": "姑娘花3.8万在鹤岗买房入住后傻眼", "hot_value": 12458515, "duration": 16800, "top_rank_today": 5, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "toutiao", "rank": 6, "title": "菲两架军机空中相撞画面曝光", "hot_value": 11272931, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "toutiao", "rank": 7, "title": "女儿跪地迎接抗美援朝烈士画像回家", "hot_value": 10200170, "duration": 4260, "top_rank_today": 7, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "toutiao", "rank": 8, "title": "泽连斯基：绝不接受放弃25%领土提议", "hot_value": 9229495, "duration": 23580, "top_rank_today": 2, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "toutiao", "rank": 9, "title": "国考83个职位无人报名", "hot_value": 8351192, "duration": 16140, "top_rank_today": 1, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "toutiao", "rank": 10, "title": "今天是新中国重返联合国55周年纪念日", "hot_value": 7556471, "duration": 1440, "top_rank_today": 9, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "baidu", "rank": 1, "title": "央视：美军选特殊时期挑衅已劣迹斑斑", "hot_value": 7808632, "duration": 11520, "top_rank_today": 1, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "baidu", "rank": 2, "title": "女子花3.8万鹤岗买房 搬进去后傻眼", "hot_value": 7712389, "duration": 12840, "top_rank_today": 2, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "baidu", "rank": 3, "title": "海拔4800米的生命救援", "hot_value": 7619136, "duration": 360, "top_rank_today": 3, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "baidu", "rank": 4, "title": "张雪把县委书记丢河里了", "hot_value": 7520623, "duration": 4800, "top_rank_today": 4, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "baidu", "rank": 5, "title": "蒯曼2-3不敌张本美和无缘决赛", "hot_value": 7425769, "duration": 540, "top_rank_today": 5, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "baidu", "rank": 6, "title": "麻阳村民：村里人最多的一天", "hot_value": 7331249, "duration": 6900, "top_rank_today": 5, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "baidu", "rank": 7, "title": "蓉城球迷戴血压仪 目睹6次丢冠军点", "hot_value": 7232864, "duration": 6360, "top_rank_today": 7, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "baidu", "rank": 8, "title": "张雪和县委书记喷香槟庆祝破纪录", "hot_value": 7135687, "duration": 8280, "top_rank_today": 8, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "baidu", "rank": 9, "title": "温瑞博0-3张本智和 无缘决赛", "hot_value": 7042251, "duration": 600, "top_rank_today": 9, "fetched_at": "2026-10-25T15:50:07"}
+{"source": "baidu", "rank": 10, "title": "谷爱凌时隔10年再到苏州逛园林买旗袍", "hot_value": 6948668, "duration": 13080, "top_rank_today": 5, "fetched_at": "2026-10-25T15:50:07"}
 ```
