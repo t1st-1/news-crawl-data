@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-11-05 15:50:07
+更新时间：2026-11-06 15:50:07
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "黄之锋再判10年", "hot_value": 1397925, "duration": 4620, "top_rank_today": 1, "fetched_at": "2026-11-05T15:50:04"}
-{"source": "weibo", "rank": 2, "title": "AI短剧持械入宋剧情太牛", "hot_value": 955089, "duration": 4500, "top_rank_today": 2, "fetched_at": "2026-11-05T15:50:04"}
-{"source": "weibo", "rank": 3, "title": "第九届进博会亮点扎堆", "hot_value": 824665, "duration": 18240, "top_rank_today": 3, "fetched_at": "2026-11-05T15:50:04"}
-{"source": "weibo", "rank": 4, "title": "厉娜说和许飞不会成为朋友", "hot_value": 824191, "duration": 8160, "top_rank_today": 4, "fetched_at": "2026-11-05T15:50:04"}
-{"source": "weibo", "rank": 5, "title": "独生子女不一定能继承父母全部遗产", "hot_value": 806218, "duration": 3360, "top_rank_today": 5, "fetched_at": "2026-11-05T15:50:04"}
-{"source": "weibo", "rank": 6, "title": "文吉儿觉得收下钱是帮王子璇翻篇", "hot_value": 784992, "duration": 1140, "top_rank_today": 4, "fetched_at": "2026-11-05T15:50:04"}
-{"source": "weibo", "rank": 7, "title": "克莱绝杀快船", "hot_value": 536207, "duration": 3840, "top_rank_today": 6, "fetched_at": "2026-11-05T15:50:04"}
-{"source": "weibo", "rank": 8, "title": "文班亚马52分24板8帽", "hot_value": 522914, "duration": 6360, "top_rank_today": 1, "fetched_at": "2026-11-05T15:50:04"}
-{"source": "weibo", "rank": 9, "title": "白小纯青稚不是PEL递上去的第一对", "hot_value": 503980, "duration": 1800, "top_rank_today": 7, "fetched_at": "2026-11-05T15:50:04"}
-{"source": "weibo", "rank": 10, "title": "芒果今年已爆六部综艺", "hot_value": 474676, "duration": 14220, "top_rank_today": 4, "fetched_at": "2026-11-05T15:50:04"}
-{"source": "douyin", "rank": 1, "title": "GEN战胜LYON挺进半决赛", "hot_value": 12105221, "duration": 26280, "top_rank_today": 1, "fetched_at": "2026-11-05T15:50:05"}
-{"source": "douyin", "rank": 2, "title": "你怎么舍得让有趣的知识流走", "hot_value": 11932710, "duration": 6240, "top_rank_today": 2, "fetched_at": "2026-11-05T15:50:05"}
-{"source": "douyin", "rank": 3, "title": "读懂31省份三季报三大看点", "hot_value": 11104019, "duration": 17880, "top_rank_today": 3, "fetched_at": "2026-11-05T15:50:05"}
-{"source": "douyin", "rank": 4, "title": "马兴瑞被提起公诉", "hot_value": 11016372, "duration": 20580, "top_rank_today": 4, "fetched_at": "2026-11-05T15:50:05"}
-{"source": "douyin", "rank": 5, "title": "马刺险胜独行侠", "hot_value": 10425651, "duration": 7920, "top_rank_today": 5, "fetched_at": "2026-11-05T15:50:05"}
-{"source": "douyin", "rank": 6, "title": "一道热乎菜开启各地冬天", "hot_value": 10335989, "duration": 25560, "top_rank_today": 2, "fetched_at": "2026-11-05T15:50:05"}
-{"source": "douyin", "rank": 7, "title": "福建舰电磁弹射实战价值解析", "hot_value": 9238802, "duration": 21180, "top_rank_today": 6, "fetched_at": "2026-11-05T15:50:05"}
-{"source": "douyin", "rank": 8, "title": "盘点影响2027经济走向的大事件", "hot_value": 9223885, "duration": 30480, "top_rank_today": 8, "fetched_at": "2026-11-05T15:50:05"}
-{"source": "douyin", "rank": 9, "title": "一件单品穿两季穿搭技巧", "hot_value": 9187294, "duration": 26100, "top_rank_today": 9, "fetched_at": "2026-11-05T15:50:05"}
-{"source": "douyin", "rank": 10, "title": "森林狼力克火箭", "hot_value": 9183377, "duration": 12720, "top_rank_today": 7, "fetched_at": "2026-11-05T15:50:05"}
-{"source": "toutiao", "rank": 1, "title": "马兴瑞被提起公诉", "hot_value": 14810970, "duration": 20580, "top_rank_today": 1, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "toutiao", "rank": 2, "title": "黄之锋再获刑10年", "hot_value": 19992718, "duration": 5940, "top_rank_today": 2, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "toutiao", "rank": 3, "title": "历史昭示未来 奋斗成就伟业", "hot_value": 16368653, "duration": 16020, "top_rank_today": 3, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "toutiao", "rank": 4, "title": "芒果TV崩了", "hot_value": 18090159, "duration": 3600, "top_rank_today": 1, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "toutiao", "rank": 5, "title": "文班亚马52分24板8帽", "hot_value": 13401519, "duration": 2820, "top_rank_today": 4, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "toutiao", "rank": 6, "title": "厕所偷拍者不乏高知人群、公司高管", "hot_value": 12126196, "duration": 7800, "top_rank_today": 4, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "toutiao", "rank": 7, "title": "高市祝贺日本书法申遗新进展引争议", "hot_value": 10972236, "duration": 4680, "top_rank_today": 7, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "toutiao", "rank": 8, "title": "多品牌金饰报价超1200元", "hot_value": 8983307, "duration": 2400, "top_rank_today": 5, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "toutiao", "rank": 9, "title": "专家：我国股市稳定发展前景没有改变", "hot_value": 8128432, "duration": 3660, "top_rank_today": 9, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "toutiao", "rank": 10, "title": "张朝阳：算法推荐容易让人越看越窄", "hot_value": 6021691, "duration": 13560, "top_rank_today": 2, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "baidu", "rank": 1, "title": "38岁男子被骗到缅甸因太老卖不掉", "hot_value": 7808795, "duration": 5100, "top_rank_today": 1, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "baidu", "rank": 2, "title": "黄之锋再获刑10年", "hot_value": 7713851, "duration": 3120, "top_rank_today": 2, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "baidu", "rank": 3, "title": "透过丰收景象看到“三个一”", "hot_value": 7616350, "duration": 17700, "top_rank_today": 3, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "baidu", "rank": 4, "title": "红果短剧迎来新对手", "hot_value": 7524063, "duration": 5160, "top_rank_today": 4, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "baidu", "rank": 5, "title": "糖葫芦的名字比咒语还长", "hot_value": 7425116, "duration": 7920, "top_rank_today": 5, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "baidu", "rank": 6, "title": "999感冒灵被夸“有眼光”", "hot_value": 7329725, "duration": 10560, "top_rank_today": 4, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "baidu", "rank": 7, "title": "发错骨灰殡仪馆馆长被免职", "hot_value": 7234960, "duration": 1680, "top_rank_today": 7, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "baidu", "rank": 8, "title": "女厕偷拍者中有女性甚至夫妻", "hot_value": 7139767, "duration": 4080, "top_rank_today": 8, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "baidu", "rank": 9, "title": "《嫁金钗》忘删AI水印背后的真问题", "hot_value": 7043701, "duration": 6180, "top_rank_today": 9, "fetched_at": "2026-11-05T15:50:06"}
-{"source": "baidu", "rank": 10, "title": "A股收盘：全市场超4800只个股上涨", "hot_value": 6949656, "duration": 2520, "top_rank_today": 7, "fetched_at": "2026-11-05T15:50:06"}
+{"source": "weibo", "rank": 1, "title": "商南命案嫌犯孙某已死亡", "hot_value": 1395152, "duration": 4860, "top_rank_today": 1, "fetched_at": "2026-11-06T15:50:04"}
+{"source": "weibo", "rank": 2, "title": "青稚意识到摄像还在拍又去厕所哭了", "hot_value": 884380, "duration": 900, "top_rank_today": 2, "fetched_at": "2026-11-06T15:50:04"}
+{"source": "weibo", "rank": 3, "title": "2026世界互联网大会解锁未来生活", "hot_value": 809783, "duration": 3960, "top_rank_today": 3, "fetched_at": "2026-11-06T15:50:04"}
+{"source": "weibo", "rank": 4, "title": "终于知道厉娜为什么觉得许飞不真实了", "hot_value": 784619, "duration": 6840, "top_rank_today": 4, "fetched_at": "2026-11-06T15:50:04"}
+{"source": "weibo", "rank": 5, "title": "萝卜快跑逼出乘客路怒症", "hot_value": 381808, "duration": 6420, "top_rank_today": 2, "fetched_at": "2026-11-06T15:50:04"}
+{"source": "weibo", "rank": 6, "title": "王子璇 文吉儿", "hot_value": 379627, "duration": 6900, "top_rank_today": 6, "fetched_at": "2026-11-06T15:50:04"}
+{"source": "weibo", "rank": 7, "title": "孙亚龙希望iG和BLG会师决赛", "hot_value": 361332, "duration": 2400, "top_rank_today": 5, "fetched_at": "2026-11-06T15:50:04"}
+{"source": "weibo", "rank": 8, "title": "女子婚礼当天被酒店要求婚房借他人", "hot_value": 316725, "duration": 10080, "top_rank_today": 2, "fetched_at": "2026-11-06T15:50:04"}
+{"source": "weibo", "rank": 9, "title": "ShowMaker回应不敌BLG", "hot_value": 316654, "duration": 8400, "top_rank_today": 2, "fetched_at": "2026-11-06T15:50:04"}
+{"source": "weibo", "rank": 10, "title": "商南3死2伤命案因情感纠纷引发", "hot_value": 316370, "duration": 960, "top_rank_today": 9, "fetched_at": "2026-11-06T15:50:04"}
+{"source": "douyin", "rank": 1, "title": "BLG战胜DK晋级半决赛", "hot_value": 11864985, "duration": 25920, "top_rank_today": 1, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "douyin", "rank": 2, "title": "降温了羽绒服先穿为敬", "hot_value": 11175944, "duration": 28260, "top_rank_today": 2, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "douyin", "rank": 3, "title": "进博会里的十五五脚步", "hot_value": 11108248, "duration": 18120, "top_rank_today": 3, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "douyin", "rank": 4, "title": "东风61已列装火箭军常态参训", "hot_value": 10929474, "duration": 29460, "top_rank_today": 2, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "douyin", "rank": 5, "title": "你怎么舍得让有趣的知识流走", "hot_value": 10281219, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "douyin", "rank": 6, "title": "路漫漫终有归处", "hot_value": 10228647, "duration": 57000, "top_rank_today": 2, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "douyin", "rank": 7, "title": "库里升至历史得分榜第17位", "hot_value": 9107500, "duration": 10920, "top_rank_today": 7, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "douyin", "rank": 8, "title": "陕西商南命案嫌犯已死亡", "hot_value": 9063256, "duration": 3900, "top_rank_today": 8, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "douyin", "rank": 9, "title": "黄金后市怎么走", "hot_value": 8939898, "duration": 44880, "top_rank_today": 8, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "douyin", "rank": 10, "title": "范争一无缘国锦赛决赛", "hot_value": 8852807, "duration": 17520, "top_rank_today": 8, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "toutiao", "rank": 1, "title": "独生子女不一定能继承父母全部遗产", "hot_value": 8587177, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "toutiao", "rank": 2, "title": "“女老虎”余艳红主动投案被查", "hot_value": 11591477, "duration": 20280, "top_rank_today": 2, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "toutiao", "rank": 3, "title": "在第九届进博会和未来相遇", "hot_value": 10488402, "duration": 18240, "top_rank_today": 3, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "toutiao", "rank": 4, "title": "黄仁勋个人财富跌出世界前十", "hot_value": 9490299, "duration": 8340, "top_rank_today": 4, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "toutiao", "rank": 5, "title": "存款利率拐点来了？有储户果断存500万", "hot_value": 7030586, "duration": 1260, "top_rank_today": 5, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "toutiao", "rank": 6, "title": "陕西商南命案嫌犯孙某自杀身亡", "hot_value": 7769999, "duration": 3960, "top_rank_today": 6, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "toutiao", "rank": 7, "title": "大东方触及涨停板", "hot_value": 6361537, "duration": 4260, "top_rank_today": 5, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "toutiao", "rank": 8, "title": "《后会友期》为什么能大火", "hot_value": 5756157, "duration": 5880, "top_rank_today": 7, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "toutiao", "rank": 9, "title": "北京中小学将全部取消外送餐", "hot_value": 5208386, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "toutiao", "rank": 10, "title": "南京零元面馆爆火", "hot_value": 4264266, "duration": 14820, "top_rank_today": 1, "fetched_at": "2026-11-06T15:50:06"}
+{"source": "baidu", "rank": 1, "title": "存款利率拐点来了？有储户果断存500万", "hot_value": 7808744, "duration": 10860, "top_rank_today": 1, "fetched_at": "2026-11-06T15:50:07"}
+{"source": "baidu", "rank": 2, "title": "平板电脑卖不动了", "hot_value": 7713994, "duration": 16020, "top_rank_today": 1, "fetched_at": "2026-11-06T15:50:07"}
+{"source": "baidu", "rank": 3, "title": "进博会如何让养老更舒适", "hot_value": 7616161, "duration": 17820, "top_rank_today": 3, "fetched_at": "2026-11-06T15:50:07"}
+{"source": "baidu", "rank": 4, "title": "河北省发布暴雪橙色预警", "hot_value": 7520823, "duration": 3000, "top_rank_today": 4, "fetched_at": "2026-11-06T15:50:07"}
+{"source": "baidu", "rank": 5, "title": "10元快剪店把理发价格打下来了", "hot_value": 7425569, "duration": 8040, "top_rank_today": 5, "fetched_at": "2026-11-06T15:50:07"}
+{"source": "baidu", "rank": 6, "title": "警方通报：致3死2伤案嫌疑人自杀身亡", "hot_value": 7329406, "duration": 3120, "top_rank_today": 6, "fetched_at": "2026-11-06T15:50:07"}
+{"source": "baidu", "rank": 7, "title": "人都判缓刑了 还在住建局正常上班", "hot_value": 7233908, "duration": 7380, "top_rank_today": 4, "fetched_at": "2026-11-06T15:50:07"}
+{"source": "baidu", "rank": 8, "title": "换一袋盐 全球每年300万人因此得救", "hot_value": 7141595, "duration": 14520, "top_rank_today": 6, "fetched_at": "2026-11-06T15:50:07"}
+{"source": "baidu", "rank": 9, "title": "第一个拒绝吴磊拥抱的人出现了", "hot_value": 7042302, "duration": 3960, "top_rank_today": 9, "fetched_at": "2026-11-06T15:50:07"}
+{"source": "baidu", "rank": 10, "title": "年轻人最强嘴替是一位中年大叔", "hot_value": 6943268, "duration": 5700, "top_rank_today": 10, "fetched_at": "2026-11-06T15:50:07"}
 ```
