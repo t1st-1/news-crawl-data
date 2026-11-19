@@ -1,46 +1,46 @@
 # 热搜数据
 
-更新时间：2026-11-18 15:50:09
+更新时间：2026-11-19 15:50:10
 
 ```jsonl
-{"source": "weibo", "rank": 1, "title": "APEC", "hot_value": 1032108, "duration": 23640, "top_rank_today": 1, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "weibo", "rank": 2, "title": "文莱领导人握手中方安保1秒摘手套", "hot_value": 725853, "duration": 11400, "top_rank_today": 2, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "weibo", "rank": 3, "title": "APEC多场密集对话释放大量前沿信息", "hot_value": 596257, "duration": 720, "top_rank_today": 3, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "weibo", "rank": 4, "title": "深圳机场一眼望去全是专机", "hot_value": 592117, "duration": 7620, "top_rank_today": 2, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "weibo", "rank": 5, "title": "湖人黄蜂加时", "hot_value": 588174, "duration": 2940, "top_rank_today": 5, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "weibo", "rank": 6, "title": "BLG为Viper保留位置", "hot_value": 579911, "duration": 7680, "top_rank_today": 6, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "weibo", "rank": 7, "title": "普京说感谢中国", "hot_value": 576235, "duration": 9480, "top_rank_today": 2, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "weibo", "rank": 8, "title": "小城良方早春晴朗AI后期占比30%", "hot_value": 569203, "duration": 1080, "top_rank_today": 8, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "weibo", "rank": 9, "title": "APEC最高级别会议为何叫作非正式", "hot_value": 564263, "duration": 840, "top_rank_today": 9, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "weibo", "rank": 10, "title": "王安宇说上花少是因为想旅行", "hot_value": 555704, "duration": 240, "top_rank_today": 10, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "douyin", "rank": 1, "title": "APEC工商领导人峰会开幕式举行", "hot_value": 12086845, "duration": 19080, "top_rank_today": 1, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "douyin", "rank": 2, "title": "普京抵达深圳", "hot_value": 11561656, "duration": 30660, "top_rank_today": 1, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "douyin", "rank": 3, "title": "APEC工商界代表参会热度高", "hot_value": 11363847, "duration": 780, "top_rank_today": 3, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "douyin", "rank": 4, "title": "特朗普启程前往深圳", "hot_value": 11238478, "duration": 2580, "top_rank_today": 4, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "douyin", "rank": 5, "title": "APEC峰会有哪些领导人参加", "hot_value": 10550354, "duration": 57000, "top_rank_today": 1, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "douyin", "rank": 6, "title": "韩国总统李在明抵达深圳", "hot_value": 10529130, "duration": 26640, "top_rank_today": 2, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "douyin", "rank": 7, "title": "北京的银杏雨你淋到了吗", "hot_value": 9407652, "duration": 7680, "top_rank_today": 6, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "douyin", "rank": 8, "title": "现货黄金跌破3800美元关口", "hot_value": 9352628, "duration": 12060, "top_rank_today": 7, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "douyin", "rank": 9, "title": "我国国民经济延续向新向优态势", "hot_value": 9349138, "duration": 780, "top_rank_today": 9, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "douyin", "rank": 10, "title": "GTA6上线前的我", "hot_value": 9326791, "duration": 8520, "top_rank_today": 8, "fetched_at": "2026-11-18T15:50:04"}
-{"source": "toutiao", "rank": 1, "title": "深圳机场停满各国领导人专机", "hot_value": 39724563, "duration": 6540, "top_rank_today": 1, "fetched_at": "2026-11-18T15:50:08"}
-{"source": "toutiao", "rank": 2, "title": "央视因信号不好弃播开拓者比赛", "hot_value": 24094165, "duration": 3480, "top_rank_today": 2, "fetched_at": "2026-11-18T15:50:08"}
-{"source": "toutiao", "rank": 3, "title": "中国与亚太经济体合作故事", "hot_value": 32523721, "duration": 960, "top_rank_today": 3, "fetched_at": "2026-11-18T15:50:08"}
-{"source": "toutiao", "rank": 4, "title": "普京说感谢中国", "hot_value": 35944271, "duration": 7260, "top_rank_today": 2, "fetched_at": "2026-11-18T15:50:08"}
-{"source": "toutiao", "rank": 5, "title": "泰国总理抵达深圳下机时敬礼回应", "hot_value": 10826206, "duration": 12840, "top_rank_today": 2, "fetched_at": "2026-11-18T15:50:08"}
-{"source": "toutiao", "rank": 6, "title": "中方回应英伟达停止向华供应H200芯片", "hot_value": 7257023, "duration": 900, "top_rank_today": 6, "fetched_at": "2026-11-18T15:50:08"}
-{"source": "toutiao", "rank": 7, "title": "特朗普启程前往深圳", "hot_value": 29428680, "duration": 2820, "top_rank_today": 7, "fetched_at": "2026-11-18T15:50:08"}
-{"source": "toutiao", "rank": 8, "title": "深圳摆下两张桌有何智慧", "hot_value": 4864528, "duration": 2820, "top_rank_today": 6, "fetched_at": "2026-11-18T15:50:08"}
-{"source": "toutiao", "rank": 9, "title": "外国人士热议APEC 共话新期待", "hot_value": 17849396, "duration": 660, "top_rank_today": 9, "fetched_at": "2026-11-18T15:50:08"}
-{"source": "toutiao", "rank": 10, "title": "普京盛赞深圳", "hot_value": 26628170, "duration": 2940, "top_rank_today": 7, "fetched_at": "2026-11-18T15:50:08"}
-{"source": "baidu", "rank": 1, "title": "习近平会见俄罗斯总统普京", "hot_value": 7808233, "duration": 13200, "top_rank_today": 1, "fetched_at": "2026-11-18T15:50:09"}
-{"source": "baidu", "rank": 2, "title": "李在明随行人员开启“拍拍拍”模式", "hot_value": 7711997, "duration": 12720, "top_rank_today": 2, "fetched_at": "2026-11-18T15:50:09"}
-{"source": "baidu", "rank": 3, "title": "共绘新图景 共话新机遇", "hot_value": 7619467, "duration": 600, "top_rank_today": 3, "fetched_at": "2026-11-18T15:50:09"}
-{"source": "baidu", "rank": 4, "title": "文莱领导人握手前 中方安保1秒摘手套", "hot_value": 7523136, "duration": 5220, "top_rank_today": 4, "fetched_at": "2026-11-18T15:50:09"}
-{"source": "baidu", "rank": 5, "title": "没人看电视了 为何TCL电子还那么赚", "hot_value": 7425067, "duration": 4440, "top_rank_today": 5, "fetched_at": "2026-11-18T15:50:09"}
-{"source": "baidu", "rank": 6, "title": "深圳宝安机场停满领导人专机", "hot_value": 7327754, "duration": 10920, "top_rank_today": 4, "fetched_at": "2026-11-18T15:50:09"}
-{"source": "baidu", "rank": 7, "title": "特朗普启程前往深圳参加APEC会议", "hot_value": 7237798, "duration": 2760, "top_rank_today": 7, "fetched_at": "2026-11-18T15:50:09"}
-{"source": "baidu", "rank": 8, "title": "网红“豹警官”胖回原形", "hot_value": 7137111, "duration": 3960, "top_rank_today": 8, "fetched_at": "2026-11-18T15:50:09"}
-{"source": "baidu", "rank": 9, "title": "三座城、三次APEC会议见证了什么", "hot_value": 7042242, "duration": 600, "top_rank_today": 9, "fetched_at": "2026-11-18T15:50:09"}
-{"source": "baidu", "rank": 10, "title": "博主回村拍老人涨粉400万", "hot_value": 6950663, "duration": 6360, "top_rank_today": 10, "fetched_at": "2026-11-18T15:50:09"}
+{"source": "weibo", "rank": 1, "title": "中俄美三国元首会晤", "hot_value": 1710571, "duration": 1680, "top_rank_today": 1, "fetched_at": "2026-11-19T15:50:04"}
+{"source": "weibo", "rank": 2, "title": "APEC领导人休息室温馨画面", "hot_value": 1107283, "duration": 5580, "top_rank_today": 2, "fetched_at": "2026-11-19T15:50:04"}
+{"source": "weibo", "rank": 3, "title": "亚太创新合作呈现普惠新特点", "hot_value": 1088388, "duration": 300, "top_rank_today": 3, "fetched_at": "2026-11-19T15:50:04"}
+{"source": "weibo", "rank": 4, "title": "特朗普会见普京时打趣问这是谁", "hot_value": 1084832, "duration": 1800, "top_rank_today": 4, "fetched_at": "2026-11-19T15:50:04"}
+{"source": "weibo", "rank": 5, "title": "中美元首深圳会晤", "hot_value": 776280, "duration": 11280, "top_rank_today": 1, "fetched_at": "2026-11-19T15:50:04"}
+{"source": "weibo", "rank": 6, "title": "竞燃之夜红毯", "hot_value": 679072, "duration": 960, "top_rank_today": 6, "fetched_at": "2026-11-19T15:50:04"}
+{"source": "weibo", "rank": 7, "title": "微博竞燃之夜", "hot_value": 617353, "duration": 17460, "top_rank_today": 6, "fetched_at": "2026-11-19T15:50:04"}
+{"source": "weibo", "rank": 8, "title": "许飞 我们没有掰", "hot_value": 459779, "duration": 5880, "top_rank_today": 6, "fetched_at": "2026-11-19T15:50:04"}
+{"source": "weibo", "rank": 9, "title": "APEC中国年进入高光时刻", "hot_value": 458206, "duration": 240, "top_rank_today": 9, "fetched_at": "2026-11-19T15:50:04"}
+{"source": "weibo", "rank": 10, "title": "甄嬛传剧组故意没让颖儿学礼仪", "hot_value": 455844, "duration": 13680, "top_rank_today": 6, "fetched_at": "2026-11-19T15:50:04"}
+{"source": "douyin", "rank": 1, "title": "中俄美元首会晤即将举行", "hot_value": 11462454, "duration": 420, "top_rank_today": 1, "fetched_at": "2026-11-19T15:50:07"}
+{"source": "douyin", "rank": 2, "title": "普京特朗普欢迎晚宴互动握手", "hot_value": 11442021, "duration": 22800, "top_rank_today": 2, "fetched_at": "2026-11-19T15:50:07"}
+{"source": "douyin", "rank": 3, "title": "为何都说APEC需要中国", "hot_value": 11095600, "duration": 420, "top_rank_today": 3, "fetched_at": "2026-11-19T15:50:07"}
+{"source": "douyin", "rank": 4, "title": "白宫发布特朗普访华视频", "hot_value": 10954674, "duration": 9300, "top_rank_today": 4, "fetched_at": "2026-11-19T15:50:07"}
+{"source": "douyin", "rank": 5, "title": "APEC美食硬控各国来宾", "hot_value": 10381943, "duration": 20100, "top_rank_today": 4, "fetched_at": "2026-11-19T15:50:07"}
+{"source": "douyin", "rank": 6, "title": "澳大利亚总理发布逛深圳超市照片", "hot_value": 10251022, "duration": 60, "top_rank_today": 6, "fetched_at": "2026-11-19T15:50:07"}
+{"source": "douyin", "rank": 7, "title": "美联储沃勒称12月或加息50基点", "hot_value": 9137818, "duration": 17460, "top_rank_today": 6, "fetched_at": "2026-11-19T15:50:07"}
+{"source": "douyin", "rank": 8, "title": "俄美专机在深圳机场同框", "hot_value": 9030476, "duration": 18480, "top_rank_today": 6, "fetched_at": "2026-11-19T15:50:07"}
+{"source": "douyin", "rank": 9, "title": "世界看深圳 深圳看未来", "hot_value": 9008807, "duration": 420, "top_rank_today": 9, "fetched_at": "2026-11-19T15:50:07"}
+{"source": "douyin", "rank": 10, "title": "191式自动步枪首次全记录式开箱", "hot_value": 8910759, "duration": 8220, "top_rank_today": 6, "fetched_at": "2026-11-19T15:50:07"}
+{"source": "toutiao", "rank": 1, "title": "APEC围巾图案取自“中国年”会标", "hot_value": 48888298, "duration": 5820, "top_rank_today": 1, "fetched_at": "2026-11-19T15:50:08"}
+{"source": "toutiao", "rank": 2, "title": "中国外交跑腿天团全是中国造", "hot_value": 5416977, "duration": 11580, "top_rank_today": 2, "fetched_at": "2026-11-19T15:50:08"}
+{"source": "toutiao", "rank": 3, "title": "期待中国方案引领亚太合作", "hot_value": 54029925, "duration": 360, "top_rank_today": 3, "fetched_at": "2026-11-19T15:50:08"}
+{"source": "toutiao", "rank": 4, "title": "特朗普和普京会晤时开了个玩笑", "hot_value": 65992299, "duration": 7740, "top_rank_today": 2, "fetched_at": "2026-11-19T15:50:08"}
+{"source": "toutiao", "rank": 5, "title": "深圳市民在街头偶遇各国政要", "hot_value": 32770806, "duration": 960, "top_rank_today": 2, "fetched_at": "2026-11-19T15:50:08"}
+{"source": "toutiao", "rank": 6, "title": "老中医教你冬天懒人养生法", "hot_value": 2434005, "duration": 2640, "top_rank_today": 6, "fetched_at": "2026-11-19T15:50:08"}
+{"source": "toutiao", "rank": 7, "title": "普京乘电梯时主动礼让文莱苏丹", "hot_value": 59712302, "duration": 2700, "top_rank_today": 4, "fetched_at": "2026-11-19T15:50:08"}
+{"source": "toutiao", "rank": 8, "title": "ShenzhenTravel在外网火了", "hot_value": 12055705, "duration": 3540, "top_rank_today": 2, "fetched_at": "2026-11-19T15:50:08"}
+{"source": "toutiao", "rank": 9, "title": "APEC礼物别出心裁", "hot_value": 29652251, "duration": 360, "top_rank_today": 9, "fetched_at": "2026-11-19T15:50:08"}
+{"source": "toutiao", "rank": 10, "title": "特朗普感激中国", "hot_value": 44235961, "duration": 16020, "top_rank_today": 2, "fetched_at": "2026-11-19T15:50:08"}
+{"source": "baidu", "rank": 1, "title": "习近平将主持中俄美元首会晤", "hot_value": 7807877, "duration": 420, "top_rank_today": 1, "fetched_at": "2026-11-19T15:50:10"}
+{"source": "baidu", "rank": 2, "title": "习近平会见美国总统特朗普", "hot_value": 7714238, "duration": 8160, "top_rank_today": 1, "fetched_at": "2026-11-19T15:50:10"}
+{"source": "baidu", "rank": 3, "title": "APEC时间 外媒记者点赞深圳", "hot_value": 7619126, "duration": 18600, "top_rank_today": 3, "fetched_at": "2026-11-19T15:50:10"}
+{"source": "baidu", "rank": 4, "title": "APEC领导人互相整理围巾", "hot_value": 7520436, "duration": 10080, "top_rank_today": 2, "fetched_at": "2026-11-19T15:50:10"}
+{"source": "baidu", "rank": 5, "title": "深圳市民在街头偶遇各国政要", "hot_value": 7425974, "duration": 9420, "top_rank_today": 5, "fetched_at": "2026-11-19T15:50:10"}
+{"source": "baidu", "rank": 6, "title": "特朗普见普京时开玩笑问“他是谁”", "hot_value": 7333500, "duration": 3660, "top_rank_today": 6, "fetched_at": "2026-11-19T15:50:10"}
+{"source": "baidu", "rank": 7, "title": "中方回应高市早苗礼宾安排", "hot_value": 7235615, "duration": 720, "top_rank_today": 7, "fetched_at": "2026-11-19T15:50:10"}
+{"source": "baidu", "rank": 8, "title": "普京乘电梯时主动礼让文莱苏丹", "hot_value": 7136010, "duration": 1320, "top_rank_today": 8, "fetched_at": "2026-11-19T15:50:10"}
+{"source": "baidu", "rank": 9, "title": "从一枚车厘子读懂亚太合作的甜头", "hot_value": 7045847, "duration": 18360, "top_rank_today": 9, "fetched_at": "2026-11-19T15:50:10"}
+{"source": "baidu", "rank": 10, "title": "特朗普称赞习主席：您是了不起的领袖", "hot_value": 6949830, "duration": 60, "top_rank_today": 10, "fetched_at": "2026-11-19T15:50:10"}
 ```
